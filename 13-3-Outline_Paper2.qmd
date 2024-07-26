@@ -1,0 +1,91 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**IV. Writing Paper 2**
+
+- Get feedback on the outlines
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+(ASSIGNMENT: Submit outline with at least two pieces of high quality evidence for each premise in your argument)
+
+<br>
+
+Prep for Class
+
+1. Canvas module set up for assignment?
+
+2. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+    
+<br>
+
+Life Check-in
+
+EVERYBODY DOING OK?
+
+FIRST WEEK HIGHS AND LOWS?
+- CLASSES TO SWAP OUT FOR SOMETHING NEW?
+
+NEED ANYTHING FROM THE CLASS?
+
+<br>
+
+2. Current Events Check-in
+
+ANY BIG STORIES BREAKING OVER THE WEEKEND?
+
+- ANYTHING WE SHOULD BE KEEPING OUR EYES ON?
+
+:::
+
+
+## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+ASSIGNMENT: Submit outline with at least two pieces of high quality evidence for each premise in your argument
+
+
+
+
+
+## TBD {background-image="Images/background-gentle_lines_v3.png" .center}
+
+::: notes
+
+TBD
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+ASSIGNMENT - Submit in-process rough draft of your paper as a Google Doc
+
+
+::: notes
+
+TBD
+
+:::

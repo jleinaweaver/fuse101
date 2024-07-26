@@ -1,0 +1,166 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**II. Writing a Convincing Argument**
+
+- Reviewing and revising paper drafts
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+M: (ASSIGNMENT - Submit in-process rough draft of your paper as a Google Doc and read Graff and Birkenstein (2018) chapter 9) FA21 6.1 - Pairs read each others' drafts and give feedback; Repeat with new partner!
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+<br>
+
+Current Events Check-in
+
+SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
+
+- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
+
+- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+::: notes
+
+ANY QUESTIONS ON THE ASSIGNMENT PROMPT?
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+1. Read chapter 9 of Graff and Birkenstein (2018),
+
+2. Write a rough draft of your paper,
+
+3. Upload your draft to Google Drive, and
+
+4. Submit the link before class Monday
+
+::: notes
+
+EVERYBODY READY TO GO TODAY?
+
+<br>
+
+Let's get into groups of three today.
+
+New people!!
+
+Your task today is to read and discuss the draft papers in your group.
+
+:::
+
+
+
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+- **Logical**: Do the premises support the conclusion?
+
+- **Clear**: Is the paper easy to read and understand?
+
+- **Credible**: Is there enough high quality evidence (cited using APA)?
+
+- **Critical**: Does the paper address weaknesses in the argument (e.g. logic, evidence, consider counter-arguments)?
+
+::: notes
+
+Remember our rubric!
+
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+<br>
+
+**A convincing argument is logical, clear, credible and critical.**
+
+1. Where is the paper not clear enough?
+
+2. Where is the paper not convincing enough? (e.g.evidence, counter-arguments)
+
+::: notes
+
+My advice: Don't try to rewrite their paper or advise them to write it the way you would.
+
+Your job, much harder, is to help them make THEIR paper better.
+
+Help them figure out the strongest version of their paper in their voice.
+
+<br>
+
+Group review done? Reflect on the feedback and write, write, write!
+
+
+
+* Come back together at the end *
+
+LESSONS SO FAR? THINGS WE ARE STRUGGLING WITH?
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+1. Reflect on the feedback and revise your paper to make it more convincing
+
+2. Make sure your revised draft is available to share using your Google Doc link
+
+::: notes
+
+For Wed, reflect on the feedback and revise your draft
+
+Upload your revised draft onto Google Doc
+
+Make sure to have your laptop Wednesday
+
+:::

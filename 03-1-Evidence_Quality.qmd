@@ -1,0 +1,286 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**I. Developing our Skills Toolbox**
+
+- Consolidate and strengthen our practice arguments using evidence and critical analysis
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+W: (ASSIGNMENT, Engle 2016 and Kovach & Rosenstiel (2011) chapter 3) FA21 3.1 - Groups consolidate/revise their argument diagram and add evidence; assign for next class is to prep rebuttals for other groups' arguments
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+- REFRESHING LONG WEEKEND?
+
+- NEW EXPERT TIPS?
+
+<br>
+
+WHAT'S GOING ON ON CAMPUS NEWS-WISE?
+
+- ANYTHING HYPER-LOCAL WE SHOULD BE KEYED IN TO?
+
+<br>
+
+notes from last class: Defining importance
+
+- Has a long aftermath
+- Big economic impacts
+- Impacts large number of people
+- Death and destruction
+- Causes worry/unrest
+- Impacts the powerful
+- Changes public opinion
+- Causes us to question our leadership
+
+:::
+
+
+
+## APA Style {background-image="Images/background-gentle_lines_v3.png" .center}
+
+**Books**
+
+Author, A. A. (Year of publication). *Title of work: Capital letter also for subtitle*. Publisher Name. DOI
+
+**Journals, Magazines, Newspapers**
+
+Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. *Title of Periodical*, volume number(issue number), pages. DOI
+
+**Webpage / Online Content**
+
+Lastname, F. M. (Year, Month Date). *Title of page*. Site name. URL
+
+::: notes
+
+Everybody take a moment to skim all the submissions.
+
+Make sure you know what all the options are AND check to make sure all of the citations are in APA format.
+
+ANY CITATIONS WE NEED TO CORRECT?
+
+WHAT QUESTIONS DO YOU HAVE ABOUT APA FORMATTING?
+
+
+
+
+Ok, now that you know the options I want you to pick what you think is the most important option.
+
+It does not have to be the one you submitted.
+
+:::
+
+
+
+
+
+
+
+## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+1. Group selects **one argument** and agrees on the premises (3 minimum)
+
+2. Each member of the group must bring to class **one piece of "high quality" evidence for each premise**
+
+3. Submit your evidence (APA format) **before** class Wednesday
+
+**Notes**
+
+- See Engle (2018) and Kovach \& Rosenstiel (2011) chapter 3 for advice on high quality evidence
+
+::: notes
+
+**IS EVERYBODY READY TO GO ON THIS?**
+
+:::
+
+
+## Organize your Argument {background-image="Images/background-gentle_lines_v3.png" .center}
+
+Premise 1
+
+- Summarize the evidence supporting premise 1 (with citations)
+
+Premise 2
+
+- Summarize the evidence supporting premise 1 (with citations)
+
+Premise 3
+
+- Summarize the evidence supporting premise 1 (with citations)
+
+Premise X
+
+- etc.
+
+Therefore, X is the most important current event happening right now.
+
+::: notes
+
+Groups, get together to review everybody's evidence and consolidate your argument diagrams.
+
+<br>
+
+Your job is to submit a single, consolidated version of your argument that includes:
+
+1. clear premises (complete sentences), and
+
+2. A couple sentences summarizing the evidence supporting each premise
+
+<br>
+
+**SLIDE**: Let me give you an example of what I mean by a sentence "summarizing the evidence"
+
+:::
+
+
+
+## Summarizing the Evidence {background-image="Images/background-gentle_lines_v3.png" .center}
+
+**Premise 1:** Hurricane X is the most important current event because it has had the largest impact on the lives of Americans in its path.
+
+**Evidence / Examples**
+
+1. A CNN article by on hurricane property damage
+2. A NYT article on hurricane deaths
+3. A Washington Post article on power outages
+
+::: notes
+
+Each group currently has something like this.
+
+- A series of premises that each have the evidence provided by the members of your group
+
+<br>
+
+What I'd like is a sentence or two that summarizes the evidence supporting each premise
+
+- **SLIDE**: Example
+
+:::
+
+
+
+## Paper Outline {background-image="Images/background-gentle_lines_v3.png" .center}
+
+Synthesizing the Evidence
+
+**Premise 1:** Hurricane X is the most important current event because it has had the largest impact on the lives of Americans in its path.
+
+**Evidence Summarized**
+
+Hurricane X caused $10 billion in property damages (Sullivan 2021), led to hospitals being shut down during a pandemic (Smith 2021) and killed 250 people (Bowers 2021).
+
+::: notes
+
+**Does this make sense?**
+
+<br>
+
+**QUESTIONS?**
+
+<br>
+
+**SLIDE**: Outline template
+
+:::
+
+
+
+
+## Submit your Argument {background-image="Images/background-gentle_lines_v3.png" .center}
+
+Premise 1
+
+- Summarize the evidence supporting premise 1 (with citations)
+
+Premise 2
+
+- Summarize the evidence supporting premise 1 (with citations)
+
+Premise 3
+
+- Summarize the evidence supporting premise 1 (with citations)
+
+Premise X
+
+- etc.
+
+Therefore, X is the most important current event happening right now.
+
+::: notes
+
+Get to it!
+
+<br>
+
+*Time Remains?*
+
+Groups, introduce us to your arguments!
+
+Briefly walk us through your logic and evidence.
+
+Class, pay attention to these arguments!
+
+These are the competition for your argument about "most" important.
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Review the arguments submitted by the other groups and prepare a rebuttal for each of them.
+
+**Note:** Use the advice in chapter 6 of Graff and Birkenstein (2018) to help you think about counter-arguments. 
+
+::: notes
+
+Assignment for Friday
+
+Review the arguments submitted by the other groups and prepare a rebuttal for each of them.
+
+In other words, be ready on Friday to explain why each of the arguments is wrong.
+
+They don't have the "most important" current event and it's your job to help them understand that.
+
+Use the advice in chapter 6 of Graff and Birkenstein (2018) to help you think about counter-arguments.
+
+QUESTIONS?
+
+:::
+

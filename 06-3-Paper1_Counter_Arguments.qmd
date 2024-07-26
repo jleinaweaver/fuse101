@@ -1,0 +1,185 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**II. Writing a Convincing Argument**
+
+- Adding more critical analysis to your drafts
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+W: brainstorming counter arguments in groups; road test a few for the class FA21 6.2
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+<br>
+
+Current Events Check-in
+
+SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
+
+- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
+
+- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+::: notes
+
+HOW ARE THE PAPER'S GOING?
+
+ANYTHING WE NEED TO ADDRESS?
+
+:::
+
+
+
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+- **Logical**: Do the premises support the conclusion?
+
+- **Clear**: Is the paper easy to read and understand?
+
+- **Credible**: Is there enough high quality evidence (cited using APA)?
+
+- **Critical**: Does the paper address weaknesses in the argument (e.g. logic, evidence, consider counter-arguments)?
+
+::: notes
+
+Today we focus on the fourth item in our rubric, critical analysis.
+
+WHAT DOES THIS MEAN? HOW DO WE DO THIS IN OUR ARGUMENT PAPERS?
+
+:::
+
+
+
+## Critical Analysis in an Argument Paper {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+ 
+1. Being as critical of your own work as you are of others
+
+    - e.g. Where is your logic and evidence weakest?
+
+::: notes
+
+Adding critical analysis to your argument paper means:
+
+(1. SLIDE)
+
+- Being as critical of our own argument and evidence as we are of other people's
+- e.g. Where is your logic and evidence weakest?
+- Identify those spots and shore them up
+- Add new evidence, explain the logic more completely, etc.
+
+:::
+
+
+## Critical Analysis in an Argument Paper {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+ 
+1. Being as critical of your own work as you are of others
+
+    - e.g. Where is your logic and evidence weakest?
+
+2. Addressing the strongest versions of any counter arguments
+
+::: notes
+
+REFRESH MY MEMORY, WHAT DO WE MEAN BY "STONGEST" VERSIONS?
+
+(No straw-men!)
+- Never present a competing argument in its weakest form just to defeat it.
+
+Much better to present a strong version if you can't best it.
+- We take the complexities of the world seriously. Be honest about that!
+
+QUESTIONS ON THIS?
+
+<br>
+
+*Form groups of three, new people!*
+
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+<br>
+
+**Critical** arguments acknowledge the limitations of our logic/evidence and address counter-arguments.
+
+::: notes
+
+Spend 10 minutes on each paper.
+
+Help each other brainstorm AND ADDRESS critiques of your argument.
+
+<br>
+
+*CLASS Report Back:*
+
+ANYTHING WE AS A CLASS CAN HELP YOU WITH?
+
+- STRUGGLING TO COME UP WITH COUNTERS OR AREAS IN YOUR PAPER NEEDING DEFENDING?
+
+:::
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+1. Add critical analysis to your paper (possibly a counter-arg paragraph before the conclusion), and 
+
+2. Make sure your revised draft is available to share using your Google Doc link
+
+::: notes
+
+TBD
+
+:::
+
+

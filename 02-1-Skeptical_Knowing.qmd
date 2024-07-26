@@ -1,0 +1,141 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**III. It's Election Time!**
+
+- The ways of skeptical knowing
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+W: The ways of skeptical knowing (Kovach & Rosenstiel (2011) ch3) FA21 1.2 on skeptical knowing, the types of journalism and how we protect ourselves; Prep them for both assignments next week since we have no class Friday
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+<br>
+
+Current Events Check-in
+
+SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
+
+- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
+
+- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+:::
+
+
+## {background-image="Images/01_3-NYT-Front_page.png" .center}
+
+::: notes
+
+TBD
+
+:::
+
+
+## {background-image="Images/01_3-drury_mirror.png}" .center}
+
+::: notes
+
+TBD
+
+:::
+
+
+## {background-image="Images/background-gentle_lines_v3.png}" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+```{r, fig.align='left'}
+knitr::include_graphics("Images/01_3-blur_cover.jpg")
+```
+:::
+
+::: {.column width="50%"}
+**Chapter 3**
+
+<br>
+
+**The Way of Skeptical Knowing:**
+
+**The Tradecraft of Verification**
+:::
+::::
+
+::: notes
+
+TBD
+
+:::
+
+
+
+## Kovach and Rosenstiel (2011) Chapter 3 {background-image="Images/background-gentle_lines_v3.png}" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+**Skeptical Knowing**
+
+1. Content type?
+2. Missing information?
+3. Believable sources?
+4. Evidence tested?
+5. Alternatives considered?
+6. Needed information included?
+:::
+
+::: {.column width="50%"}
+**Models of Journalism**
+
+1. Verification Journalism
+2. Assertion Journalism
+3. Affirmation Journalism
+4. Interest-group Journalism
+:::
+::::
+
+::: notes
+
+TBD
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+ASSIGNMENT - What does a second Biden term look like for the country and the world? Go find us evidence to evaluate this question! Get outside your bubble!
+

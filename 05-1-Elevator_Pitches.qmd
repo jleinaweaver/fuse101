@@ -1,0 +1,157 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**II. Writing a Convincing Argument**
+
+- Getting started on Paper 1
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+M: (ASSIGNMENT - ID the single "most important current event" of the last 18 years (e.g. your lifetime) that happened INSIDE the borders of the United States, NO OVERLAP) FA21 4.1 - Review citations and cases, practice elevator pitches
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Skip current events check-in to save time for elevator pitches
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+:::
+
+
+
+## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Bring a news story to class describing the single most important current event of the last 18 years.
+
+**Submit your evidence before class Monday**
+
+- Article published **at the time of the event**
+- Include an **APA** formatted reference, and 
+- a one sentence answer to the question "What specific event did you choose?"
+
+::: notes
+
+HAS EVERYBODY SUBMITTED THEIR NEWS STORY?
+
+WERE YOU ABLE TO FIND A NEWS STORY FROM THE TIME OF THE EVENT?
+
+:::
+
+
+
+## APA Style {background-image="Images/background-gentle_lines_v3.png" .center}
+
+**Books**
+
+Author, A. A. (Year of publication). *Title of work: Capital letter also for subtitle*. Publisher Name. DOI
+
+**Journals, Magazines, Newspapers**
+
+Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. *Title of Periodical*, volume number(issue number), pages. DOI
+
+**Webpage / Online Content**
+
+Lastname, F. M. (Year, Month Date). *Title of page*. Site name. URL
+
+::: notes
+
+Review all citations for correct APA formatting
+
+Fix those cites!
+
+:::
+
+
+
+
+## {background-image="Images/background-gentle_lines_v3.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/04_1-dewey_defeats_truman.jpg")
+```
+
+::: notes
+
+GIVEN THESE ARE SUPPOSED TO BE NEWS STORIES FROM THE TIME OF THE EVENT, ANY CONCERNS ABOUT THE QUALITY OF YOUR EVIDENCE?
+
+
+SHOULD WE BE MORE SKEPTICAL OF IN THE MOMENT REPORTING OR REFLECTIONS ON EVENTS THAT HAPPENED YEARS AGO? WHY?
+
+
+(All evidence "quality" depends on what you're trying to establish with it)
+
+- News of the time: Quotes, instant perceptions, tracking movment of people and resources
+
+- News years after the fact: Reflections on the event hopefully with expert context
+
+:::
+
+
+
+## {background-image="Images/background-gentle_lines_v3.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/04_1-elevator_pitch.png")
+```
+
+The most important current event of our lifetimes is X because...
+
+::: notes
+
+Take a sec to think about your chosen case and then each of you will make an elevator pitch of your argument to the class.
+
+Use no more than two minutes to sell us on your argument!
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+1. Did we miss something important?
+    - Everybody find and submit a second case! (no evidence needed)
+
+2. Make a personal top-five list.
+
+::: notes
+
+Reflect on all the cases and...
+
+1. Did we miss anything big?
+
+Everybody find us another case to consider (no evidence needed), submit it to the document under your current citation
+
+
+2. Reflect on all the options and make a personal top five list.
+
+Which of these events would you prioritize as the most important of the most important?
+
+:::
+

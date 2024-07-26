@@ -1,0 +1,202 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**II. Writing a Convincing Argument**
+
+- Working on Paper 1
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+F: (ASSIGNMENT - Pick your event for the paper and provide a short explanation why you picked it) FA21 4.3 - In class brainstorm 10 reasons, review lists, get and give feedback
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+<br>
+
+Current Events Check-in
+
+SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
+
+- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
+
+- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+:::
+
+
+## Paper 1 Prompt {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+**Assignment for Today:**
+
+Reflect on our options and pick your case, e.g. your answer to the question in the paper prompt.
+
+::: notes
+
+IS EVERYBODY READY TO GO ON THIS?
+
+<br>
+
+Because this is our first stab at writing a paper, we're going to spend the next few weeks working on this in class.
+
+Today we brainstorm argument diagrams.
+
+:::
+
+
+
+## Brainstorming your Argument {background-image="Images/background-gentle_lines_v3.png" .center}
+
+On a blank piece of paper write your thesis statement across the top:
+
+"X is the most important current event of the last 18 years."
+
+::: notes
+
+TBD
+
+:::
+
+
+
+## Brainstorming your Argument {background-image="Images/background-gentle_lines_v3.png" .center}
+
+"X is the most important current event of the last 18 years."
+
+Brainstorm a list of **10 reasons** you chose this case.
+
+::: notes
+
+Now, take 15 minutes to brainstorm a list of ten reasons for your choice.
+
+Everybody has to come up with ten reasons, even if some of them aren't very good!
+
+These must be complete sentences.
+
+Go!
+
+:::
+
+
+
+## A "good" premise is: {background-image="Images/background-gentle_lines_v3.png" .center}
+
+1. clear, 
+
+2. a complete idea, 
+
+3. logically connected to the conclusion, and 
+
+4. could be supported by evidence.
+
+::: notes
+
+Introduce our working definition of a "good" premise.
+
+A "good" premise is:
+1. clear, 
+2. a complete idea, 
+3. logically connected to the conclusion, and 
+4. could be supported by evidence.
+
+
+
+
+Now, everybody stand up!
+
+Your job is to review everyone else's lists of reasons.
+
+I want you to put a check mark next to any reason you think meets our definition of a "good" premise.
+
+Leave the rest blank.
+
+
+
+
+Ok, go take a look at your list.
+
+- Any surprises for you?
+
+- Did everybody flag the premises you thought they would?
+
+
+
+
+
+First, let's talk about what you got from reading other people's lists.
+
+IN WHAT SPECIFIC WAYS DOES READING A BUNCH OF ARGUMENTS IN DEVELOPMENT HELP US DESIGN OUR OWN?
+
+DID YOU IDENTIFY ANY COMPELLING IDEAS WORTH STEALING?
+
+NO NAMES, BUT DID YOU IDENTIFY ANY TYPES OF REASON THAT REALLY DIDN'T WORK FOR YOU?
+- STYLES / TONES OR APPROACHES?
+
+
+
+OK, WHAT DO WE DO WITH THIS FEEDBACK? HOW DO WE PROCESS THE EVIDENCE YOU JUST RECEIVED?
+
+- IN OTHER WORDS, SHOULD YOU FOLLOW THE CHECKS OR NOT?
+
+
+
+WHAT DO YOU DO IF ONE OF THE REASONS YOU REALLY THINK IS KEY DIDN'T GET MANY CHECKS?
+(- Don't give up on it; Revise, clarify, try explaining it differently)
+
+
+
+ANY QUESTIONS ON WHAT WE'RE LOOKING FOR IN A STRONG PREMISE?
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+1. Farrell, H. (2010, February 16). Good Writing in Political Science: An Undergraduate Student’s Short Illustrated Primer.
+
+2. Reflect on the feedback and select the 3-5 strongest reasons for your argument diagram.
+
+::: notes
+
+For Monday
+
+1. Read the Farrell article for good advice on structuring an argument paper.
+
+- Don't worry about the political science part.
+
+2. Select the 3-5 best reasons for your argument diagram.
+
+:::

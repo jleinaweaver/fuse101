@@ -1,0 +1,194 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**I. Developing our Skills Toolbox**
+
+- Strengthen your argument diagrams by addressing counter-arguments
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+F: (ASSIGNMENT and Graff and Birkenstein (2018) chap 6) FA21 3.2 + scheduling meetings for next week - Hear the rebuttals, rebut the rebuttals, set-up the next two weeks:
+1) one-on-one meetings for next week
+2) short writing assignment due before meeting
+3) Paper 1 topic, submit your case before class Sep 16
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Set up meeting scheduling tool
+
+4. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+    
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+- NEW EXPERT TIPS?
+
+<br>
+
+Current Events Check-in
+
+SO, WHAT'S GOING ON IN THE WORLD?
+
+- ANY BIG INTERNATIONAL STORIES?
+
+- BIG NATIONAL STORIES?
+
+- ON CAMPUS NEWS-WISE?
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Review the arguments submitted by the other groups and prepare a rebuttal for each of them.
+
+**Note:** Use the advice in chapter 6 of Graff and Birkenstein (2018) to help you think about counter-arguments. 
+
+::: notes
+
+IS EVERYBODY READY TO GO ON THIS?
+
+<br>
+
+Let's go around the room, give each group your best counter-argument.
+
+Groups, they're doing this because they love you.
+
+Take notes!
+
+Your job is to consider these counter-arguments and think about how you could strengthen your current argument against these critiques!
+
+<br>
+
+Groups, now reflect on what you've just heard.
+
+How can you revise your argument diagram to deal with some of these critiques?
+
+Do you need a counter-argument premise?
+
+<br>
+
+Let's hear how each group has thought about revising their argument to strengthen against the rebuttals.
+
+Tell us how you're trying to do it and let us know if we can help.
+
+<br>
+
+ARE WE FEELING BETTER ABOUT BUILDING A CONVINCING ACADEMIC ARGUMENT?
+
+<br>
+
+**SLIDE**: Before we wrap up today we need to talk about the next two weeks of class!
+
+:::
+
+
+## Next Week: One-on-one Advising Meetings {background-image="Images/background-gentle_lines_v3.png" .center}
+
+
+::: notes
+
+Class next week is being replaced by one-on-one meetings
+
+- 15 mins, scheduled using...
+
+<br>
+
+Before we meet you must submit TWO things
+
+1. Design a weekly class / study / work schedule (using the template from our work in week 1), AND
+
+2. A short essay: "What are THREE specific things you want to accomplish during your time at Drury? (e.g. skills to learn, experiences to have, classes to take, etc.)"
+
+<br>
+
+In our meeting we'll get a chance to touch base and discuss these two things
+
+<br>
+
+So, everybody MUST sign up for one of the meetings next week!
+
+<br>
+
+**SLIDE**: The week AFTER next we dive into your first paper for the class
+
+:::
+
+
+
+## Argument Paper 1 {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years (e.g. your lifetime)?
+
+
+
+## For Sep 16th {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Bring a news story to class describing the single most important current event of the last 18 years.
+
+**Submit your evidence before class that Monday**
+
+- Article published **at the time of the event**
+- Include an **APA** formatted reference, and 
+- a one sentence answer to the question "What specific event did you choose?"
+
+
+
+## Tips for Locating News Stories {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Option 1. Google News
+
+- https://news.google.com
+
+- Use the search bar drop-down to specify date
+
+
+
+## Tips for Locating News Stories {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Option 1. Google News
+
+Option 2. Olin Library Electronic Resources
+
+- library.drury.edu -> "A-Z Databases" -> "News & Information"
+
+- Examples: Newspaper Source, ProQuest US Newsstream, the New York Times
+
+
+
+## Tips for Locating News Stories {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Option 1. Google News
+
+Option 2. Olin Library Electronic Resources
+
+Option 3. Talk to a librarian!

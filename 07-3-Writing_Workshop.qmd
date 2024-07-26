@@ -1,0 +1,113 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**II. Writing a Convincing Argument**
+
+- Finishing your paper drafts
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+(ASSIGNMENT Submit complete first draft to Canvas after class) Writing workshop FA21 6.3
+
+PAPER Due Oct 4th, Return grades by next Thur so we can have an R&R in class Fri
+
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+<br>
+
+Current Events Check-in
+
+SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
+
+- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
+
+- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+<br>
+
+To be convincing an argument should be logical, clear, credible and critical
+
+::: notes
+
+HOW ARE THE PAPER'S GOING?
+
+- ANYTHING WE NEED TO ADDRESS?
+
+<br>
+
+*Form groups of three, new people!*
+
+<br>
+
+Read the drafts with the rubric in mind and give each other feedback.
+
+- Your job will be to consider that feedback, revise your paper and submit it before midnight tonight!
+
+<br>
+
+QUESTIONS?
+
+- Let's get to work!
+
+<br>
+
+**SLIDE**: Rubric if needed
+
+:::
+
+
+
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+- **Logical**: Do the premises support the conclusion?
+
+- **Clear**: Is the paper easy to read and understand?
+
+- **Credible**: Is there enough high quality evidence (cited using APA)?
+
+- **Critical**: Does the paper address weaknesses in the argument (e.g. logic, evidence, consider counter-arguments)?
+
+

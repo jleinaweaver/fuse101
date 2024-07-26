@@ -1,0 +1,223 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**I. Developing our Skills Toolbox**
+
+- Argument Basics
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+M: (Labossiere 2008 and an Op-Ed to diagram) FA21 2.1 - What is a logical argument and practice on an op-ed
+
+Prep for Class
+
+1. Canvas module set up for assignment?
+
+2. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+    
+<br>
+
+Life Check-in
+
+EVERYBODY DOING OK?
+
+FIRST WEEK HIGHS AND LOWS?
+- CLASSES TO SWAP OUT FOR SOMETHING NEW?
+
+NEED ANYTHING FROM THE CLASS?
+
+<br>
+
+2. Current Events Check-in
+
+ANY BIG STORIES BREAKING OVER THE WEEKEND?
+
+- ANYTHING WE SHOULD BE KEEPING OUR EYES ON?
+
+:::
+
+
+
+## Argument Basics {background-image="Images/background-gentle_lines_v3.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/02_1-Labossiere-header.png")
+```
+
+::: {.incremental}
+- Conclusion
+
+- Premises
+
+- Inductive arguments
+:::
+
+::: notes
+
+Let's go through the basics of an argument using the Labossiere (2008) reading
+
+WHAT IS A CONCLUSION?
+(This is the claim that is supposed to be supported by the premises.)
+
+WHAT IS A PREMISE?
+(A premise is a claim given as evidence or a reason for accepting the conclusion.)
+
+In this class, and throughout the social sciences, we tend to rely on inductive rather than deductive validity as our test of logic.
+
+HOW DO I KNOW IF AN INDUCTIVE ARGUMENT IS LOGICAL?
+(If we accept the premises as true then the conclusion is likely to be true.)
+(- By these terms, inductive arguments are either strong or weak.)
+
+
+QUESTIONS ON THE LABOSSIERE READING?
+
+<br>
+
+For the rest of today we're going to explore an important question AND practice two skills we will use a TON this semester.
+
+1. Diagramming arguments and 
+
+2. evaluating the strength of their logic
+
+:::
+
+
+
+## {background-image="Images/background-gentle_lines_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+```{r, fig.align='center'}
+knitr::include_graphics("Images/02_1-Labott2021.png")
+```
+:::
+
+::: {.column width="50%"}
+```{r, fig.align='center'}
+knitr::include_graphics("Images/02_1-Labott2021-2.png")
+```
+:::
+::::
+
+::: notes
+
+Let's dig into the Labott argument.
+
+* ON BOARD *
+
+WHAT'S THE CONCLUSION TO THIS ARGUMENT?
+(Therefore, ...)
+
+- Covid-19 has and will confront EVERY country in the world with a serious threat of political violence in the coming years.
+- COVID-19 was the “first domino in a chain of events that ignited more longstanding and deep-seated grievances,” with impacts that will reverberate for years.
+
+
+
+EVERYBODY TAKE A FEW MINUTES ON YOUR OWN TO IDENTIFY THE KEY PREMISES IN THIS ARTICLE.
+
+One way to think about finding the premises is to look at the structure of the article itself. 
+
+Each paragraph should advance the argument in a useful way.
+
+Describing the aim of the paragraph is one way to identify what the author thinks is important to her argument.
+
+
+COMPARE ARGUMENT DIAGRAMS WITH THE PERSON NEXT TO YOU.
+
+
+COMPARE ARGUMENT DIAGRAMS WITH THE PAIR NEXT TO YOU.
+
+
+AS A CLASS, TIME FOR PREMISES!
+
+* Call on people, chance to learn names *
+
+(- History shows pandemics are incubators of social unrest)
+(- Covid exacerbates the problems of economic and social inequality)
+(- National efforts to stop covid may have saved lives but also "inadvertently deepened [these] vulnerabilities")
+(- The global vaccine shortage is fueling the instability.)
+(- Covid is reducing "public confidence in governments and institutions" and that is "a key driver of instability.")
+(- Covid is reducing social cohesion and increasing polarization)
+(- The damages of covid done to our societies will be long-lasting and may not show up for years.) 
+
+(- COVID-19 exposed America’s fault lines: The country lacked the social and political capital necessary to properly respond; got bogged down in political polarization, brinkmanship, and gridlock at every level; and is drowning in a miasma of misinformation.)
+
+
+
+
+
+LET'S TIGHTEN THIS UP, ANY PREMISES WE CAN COMBINE? ANY WE SHOULD REMOVE?
+
+Let's aim to diagram the underlying ideas rather than just copying word-for-word from the text.
+
+
+
+
+ARE WE HAPPY WITH THIS DIAGRAM OF THE ARGUMENT?
+- HAVE WE COVERED THE MAIN POINTS?
+
+
+ARE WE CONVINCED WE GOT THE CONCLUSION RIGHT?
+
+
+BY THE TERMS OF INDUCTIVE REASONING, IS THIS A STRONG OR WEAK ARGUMENT?
+- MAKE YOUR CASE!
+
+
+HOW CONVINCING IS THE ARGUMENT?
+
+
+WHAT ARE ITS STRONGEST AND WEAKEST POINTS?
+
+
+WHAT ARE POSSIBLE COUNTER-ARGUMENTS TO LABOTT?
+
+(- Covid has led to scientific breakthroughs)
+(- Covid has led to increased social spending that has dramatically reduced childhood poverty in the US)
+(- ...
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Bring to class a news article describing the **most important current event** happening right now. 
+
+You must submit an **APA formatted reference** for your article to our shared document and a one sentence answer to the question "What specific event did you choose?"
+
+::: notes
+
+The case you choose to submit represents your argument!
+
+By choosing it you are telling us you believe it is both  "important" and "a current event".
+
+- "Event" means a singular happening, e.g. one thing
+
+- "Current" means ongoing, e.g. happening now
+
+- "Most important"? Well, that's on you to define and defend.
+
+:::

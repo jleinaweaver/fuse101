@@ -1,0 +1,222 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**II. Writing a Convincing Argument**
+
+- Reviewing and revising paper outlines
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+F: (ASSIGNMENT: Bring to class at least two pieces of high quality evidence for each premise in your argument) FA21 5.3 - Get and give feedback on premise clarity and evidence quality
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Prep new discussion board
+
+3. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+<br>
+
+Current Events Check-in
+
+SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
+
+- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
+
+- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+::: notes
+
+The prompt we are working on.
+
+What is the single most important current event of the last 18 years (e.g. your lifetime)?
+
+ANY QUESTIONS OR CLARIFICATIONS ON THIS?
+
+:::
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+1. Read the Requirements for the Assignment
+
+2. Avoid Data Dumps
+
+3. Cut to the Chase
+
+4. Organize, Organize, Organize
+
+5. Exercises in Style
+
+::: notes
+
+REFRESH MY MEMORY, HOW DOES THE FARRELL (2010) ADVICE HELP ME WRITE THIS SPECIFIC PAPER?
+
+*Force discussion*
+
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+
+What is the single most important current event of the last 18 years?
+
+<br>
+
+::: {.fragment}
+To be convincing an argument should be **logical, clear, credible and critical**
+:::
+
+::: notes
+
+AND HOW DOES OUR RUBRIC HELP YOU WRITE THIS PAPER?
+
+*Force discussion*
+
+**SLIDE**: Rubric details if needed
+:::
+
+
+
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+- **Logical**: Do the premises support the conclusion?
+
+- **Clear**: Is the paper easy to read and understand?
+
+- **Credible**: Is there enough high quality evidence (cited using APA)?
+
+- **Critical**: Does the paper address weaknesses in the argument (e.g. logic, evidence, consider counter-arguments)?
+
+::: notes
+
+TBD
+
+:::
+
+
+
+## Outlining an Argument Paper {background-image="Images/background-blue_triangles2.png" .center .smaller}
+
+**Intro**
+
+- What is the question?
+- Why do we care?
+- Thesis statement
+
+**Reason 1 (premise)**
+
+- Evidence x 2
+
+**Reason 2 (premise)**
+
+- Evidence x 2
+
+**Reason 3 (premise)**
+
+- Evidence x 2
+
+::: notes
+
+Assignment for today
+
+Locate TWO pieces of evidence for each premise in your argument.
+
+HOW DID THIS GO? ANY DIFFICULTIES WE CAN HELP WITH?
+
+<br>
+
+Pair off, somebody new!
+
+:::
+
+
+
+## Review the Evidence {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+**Person 1: Present your evidence**
+
+- Explain how you will use each piece and why you believe it is high quality enough for the purpose
+
+<br>
+
+::: {.fragment}
+
+**Person 2: To be convincing to you...**
+
+- Is each premise supported by enough evidence?
+- Is each piece of evidence high enough quality?
+
+:::
+
+::: notes
+
+Everybody repeat this exercise with a new partner!
+
+
+
+Check back in with the class.
+
+ANYBODY HAVE QUESTIONS OR NEED ADVICE FROM THE GROUP?
+
+:::
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+1. Read chapter 9 of Graff and Birkenstein (2018),
+
+2. Write a rough draft of your paper,
+
+3. Upload your draft to Google Drive, and
+
+4. Submit the link before class Monday
+
+::: notes
+
+
+:::
+

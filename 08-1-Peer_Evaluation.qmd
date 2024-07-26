@@ -1,0 +1,149 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**II. Writing a Convincing Argument**
+
+- Evaluating the paper drafts
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+W: Peer evaluations (see FA21 7.1) - Evaluate a classmates paper fully (1/2 class); THEN apply that level of critical analysis to your own paper and submit BOTH evals!
+
+
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Unhide assignments - Place to submit both evaluations
+
+3. Skip current events
+
+<br>
+
+LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+
+<br>
+
+Today I want you to practice evaluating argument papers
+
+- Invaluable skill to deepen
+
+- Makes you a more useful colleague, AND
+
+- A MUCH better writer!
+
+<br>
+
+Flaws in other peoples' writing will be WAY more obvious to you than those same flaws in your own writing
+
+- Their work didn't come out of your head!
+
+<br>
+
+Pair off!
+
+- New people!
+
+<br>
+
+Your job will be to read and reflect on your partner's paper and then submit an evaluation of the paper to the person AND to me
+
+- **Big picture questions on the exercise?**
+:::
+
+
+
+## Evaluations {background-image="Images/background-gentle_lines_v3.png" .center}
+
+1. What is the strongest aspect of the paper?
+
+::: {.fragment}
+
+2. Score and explain your grade for each criteria in the rubric:
+
+    - Logic: Premises support the conclusion?
+    
+    - Clarity: Easy to read and understand?
+    
+    - Credibility: Enough high quality evidence?
+    
+    - Critical: Addresses weaknesses in the argument?
+    
+**Grade Scale**: 
+
+- Not at all (1), Somewhat (2), Mostly (3), Completely (4)
+
+:::
+
+::: notes
+
+20 mins - Your job
+
+- Ultimately, I will be grading all of the papers and you will have the opportunity to revise and resubmit them for a better grade.
+
+This means I want you to engage with this activity in a serious way.
+
+This exercise is primarily meant to help you reflect on your own work and to think more deeply about the elements of writing a convincing argument, not to dramatically impact your final grade in the class.
+
+
+- Submit and share with other person
+
+:::
+
+
+
+## SELF Evaluations {background-image="Images/background-gentle_lines_v3.png" .center}
+
+1. What in this paper did you do well? What are you most proud of?
+
+2. Score and explain your grade for each criteria in the rubric:
+
+    - Logic: Premises support the conclusion?
+    
+    - Clarity: Easy to read and understand?
+    
+    - Credibility: Enough high quality evidence?
+    
+    - Critical: Addresses weaknesses in the argument?
+    
+**Grade Scale**: 
+
+- Not at all (1), Somewhat (2), Mostly (3), Completely (4)
+
+::: notes
+
+REPEAT the exercise but now focus on YOUR paper
+
+Self-reflection is a vital component to developing your skills as a writer.
+
+Doing this honestly can be difficult, but learning to honestly reflect on your own work will serve you very well in the future.
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+TBD... Get to work on the R&R?
+

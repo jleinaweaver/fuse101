@@ -1,0 +1,213 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**I. Developing our Skills Toolbox**
+
+- Getting our semester plan organized 
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+F: (ASSIGNMENT - Bring syllabi for all classes AND a planner (digital is fine)) 
+1) First week check-in, report back on classes so far; 2) compare and contrast syllabi from your classes (how to read a syllabus: Drury policies, LOs, office hours, assignment deadlines, grade breakdown, etc); 3) Discuss Compass Center handouts (x2), 4) Build a personalized weekly planner/calendar (classes, work shifts, sports + time to prepare for each class; get all the reliable stuff down!); 5) Make a list of all big deadlines across the semester with 1 week reminders!
+- Compass Center: Introduce 5 step study cycle
+- Compass Center: Sample schedule planner
+
+<br>
+
+Prep for Class
+
+1. TBD
+
+:::
+
+
+
+## Learning Outcomes {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+Over the course of FUSE 101 and FUSE 102, students develop their capacities in Writing, Critical Thinking, and Information Literacy.
+
+::: notes
+
+**With time to reflect, any questions on the LOs?**
+
+:::
+
+
+
+## The Secret Learning Outcome! {background-image="Images/background-gentle_lines_v3.png" .center}
+
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+Life Check-in: Everybody doing ok? Need anything?
+
+- 1st week highs and lows?
+
+- Expert tips? Food options? Clean bathrooms?
+
+<br>
+
+**Has anybody made progress on our extra LO?**
+
+:::
+
+
+
+## How's it going so far? {background-image="Images/background-gentle_lines_v3.png" .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-tasting_menu.jpg")
+```
+
+::: notes
+
+Week 1 as tasting menu!
+
+- Best classes so far?
+
+- Any classes you want to bail on? Why?
+
+:::
+
+
+
+## The Syllabus is Gold {background-image="Images/background-gentle_lines_v3.png" .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_3-syllabus_office_meme.jpg")
+```
+
+::: notes
+
+**Everybody bring all their course syllabi?**
+
+**And a calendar tool?**
+
+
+compare and contrast syllabi from your classes (how to read a syllabus: Drury policies, LOs, office hours, assignment deadlines, grade breakdown, etc)
+
+:::
+
+
+
+## The Study Cycle {background-image="Images/background-gentle_lines_v3.png" .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_3-Study_Cycle.png")
+```
+
+
+::: notes
+
+Resources from the Compass Center
+- https://www.drury.edu/wp-content/uploads/files/compass_center/Study_Smarter_Not_Harder.pdf
+
+The study cycle is a 5-step approach to learning designed to help students become more efficient learners. It was designed to work the way your brain learns best. The study cycle reinforces new content, builds confidence and can be easily adapted to any coursework.
+
+Step 1 - Preview
+
+- Preview your text and other study materials before class to develop a big picture of what you'll be covering. Skim through the chapter, noting all headings, subheadings, bold words, graphs, pictures and summaries. Previewing your materials before class will make it much easier to remember and learn the details.
+
+Step 2 - Attend
+
+- Attending class should be an obvious step, but some students don't take it seriously. Missing class can be harmful to your studies and the learning process. Attending class will allow you to get more from lectures, take better, more concise notes, and gain a better understanding of what you previewed on your own.
+
+Step 3 - Review
+
+- Preferably right after class, but at least sometime within 24 hours, take about 10-30 minutes to review your class notes. This process of review transfers the information you learned during class from your short-term to your longterm memory. It also reinforces new concepts and increases confidence.
+
+Step 4 - Study
+
+- Studying reinforces the new material you learned during class, as well as help you understand the subject matter thoroughly. Take about 30-60 minutes to review your notes, read your textbook, work problems, and make concept maps. As you study, ask yourself 'how', 'why' and 'what if' questions. Don't forget, repetition is the key!
+
+Step 5 - Assess 
+
+- Reflect and evaluate your understanding of the material you learned and studied. Ask yourself, "Is the information I'm studying making sense?", "Am I confident with the new material?", "Do I understand the material well enough that I can teach it to someone else?" Assessing your studying is an essential aspect of learning and can help you figure out if there is material you need to revisit over others
+
+:::
+
+
+
+## {background-image="Images/background-gentle_lines_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="70%"}
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_3-Schedule_Planner.png")
+```
+:::
+
+::: {.column width="30%"}
+
+<br>
+
+<br>
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_3-Schedule_Planner-Legend.png")
+```
+:::
+::::
+
+::: notes
+
+Build a personalized weekly planner/calendar (classes, work shifts, sports + time to prepare for each class; get all the reliable stuff down!); 
+
+
+5) Make a list of all big deadlines across the semester with 1 week reminders!
+
+
+:::
+
+
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+Labossiere 2008
+
+Op-ed to analyze
+
+
+
+
+
+
+
+
+
+
