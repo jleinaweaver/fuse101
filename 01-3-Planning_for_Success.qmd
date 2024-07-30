@@ -16,7 +16,7 @@ library(readxl)
 ::: {.r-fit-text}
 **I. Developing our Skills Toolbox**
 
-- Getting our semester plan organized 
+- Planning your Semester
 :::
 
 <br>
@@ -28,36 +28,37 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-F: (ASSIGNMENT - Bring syllabi for all classes AND a planner (digital is fine)) 
-1) First week check-in, report back on classes so far; 2) compare and contrast syllabi from your classes (how to read a syllabus: Drury policies, LOs, office hours, assignment deadlines, grade breakdown, etc); 3) Discuss Compass Center handouts (x2), 4) Build a personalized weekly planner/calendar (classes, work shifts, sports + time to prepare for each class; get all the reliable stuff down!); 5) Make a list of all big deadlines across the semester with 1 week reminders!
-- Compass Center: Introduce 5 step study cycle
-- Compass Center: Sample schedule planner
-
-<br>
-
 Prep for Class
 
-1. TBD
+1. Grade daily assignment
 
-:::
-
-
-
-## Learning Outcomes {background-image="Images/background-gentle_lines_v3.png" .center}
+2. Print a bunch of blank planners for class
 
 <br>
 
-Over the course of FUSE 101 and FUSE 102, students develop their capacities in Writing, Critical Thinking, and Information Literacy.
+**Did everybody earn their participation point for today?**
 
-::: notes
+- **How?**
 
-**With time to reflect, any questions on the LOs?**
+- (Complete the pre-class assignment and bring all syllabi to class!)
+
+<br>
+
+Two big jobs for today
+
+1. Dig into your course syllabi, and
+
+2. Develop a first draft of your weekly planner
+
+<br>
+
+SLIDE: But first, we gotta check in!
 
 :::
 
 
 
-## The Secret Learning Outcome! {background-image="Images/background-gentle_lines_v3.png" .center}
+## The Secret Learning Outcome! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -75,21 +76,21 @@ Over the course of FUSE 101 and FUSE 102, students develop their capacities in W
 
 ::: notes
 
-Life Check-in: Everybody doing ok? Need anything?
-
-- 1st week highs and lows?
-
-- Expert tips? Food options? Clean bathrooms?
+**Life Check-in: Everybody doing ok? Need anything?**
 
 <br>
 
-**Has anybody made progress on our extra LO?**
+**Best thing to happen to you this week?**
+
+<br>
+
+**Expert tips to share for navigating around Drury?**
 
 :::
 
 
 
-## How's it going so far? {background-image="Images/background-gentle_lines_v3.png" .center}
+## First Week Courses as a Tasting Menu {background-image="Images/background-news_v2.png" .center}
 
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_1-tasting_menu.jpg")
@@ -97,17 +98,17 @@ knitr::include_graphics("Images/01_1-tasting_menu.jpg")
 
 ::: notes
 
-Week 1 as tasting menu!
+**Best classes so far?**
 
-- Best classes so far?
+<br>
 
-- Any classes you want to bail on? Why?
+**Any classes you want to bail on? Why?**
 
 :::
 
 
 
-## The Syllabus is Gold {background-image="Images/background-gentle_lines_v3.png" .center}
+## {background-image="Images/background-news_v2.png" .center}
 
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_3-syllabus_office_meme.jpg")
@@ -115,92 +116,162 @@ knitr::include_graphics("Images/01_3-syllabus_office_meme.jpg")
 
 ::: notes
 
-**Everybody bring all their course syllabi?**
+Let's dig into your course syllabi
 
-**And a calendar tool?**
+- Form NEW small groups (3-4?) with people who are NOT in the same classes as you!
 
+<br>
 
-compare and contrast syllabi from your classes (how to read a syllabus: Drury policies, LOs, office hours, assignment deadlines, grade breakdown, etc)
+GROUPS: Compare and contrast the syllabi from your classes
+
+- How are they similar and how are they different?
+
+- Get ready to report back!
+
+<br>
+
+**Key similarities across the syllabi in your group?**
+
+- *ON BOARD*
+
+- Drury policies, LOs, office hours, assignment deadlines, grade breakdown, etc
+
+<br>
+
+**What's the takeaway from this for us?**
+
+- (The syllabi are worth WAY MORE than their weight in gold!)
+
+- (Check the syllabus!)
 
 :::
 
 
 
-## The Study Cycle {background-image="Images/background-gentle_lines_v3.png" .center}
+## Planning for Success: The Semester {background-image="Images/background-news_v2.png" .center}
 
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_3-Study_Cycle.png")
-```
+<br>
 
+### Make a list of the big deadlines across all of your classes this semester
+
+- e.g. tests scheduled, paper due dates, etc
+
+::: {.fragment}
+### Fuse 101
+
+- Oct 4th: Paper 1 draft
+- Oct 18th: Paper 1 final
+- Nov 25th: Paper 2 draft
+- Dec 11th: Paper 2 final
+:::
 
 ::: notes
 
-Resources from the Compass Center
-- https://www.drury.edu/wp-content/uploads/files/compass_center/Study_Smarter_Not_Harder.pdf
+Now we work to get ahead!
 
-The study cycle is a 5-step approach to learning designed to help students become more efficient learners. It was designed to work the way your brain learns best. The study cycle reinforces new content, builds confidence and can be easily adapted to any coursework.
+- Everybody take out a blank piece of paper and use it to make a master list of all the big deadlines across your classes
 
-Step 1 - Preview
+- Let's keep this focused on assignments that will require prep beyond what you need for a normal class day
 
-- Preview your text and other study materials before class to develop a big picture of what you'll be covering. Skim through the chapter, noting all headings, subheadings, bold words, graphs, pictures and summaries. Previewing your materials before class will make it much easier to remember and learn the details.
+- Think tests, paper deadlines, that kind of thing
 
-Step 2 - Attend
+<br>
 
-- Attending class should be an obvious step, but some students don't take it seriously. Missing class can be harmful to your studies and the learning process. Attending class will allow you to get more from lectures, take better, more concise notes, and gain a better understanding of what you previewed on your own.
+REVEAL: For example, in our class we have no tests and two main papers
 
-Step 3 - Review
+- We'll have a number of smaller assignments throughout the semester, but these are the deadlines related to projects that will require extra time to prepare.
 
-- Preferably right after class, but at least sometime within 24 hours, take about 10-30 minutes to review your class notes. This process of review transfers the information you learned during class from your short-term to your longterm memory. It also reinforces new concepts and increases confidence.
+<br>
 
-Step 4 - Study
+**Exercise make sense?**
 
-- Studying reinforces the new material you learned during class, as well as help you understand the subject matter thoroughly. Take about 30-60 minutes to review your notes, read your textbook, work problems, and make concept maps. As you study, ask yourself 'how', 'why' and 'what if' questions. Don't forget, repetition is the key!
+- Get to it!
 
-Step 5 - Assess 
+<br>
 
-- Reflect and evaluate your understanding of the material you learned and studied. Ask yourself, "Is the information I'm studying making sense?", "Am I confident with the new material?", "Do I understand the material well enough that I can teach it to someone else?" Assessing your studying is an essential aspect of learning and can help you figure out if there is material you need to revisit over others
+**How did that go? Any classes where it was tough to identify the big deadlines?**
+
+<br>
+
+My advice is that you take this list and add it to your personal calendar
+
+- Add in reminders too!
+
+- Big projects/deadlines should get a 2 week reminder, smaller projects maybe a 1 week reminder
+
+<br>
+
+THIS is how you stay on top of your semester!
+
+<br>
+
+**Questions?**
 
 :::
 
 
+## Planning for Success: Weekly {background-image="Images/background-news_v2.png" .center}
 
-## {background-image="Images/background-gentle_lines_v3.png" .center}
-
-:::: {.columns}
-::: {.column width="70%"}
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_3-Schedule_Planner.png")
 ```
-:::
-
-::: {.column width="30%"}
-
-<br>
-
-<br>
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_3-Schedule_Planner-Legend.png")
-```
-:::
-::::
 
 ::: notes
 
-Build a personalized weekly planner/calendar (classes, work shifts, sports + time to prepare for each class; get all the reliable stuff down!); 
+Compass Center example of a weekly planner
 
+- Hour by hour breakdown
 
-5) Make a list of all big deadlines across the semester with 1 week reminders!
+- 5 categories of task: work, class, review, study, preview
 
+<br>
+
+I am not asking you to adopt this specific approach or these groupings, BUT, I am asking you to make a plan!
+
+- Everybody try this exercise: on one of the blank planners outline your schedule for next week
+
+1. Add the fixed requirements: Classes, travel time, work shifts, sports training or games, etc
+
+2. Build in the healthy times: Exercise, eating, sleeping, time to relax, etc
+
+3. What about getting ahead? Any open slots for class prep and study?
+
+<br>
+
+Give this exercise a shot!
+
+- When done, compare with the people around you.
+
+<br>
+
+**How did that go?**
+
+- **Any important takeaways that we need to be aware of if our goal is to keep you healthy, happy and successful?**
 
 :::
+
+
 
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-Labossiere 2008
+<br>
 
-Op-ed to analyze
+### What do you have to have completed before our next class?
+
+
+::: notes
+
+**Check the syllabus and Canvas modules and report back!**
+
+-  (Kovach & Rosenstiel 2011 Chapter 3)
+
+- (ASSIGNMENT - Your Daily News Diet: After reading Kovach & Rosenstiel I want you to reflect on where you get most of your news day-to-day. 1. What are your primary news sources? 2. How well do these sources cover the six elements of "skeptical knowing" on p32 of the reading?)
+
+:::
+
+
+
 
 
 

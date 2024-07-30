@@ -14,7 +14,7 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**What's going on in the world?**
+**Welcome to Drury!**
 :::
 
 <br>
@@ -26,140 +26,186 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-Current events check-in; Log into Canvas, review the parts of Canvas, review the syllabus
-
-<br>
 
 Prep for Class
 
-1. Update attendance list before class
+1. Update attendance list
 
-2. Make sure this week's modules visible in Canvas
+2. Make sure course published on Canvas
 
 <br>
 
-**Big opening discussion: What's going on in the world right now? Anything interesting?**
+Welcome to Drury!
 
-- *ON BOARD*
+- I can only begin to imagine the whirlwind you are caught up in right now.
+
+<br>
+
+**Is everybody doing ok?**
+
+<br>
+
+I promise you EVERYBODY is fried and a little overwhelmed at this point!
+
+- Think of the proverbial duck on the pond: Looks calm on top but legs paddling insanely under the water
+
+- Even the faculty since we're scrambling to get ready for the new semester!
 
 :::
 
 
 
-## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-::: {.r-fit-text}
-**Setting up our plan for the semester**
-:::
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-My_Faculty_Page.png")
+```
 
 ::: notes
 
 Welcome to FUSE 101
 
-First year seminar everybody has to take.
+- First year seminar everybody has to take.
 
-Our section will be organized around a theme of current events and breaking news.
+- Think of Fuse 101 as your home base this Fall while you get situated on campus
 
-I'm your host Dr. Leinaweaver.
+<br>
 
-IS EVERYBODY IN THE RIGHT PLACE?
+Each section of FUSE 101 is taught by a different faculty member and each has its own theme
+
+- I'm your host, Dr. Leinaweaver
+
+- *Basics about you*
+
+<br>
+
+**Is everybody in the right place?**
 
 :::
 
 
 
-## Introductions {background-image="Images/background-gentle_lines_v3.png" .center}
-
-<br>
+## Introductions {background-image="Images/background-news_v2.png" .center}
 
 ::: {.r-fit-text}
 1. Name
 
 2. Major
 
-3. How do you keep up with current events?
+3. Home town?
 
-4. How "up to date" do you aim to be?
+4. Best meal you ever had?
+
 :::
 
 ::: notes
 
-Let's go around the room for introductions.
-- I'll go first.
+I need to start learning names and we all need to get to know each other
+
+<br>
 
 1. I'm Dr. Justin Leinaweaver.
 
 2. I'm a political scientist
-- FSU undergrad, masters in IR at UCD and PhD at Trinity.
-- My tenth year at Drury
-- Research interests: international politics, environmental politics and bargaining / negotiations.
+    - FSU undergrad: poli sci and history
+    - UCD masters in IR
+    - TCD PhD in poli sci
+    
+3. I was born in Douglasville, Georgia, but spent most of my childhood in Florida
 
-3. I'm a bit crazy when it comes to the news
-- Washington Post and NYT for daily
-- News Leader for local
-- Foreign Policy magazine for international
+4. A decade ago my wife and I traveled across Italy and those meals were AWESOME
+    - Pastas in Florence
+    - Pizzas in Rome
+    - And the greatest dessert of my life was a zabaione in a restaurant beside the Trevi Fountain
+    
+<br>
 
+Your turn!
 
-YOUR TURN:
-1) NAME,
-2) YEAR, and
-3) HOW DO YOU KEEP UP WITH CURRENT EVENTS?
+<br>
+
+SLIDE: Let's talk big picture about this class
 
 :::
 
 
-## Learning Outcomes {background-image="Images/background-gentle_lines_v3.png" .center}
+## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-Over the course of FUSE 101 and FUSE 102, students develop their capacities in Writing, Critical Thinking, and Information Literacy.
+**Frontiers is the gateway course to Drury’s general education curriculum.**
+
+::: notes
+In order to graduate all Drury students must complete the Fusion curriculum
+
+- It's our version of a general ed requirement
+
+- Fuse 101 is your first of these gen ed requirements and is meant to set you up for the rest
+
+:::
+
+
+## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+Frontiers is the gateway course to Drury’s general education curriculum. **It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury.**
 
 ::: notes
 
-Every class in college is organized around a series of LOs.
+Two big goals of this class
 
-Always a good idea to make sure you are clear on the LOs when choosing a class and as guidance during the semester to make sure you are focusing on the right things.
+1. Give you practice producing college-level work, and
 
-All fuse 101 sections have the same set of LOs.
+2. Introducing you to the many, many options you have at Drury
 
-SLIDES x 4
+:::
+
+
+## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+Frontiers is the gateway course to Drury’s general education curriculum. It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury. **Each course section has its own theme, developed by faculty members from a wide variety of disciplines.**
+
+::: notes
+
+Each section of Fuse 101 has a different theme, e.g. organizing focus
+
+- But really, the goals are the same across all of the sections regardless of theme
 
 :::
 
 
 
-## Learning Outcomes {background-image="Images/background-gentle_lines_v3.png" .center}
+## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-**Writing**
+Frontiers is the gateway course to Drury’s general education curriculum. It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury. Each course section has its own theme, developed by faculty members from a wide variety of disciplines. **Particular emphasis lies on developing students’ skills in writing, critical thinking and information literacy.**
 
-Students write frequently and in a wide variety of modes, from narratives to arguments, in order to develop clarity and directness of prose, effective paragraph structure, and modern English usage.
+::: notes
 
+Every course at Drury must specify learning objectives
 
-## Learning Outcomes {background-image="Images/background-gentle_lines_v3.png" .center}
-
-<br>
-
-**Critical Thinking**
-
-Students meaningfully present, interpret, and evaluate supporting and opposing evidence, and are able to identify underlying assumptions in arguments and to articulate the implications that follow from holding a particular position.
-
-
-
-## Learning Outcomes {background-image="Images/background-gentle_lines_v3.png" .center}
+- e.g. the skills you will develop in the class
 
 <br>
 
-**Information Literacy**
+For Fuse 101 we have three primary LOs: writing, critical thinking and information literacy
 
-Students demonstrate the ability to find and evaluate relevant sources and use the sources effectively in their work.
+- These will come up A LOT in your classes
+
+<br>
+
+SLIDE: HOWEVER, FUSE 101 also has a special, secret LO!
+
+:::
 
 
-
-## The Secret Learning Outcome! {background-image="Images/background-gentle_lines_v3.png" .center}
+## The Secret Learning Outcome! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -174,48 +220,99 @@ Students demonstrate the ability to find and evaluate relevant sources and use t
 
 - Planning your four years at Drury
 
-- Scheduling
+- Scheduling for the Spring
 :::
 
 ::: notes
 
-The secret / unwritten LO!
-
 **Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
-+ Finding and connecting to communities on campus
-+ Finding a major and a great advisor
-+ Navigating the Drury bureaucracy
-+ Planning your four years at Drury
-+ Scheduling
-
+<br>
 
 We are a team and I take this LO seriously.
 
-We are here to help each other find their people, programs, classes, money, whatever!
+- We are here to help each other find their people, programs, classes, money, whatever!
+
+<br>
 
 College can be a phenomenal experience, but it can easily get overwhelming.
 
-One of your jobs is to find a community or communities you can connect to that will support you through thick and thin.
+- One of your jobs is to find a community or communities you can connect to that will support you through thick and thin.
 
-Our class can be one of those communities for you.
+- Our class can be one of those communities for you.
+
+<br>
 
 My plan is to start each of our classes with check-in time to see if anybody has tried something new to share, is running into any troubles we could help with or if you just need to vent.
 
-QUESTIONS ON THIS?
+- **Sound good?**
 
+<br>
 
 So, let's check in!
 
-How are we doing so far?
+- **Has anybody learned something useful they could share with us? Cleanest bathroom? Best food?**
 
-Can we help you with anything? Need to vent?
+- **Has anybody run into an obstacle or an annoyance we can help with?**
+
+- **Anybody just need to vent?**
+
+<br>
+
+SLIDE: In the spirit of this LO, let's talk first week of classes for a sec!
 
 :::
 
 
 
-## Our Section of Fuse 101 {background-image="Images/background-gentle_lines_v3.png" .center}
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-tasting_menu.jpg")
+```
+
+::: notes
+
+First week of classes is like trying out the tasting menu at a restaurant.
+
+- The chef sends out a bunch of small samples of their food and you get to experience it all
+
+<br>
+
+Approach your first week of classes like this!
+
+- Go see what each professor and class is set up to offer and take some time to think about if that's what you want to spend the next four months working on!
+
+- If not, we may be able to make a few changes
+
+<br>
+
+Be aware, some things aren't droppable depending on your majors/minors/etc, but many things might be.
+
+<br>
+
+And if too many of your major classes suck, that might tell you something about your fit in the major.
+
+<br>
+
+Remember, college shouldn't feel like it is being done to you.
+
+- Own this process and your choices.
+
+<br>
+
+**Sound good?**
+
+<br>
+
+SLIDE: Let's now talk about the theme for our class!
+
+:::
+
+
+
+
+## Breaking News: The World Right Now {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -223,27 +320,37 @@ In this course we will use **current events** as a means for **learning** about 
 
 ::: notes
 
-This means YOU will need to keep an ear on the news this term!
+Our section of Fuse 101 will be organized around a theme of current events and breaking news.
 
-WHAT DO WE MEAN BY "CURRENT EVENTS"?
+<br>
 
-We need to define our terms to make sure we're all on the same page from the get-go.
+No worries either way, but I have to ask:
 
-*ON BOARD*
+- **How many people chose this section based on the theme and how many were simply assigned to this one?**
 
-1. Define "current" and "events"
+<br>
 
-- on own
-- pairs
-- class
+Either way, you are welcome to the class
 
+- Just know that our main job in Fuse 101 is to set you up for success at Drury so the theme is somewhat irrelevant
 
-2. Now combined this concept should probably be more than the sum of these two parts, right?
+- Our primary job focuses on teaching you writing, information literacy and navigating the Drury bureaucracy
 
-We all understand I mean more than just any "thing" happening "now."
+<br>
 
-So, let's define: "current events"
+But since you're here!
 
+- I will ask each of you to keep an eye and an ear on the news this term!
+
+<br>
+
+**When you hear "current events" what do you think of?**
+
+- **Can we define that concept?**
+
+<br>
+
+One possibility:
 
 - "Event" means a singular happening, e.g. one thing
 - "Current" means ongoing, e.g. happening now
@@ -251,210 +358,134 @@ So, let's define: "current events"
 
 <br>
 
-Let's jump on Canvas and grab what we need for laying out our semester
+My hope is that our theme this semester helps you connect in meaningful ways to our community and our democracy!
 
 :::
 
 
 
-## {background-image="Images/background-gentle_lines_v3.png"}
+## What are the five most important current events happening right now? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+Split up into small groups (3-4?), introduce yourselves and then work together to make a list of the five most important current events.
+
+<br>
+
+*ON BOARD: PRESENT and DISCUSS each list*
+
+<br>
+
+For each:
+
+- What is the specific "event"?
+
+- What makes it "big" or "important"?
+
+<br>
+
+**Could we rank these in terms of importance overall across all of the lists? Why or why not?**
+
+<br>
+
+SLIDE: Let's talk about the news for a sec...
+
+:::
+
+
+
+## How do you keep up with current events? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+**What are your primary news sources?**
+
+- *ON BOARD*
+
+<br>
+
+**What is your current daily routine for "keeping up" with the news? Do you have a routine related to the news?**
+
+<br>
+
+**Bottom line, on a scale of 1 to 10 how well informed do you feel you are about today's news?**
+
+- *ON BOARD*
+
+<br>
+
+I'm a bit crazy when it comes to the news and I think that is down to my chosen discipline, political science
+
+- I try hard to stay VERY up-to-date
+
+- Daily I try to keep up with the Washington Post, WSJ and NYT for national news 
+
+- News Leader and the SGF Citizen for local news
+
+- Foreign Policy magazine and political science research journals for specialized topics and analyses
+
+<br>
+
+SLIDE: Let's get set up for the week!
+
+:::
+
+
+## {background-image="Images/background-news_v2.png"}
 
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_1-Drury_Homepage.png")
 ```
 
+::: notes
 
-## {background-image="Images/background-gentle_lines_v3.png"}
+Have a volunteer log onto Canvas on the big screen and step through our course page, focus on navigation (have everyone try to log in on their own device as well)
 
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-Course_Homepage.png")
-```
+- The main page
+- The assignments page
+- The grades page
+- The modules page has all the readings and assignments
+- The syllabus
+
+<br>
+
+**Any questions on logging into or navigating around Canvas?**
+
+:::
 
 
-## {background-image="Images/background-gentle_lines_v3.png"}
+
+## {background-image="Images/background-news_v2.png"}
 
 ```{r, fig.align='center'}
 knitr::include_graphics("Images/01_1-Canvas_syllabus.png")
 ```
 
-
-## {background-image="Images/background-gentle_lines_v3.png"}
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-Canvas_modules.png")
-```
-
-
-
-
-## Course Grade {background-image="Images/background-gentle_lines_v3.png" .center}
-
-<br>
-
-```{r}
-tibble(
-  col1 = c("Attendance & Participation", 
-           "Assignments to help you succeed at Drury", 
-           "(Advising meetings, planning & scheduling sessions)",
-           "Argument Papers", 
-           "(Two papers with time for drafts, evaluations & revisions)", 
-           "Total"),
-  col2 = c("40%", "20%", "", "40%", "", "100%")
-) |>
-  kableExtra::kbl(align = c("l", "c"), col.names = c("", "")) |>
-  kableExtra::kable_styling(font_size = 37) |>
-  kableExtra::column_spec(1, width = "22em") |>
-  kableExtra::column_spec(2, width = "4em") |>
-  kableExtra::row_spec(c(0, 6), bold = TRUE, background = "#b3ccff") |>
-  kableExtra::row_spec(c(3,5), italic = T)
-```
-
 ::: notes
 
-Essentially broken into three parts
+THEN open the syllabus and step through all of it:
 
-Don't stress these papers.
+- Office hours and location
 
-We'll build up to writing each of them in class.
+- Components of the grade
+
+- Participation points
+
+- Attendance cliff
+
+- Excused absences: **It is your responsibility to email me BEFORE the absence in order to receive a make-up assignment.**
+
+- Schedule of topics, readings and assignments
+
+<br>
+
+**Any questions on the syllabus for this class?**
 
 :::
 
 
 
-## {background-image="Images/background-gentle_lines_v3.png"}
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-participation-points.jpg")
-```
-
-::: notes
-Ok, so I've got you coming to class now how do I make sure you're engaged?
-
-- Participation points!
-
-<br>
-
-Basically, if you:
-
-- Get to class on time,
-
-- Have the materials you need to work, and
-
-- Submit all daily required assignments BEFORE class,
-
-You'll be good to go and these are easy free points.
-
-<br>
-
-Before most classes we will have a reading and a discussion question.
-
-- You must submit your answer to that question on our Canvas discussion board BEFORE class begins to earn your participation point.
-
-- The syllabus is marked for all class sessions that have a pre-class assignment
-
-<br>
-
-### Important note: Canvas will not tell you about discussion post requirements in your to do list. You have to keep track using the syllabus.
-
-<br>
-
-### Each participation point you lose will reduce your participation grade by 1/3 of a letter grade
-
-### - e.g. A, A-, B+, B, B-, C+, etc.
-
-<br>
-
-### Questions on this?
-:::
-
-
-
-## The Attendance Cliff {background-image="Images/background-gentle_lines_v3.png"}
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-coyote.jpg")
-```
-
-::: notes
-
-The only way I can ensure everyone makes progress on the LOs is by being in class and doing the work.
-
-This means I have to make sure you are here!
-
-SLIDE
-
-So, this class has an attendance cliff.
-
-If you have more than five unexcused absences during the semester you will not be able to earn greater than a C+.
-
-Regardless of assignment grades.
-
-
-Now, those are unexcused absences only.
-
-:::
-
-
-
-## {background-image="Images/background-gentle_lines_v3.png"}
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-office_space.jpg")
-```
-
-::: notes
-What if you have an excused absence coming up?
-
-- **It is your responsibility to email me BEFORE the absence in order to receive a make-up assignment.**
-
-- Easy peasy
-
-<br>
-
-This is also the place where I say to you, whatever is going on that might keep you out of class, please keep me in the loop. 
-
-- I genuinely want you to make progress on our learning outcomes
-
-<br>
-
-So, if things are getting rough for you please come talk to me.
-
-### I will always offer you flexibility in the face of struggle IF YOU COME TO ME BEFORE DEADLINES HAVE PASSED!
-
-<br>
-
-### Questions on this?
-:::
-
-
-
-## Office Hours {background-image="Images/background-gentle_lines_v3.png" .center}
-
-<br>
-
-::::: {.columns}
-:::: {.column width="50%"}
-```{r, fig.align = 'left'}
-knitr::include_graphics("Images/01_1-office_hours.png")
-```
-::::
-
-:::: {.column width="50%"}
-
-<br>
-
-::: {.r-fit-text}
-- Mon to Thur 1-3pm
-
-- And by appointment
-:::
-
-::::
-:::::
-
-
-
-## What are office hours for? {background-image="Images/background-gentle_lines_v3.png" .center}
+## What are office hours for? {background-image="Images/background-news_v2.png" .center}
 
 ::::: {.columns}
 :::: {.column width="50%"}
@@ -482,78 +513,52 @@ For talking about:
 
 Make connections with the faculty!
 
-I'm going to keep harping on this "finding community" idea because I think it is super important.
+- I'm going to keep harping on this "finding community" idea because I think it is super important.
+
+<br>
 
 One caution: Faculty are crazy busy so make sure to have a goal for the meeting.
 
-But that goal can simply be because you want to find out more about the teacher/their class and how that connects to your plans.
+- But that goal can simply be because you want to find out more about the teacher/their class and how that connects to your plans.
 
-QUESTIONS ON THIS?
+<br>
+
+**Questions on this?**
 
 :::
 
 
 
 
-## {background-image="Images/background-gentle_lines_v3.png"}
+## Plan for this Week {background-image="Images/background-news_v2.png" .center}
 
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-matrix_meme.jpg")
-```
+<br>
+
+### **Wednesday**
+
+Opening Convocation
+
+<br>
+
+### **Friday**
+
+Submit assignment **BEFORE** class and bring **ALL syllabi** to class
 
 ::: notes
 
-Your first job is to download the syllabus from Moodle and read it carefully.
-
-It includes detail on everything you need to know.
-- Assignment deadlines
-- Readings
-- Drury policies
-
-
-
-
-There's always something to do for class.
-
-Check the syllabus and be prepared!
-
-Everybody grab the syllabus and look at our tasks fro Wednesday and Friday.
-
-QUESTIONS?
-
-- Wednesday you have to go to opening convo, Friday we have a reading to discuss. 
-
+**Questions?**
 
 :::
 
 
-## {background-image="Images/background-gentle_lines_v3.png"}
 
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-tasting_menu.jpg")
-```
 
-::: notes
 
-Last thing.
 
-SLIDE
 
-Think about your first week of classes like trying out the tasting menu at a restaurant.
 
-Go check out your classes, give them a try and if you don't want them we have time to change your schedule.
 
-Some things aren't droppable depending on your programs, but many things might be.
 
-And if too many of your major classes suck, that might tell you something about your fit in the major.
-
-Remember, college shouldn't feel like it is being done to you.
-
-Own this process and your choices.
-
-See you at convo on Wednesday!
-
-:::
 
 
 
