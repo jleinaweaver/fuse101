@@ -2,6 +2,8 @@ Data, slides and errata for my class at Drury University (FUSE 101: Frontiers)
 
 01-1-Welcome_to_FUSE.html
 
+01-2-Setting_up_Class.html
+
 01-3-Planning_for_Success.html
 
 02-1-Skeptical_Knowing.html

@@ -1,0 +1,373 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+1. Checking in on your first week
+
+2. Exploring our theme
+
+3. Reviewing the syllabus
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+
+Prep for Class
+
+1. Update attendance list
+
+2. Bring pdf syllabus to class so we can review it together
+
+<br>
+
+Welcome back all!
+
+- It's Wednesday already and that means your first week is half over. Congrats!
+
+<br>
+
+SLIDE: Let's check in!
+
+:::
+
+
+
+## The Unstated Goal of Fuse 101! {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling for the Spring
+
+::: notes
+
+**Has anybody learned something useful they could share with us? Cleanest bathroom? Best food?**
+
+<br>
+
+**Has anybody run into an obstacle or an annoyance we can help with?**
+
+- **Anybody just need to vent?**
+
+:::
+
+
+
+## First Week Courses as a Tasting Menu {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-tasting_menu.jpg")
+```
+
+::: notes
+
+**Best classes so far?**
+
+<br>
+
+**Any classes you want to bail on? Why?**
+
+<br>
+
+SLIDE: Quick refresher - What is Fuse 101?
+
+:::
+
+
+## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+Frontiers is the gateway course to Drury’s general education curriculum. It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury. Each course section has its own theme, developed by faculty members from a wide variety of disciplines. Particular emphasis lies on developing students’ skills in writing, critical thinking and information literacy.
+
+::: notes
+
+As we talked about on Sunday, Fuse 101 is our welcome to Drury and welcome to the general education portion of your education.
+
+- Meant to help you find your way on campus,
+
+- Connect to a major advisor and campus department,
+
+- and get you on a good plan to graduate!
+
+<br>
+
+**With time to sleep on it, any questions on these basics about Fuse 101?**
+
+<br>
+
+SLIDE: Let's now talk about the theme for our class!
+
+:::
+
+
+## Breaking News: The World Right Now {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+In this course we will use **current events** as a means for **learning** about the world, for **thinking critically** about where information comes from and for **debating** the importance of an informed electorate in a democracy.
+
+::: notes
+
+Our section of Fuse 101 will be organized around a theme of current events and breaking news.
+
+<br>
+
+No worries either way, but I have to ask:
+
+- **How many people chose this section based on the theme and how many were simply assigned to this one?**
+
+<br>
+
+Either way, you are welcome to the class
+
+- Just know that our main job in Fuse 101 is to set you up for success at Drury so the theme is somewhat irrelevant
+
+- Our primary job focuses on teaching you writing, information literacy and navigating the Drury bureaucracy
+
+<br>
+
+But since you're here!
+
+- I will ask each of you to keep an eye and an ear on the news this term!
+
+<br>
+
+**When you hear "current events" what do you think of?**
+
+- **Can we define that concept?**
+
+<br>
+
+One possibility:
+
+- "Event" means a singular happening, e.g. one thing
+- "Current" means ongoing, e.g. happening now
+- public events of import to a community and happening right now!
+
+<br>
+
+My hope is that our theme this semester helps you connect in meaningful ways to our community and our democracy!
+
+:::
+
+
+
+## What are the five most important current events happening right now? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+Split up into small groups (3-4?), introduce yourselves and then work together to make a list of the five most important current events.
+
+<br>
+
+*ON BOARD: PRESENT and DISCUSS each list*
+
+<br>
+
+For each:
+
+- What is the specific "event"?
+
+- What makes it "big" or "important"?
+
+<br>
+
+**Could we rank these in terms of importance overall across all of the lists? Why or why not?**
+
+<br>
+
+SLIDE: Let's talk about the news for a sec...
+
+:::
+
+
+
+## How do you keep up with current events? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+**What are your primary news sources?**
+
+- *ON BOARD*
+
+<br>
+
+**What is your current daily routine for "keeping up" with the news? Do you have a routine related to the news?**
+
+<br>
+
+**Bottom line, on a scale of 1 to 10 how well informed do you feel you are about today's news?**
+
+- *ON BOARD*
+
+<br>
+
+I'm a bit crazy when it comes to the news and I think that is down to my chosen discipline, political science
+
+- I try hard to stay VERY up-to-date
+
+- Daily I try to keep up with the Washington Post, WSJ and NYT for national news 
+
+- News Leader and the SGF Citizen for local news
+
+- Foreign Policy magazine and political science research journals for specialized topics and analyses
+
+<br>
+
+SLIDE: Ok, last agenda item for today is to review the syllabus
+
+:::
+
+
+## {background-image="Images/background-news_v2.png"}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_2-Canvas_Home.png")
+```
+
+::: notes
+
+**Any questions on logging into or navigating around Canvas?**
+
+<br>
+
+**Anybody have trouble accessing the syllabus?**
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png"}
+
+```{r, fig.align='center'}
+knitr::include_graphics("Images/01_1-Canvas_syllabus.png")
+```
+
+::: notes
+
+Let's step through the syllabus together!
+
+- Office hours and location
+
+- Components of the grade
+
+- Participation points
+
+- Attendance cliff
+
+- Excused absences: **It is your responsibility to email me BEFORE the absence in order to receive a make-up assignment.**
+
+- Schedule of topics, readings and assignments
+
+<br>
+
+**Any questions on the syllabus for this class?**
+
+:::
+
+
+
+## What are office hours for? {background-image="Images/background-news_v2.png" .center}
+
+::::: {.columns}
+:::: {.column width="50%"}
+
+<br>
+
+```{r, fig.align = 'left'}
+knitr::include_graphics("Images/01_1-office_hours.png")
+```
+::::
+
+:::: {.column width="50%"}
+For talking about:
+
+- Class material
+- Assgnments and grades
+- Scheduling
+- Your major
+- Finding an advisor
+- Your future
+::::
+:::::
+
+::: notes
+
+Make connections with the faculty!
+
+- I'm going to keep harping on this "finding community" idea because I think it is super important.
+
+<br>
+
+One caution: Faculty are crazy busy so make sure to have a goal for the meeting.
+
+- But that goal can simply be because you want to find out more about the teacher/their class and how that connects to your plans.
+
+<br>
+
+**Questions on this?**
+
+:::
+
+
+
+
+## For Next Class {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/01_2-Assignment_for_Friday.png")
+```
+
+::: notes
+
+Per the syllabus and Canvas Modules you have two documents to bring to class and an assignment to complete.
+
+<br>
+
+**Questions?**
+
+- See you tomorrow for opening convocation!
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+

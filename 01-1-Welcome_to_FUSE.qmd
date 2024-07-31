@@ -126,7 +126,7 @@ Your turn!
 
 <br>
 
-SLIDE: Let's talk big picture about this class
+SLIDE: Let me introduce Fuse 101 to you by stepping through its description in the course catalog
 
 :::
 
@@ -135,9 +135,13 @@ SLIDE: Let's talk big picture about this class
 
 <br>
 
-**Frontiers is the gateway course to Drury’s general education curriculum.**
+**Frontiers is the gateway course to Drury’s general education curriculum (1/4).**
 
 ::: notes
+First sentence from the course catalog!
+
+<br>
+
 In order to graduate all Drury students must complete the Fusion curriculum
 
 - It's our version of a general ed requirement
@@ -151,9 +155,12 @@ In order to graduate all Drury students must complete the Fusion curriculum
 
 <br>
 
-Frontiers is the gateway course to Drury’s general education curriculum. **It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury.**
+**It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury (2/4).**
 
 ::: notes
+Second sentence!
+
+<br>
 
 Two big goals of this class
 
@@ -168,9 +175,12 @@ Two big goals of this class
 
 <br>
 
-Frontiers is the gateway course to Drury’s general education curriculum. It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury. **Each course section has its own theme, developed by faculty members from a wide variety of disciplines.**
+**Each course section has its own theme, developed by faculty members from a wide variety of disciplines (3/4).**
 
 ::: notes
+Third sentence!
+
+<br>
 
 Each section of Fuse 101 has a different theme, e.g. organizing focus
 
@@ -184,9 +194,12 @@ Each section of Fuse 101 has a different theme, e.g. organizing focus
 
 <br>
 
-Frontiers is the gateway course to Drury’s general education curriculum. It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury. Each course section has its own theme, developed by faculty members from a wide variety of disciplines. **Particular emphasis lies on developing students’ skills in writing, critical thinking and information literacy.**
+**Particular emphasis lies on developing students’ skills in writing, critical thinking and information literacy (4/4).**
 
 ::: notes
+Fourth and final sentence!
+
+<br>
 
 Every course at Drury must specify learning objectives
 
@@ -200,12 +213,32 @@ For Fuse 101 we have three primary LOs: writing, critical thinking and informati
 
 <br>
 
-SLIDE: HOWEVER, FUSE 101 also has a special, secret LO!
+SLIDE: Put it all together!
 
 :::
 
 
-## The Secret Learning Outcome! {background-image="Images/background-news_v2.png" .center}
+
+## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+Frontiers is the gateway course to Drury’s general education curriculum. It introduces students to academic work at the collegiate level and fosters their discovery within a community of the many educational pathways available to them at Drury. Each course section has its own theme, developed by faculty members from a wide variety of disciplines. Particular emphasis lies on developing students’ skills in writing, critical thinking and information literacy.
+
+::: notes
+
+The academic course catalog is a handy resource for knowing a great deal about any class you are considering enrolling in!
+
+- In this case especially, the catalog description guides the faculty in designing their sections of this course
+
+<br>
+
+SLIDE: One super important thing NOT in this catalog description is what many of us refer to as the special, secret learning outcome for FUSE 101
+
+:::
+
+
+## The Unstated Goal of Fuse 101! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -245,21 +278,11 @@ College can be a phenomenal experience, but it can easily get overwhelming.
 
 My plan is to start each of our classes with check-in time to see if anybody has tried something new to share, is running into any troubles we could help with or if you just need to vent.
 
-- **Sound good?**
+- **So, anybody made on any progress on this goal during the orientation?**
 
 <br>
 
-So, let's check in!
-
-- **Has anybody learned something useful they could share with us? Cleanest bathroom? Best food?**
-
-- **Has anybody run into an obstacle or an annoyance we can help with?**
-
-- **Anybody just need to vent?**
-
-<br>
-
-SLIDE: In the spirit of this LO, let's talk first week of classes for a sec!
+SLIDE: In the spirit of this LO, let's talk about your first week of classes!
 
 :::
 
@@ -305,128 +328,7 @@ Remember, college shouldn't feel like it is being done to you.
 
 <br>
 
-SLIDE: Let's now talk about the theme for our class!
-
-:::
-
-
-
-
-## Breaking News: The World Right Now {background-image="Images/background-news_v2.png" .center}
-
-<br>
-
-In this course we will use **current events** as a means for **learning** about the world, for **thinking critically** about where information comes from and for **debating** the importance of an informed electorate in a democracy.
-
-::: notes
-
-Our section of Fuse 101 will be organized around a theme of current events and breaking news.
-
-<br>
-
-No worries either way, but I have to ask:
-
-- **How many people chose this section based on the theme and how many were simply assigned to this one?**
-
-<br>
-
-Either way, you are welcome to the class
-
-- Just know that our main job in Fuse 101 is to set you up for success at Drury so the theme is somewhat irrelevant
-
-- Our primary job focuses on teaching you writing, information literacy and navigating the Drury bureaucracy
-
-<br>
-
-But since you're here!
-
-- I will ask each of you to keep an eye and an ear on the news this term!
-
-<br>
-
-**When you hear "current events" what do you think of?**
-
-- **Can we define that concept?**
-
-<br>
-
-One possibility:
-
-- "Event" means a singular happening, e.g. one thing
-- "Current" means ongoing, e.g. happening now
-- public events of import to a community and happening right now!
-
-<br>
-
-My hope is that our theme this semester helps you connect in meaningful ways to our community and our democracy!
-
-:::
-
-
-
-## What are the five most important current events happening right now? {background-image="Images/background-news_v2.png" .center}
-
-::: notes
-
-Split up into small groups (3-4?), introduce yourselves and then work together to make a list of the five most important current events.
-
-<br>
-
-*ON BOARD: PRESENT and DISCUSS each list*
-
-<br>
-
-For each:
-
-- What is the specific "event"?
-
-- What makes it "big" or "important"?
-
-<br>
-
-**Could we rank these in terms of importance overall across all of the lists? Why or why not?**
-
-<br>
-
-SLIDE: Let's talk about the news for a sec...
-
-:::
-
-
-
-## How do you keep up with current events? {background-image="Images/background-news_v2.png" .center}
-
-::: notes
-
-**What are your primary news sources?**
-
-- *ON BOARD*
-
-<br>
-
-**What is your current daily routine for "keeping up" with the news? Do you have a routine related to the news?**
-
-<br>
-
-**Bottom line, on a scale of 1 to 10 how well informed do you feel you are about today's news?**
-
-- *ON BOARD*
-
-<br>
-
-I'm a bit crazy when it comes to the news and I think that is down to my chosen discipline, political science
-
-- I try hard to stay VERY up-to-date
-
-- Daily I try to keep up with the Washington Post, WSJ and NYT for national news 
-
-- News Leader and the SGF Citizen for local news
-
-- Foreign Policy magazine and political science research journals for specialized topics and analyses
-
-<br>
-
-SLIDE: Let's get set up for the week!
+SLIDE: Let's talk housekeeping for our class
 
 :::
 
@@ -463,86 +365,25 @@ knitr::include_graphics("Images/01_1-Canvas_syllabus.png")
 
 ::: notes
 
-THEN open the syllabus and step through all of it:
+Before we meet again as a class on Wednesday I want each of you to log into Canvas, download the syllabus and read it!
 
-- Office hours and location
-
-- Components of the grade
-
-- Participation points
-
-- Attendance cliff
-
-- Excused absences: **It is your responsibility to email me BEFORE the absence in order to receive a make-up assignment.**
-
-- Schedule of topics, readings and assignments
-
-<br>
-
-**Any questions on the syllabus for this class?**
+- **Sound good?**
 
 :::
 
 
 
-## What are office hours for? {background-image="Images/background-news_v2.png" .center}
+## FUSE 101 Plan for this Week {background-image="Images/background-news_v2.png" .center}
 
-::::: {.columns}
-:::: {.column width="50%"}
+::: {.r-fit-text}
+- **Monday**: Service Plunge (8am)
 
-<br>
+- **Wednesday**: First class meeting (11am)
 
-```{r, fig.align = 'left'}
-knitr::include_graphics("Images/01_1-office_hours.png")
-```
-::::
+- **Thursday**: Opening Convocation (11am)
 
-:::: {.column width="50%"}
-For talking about:
-
-- Class material
-- Assgnments and grades
-- Scheduling
-- Your major
-- Finding an advisor
-- Your future
-::::
-:::::
-
-::: notes
-
-Make connections with the faculty!
-
-- I'm going to keep harping on this "finding community" idea because I think it is super important.
-
-<br>
-
-One caution: Faculty are crazy busy so make sure to have a goal for the meeting.
-
-- But that goal can simply be because you want to find out more about the teacher/their class and how that connects to your plans.
-
-<br>
-
-**Questions on this?**
-
+- **Friday**: Assignment due before class
 :::
-
-
-
-
-## Plan for this Week {background-image="Images/background-news_v2.png" .center}
-
-<br>
-
-### **Wednesday**
-
-Opening Convocation
-
-<br>
-
-### **Friday**
-
-Submit assignment **BEFORE** class and bring **ALL syllabi** to class
 
 ::: notes
 
