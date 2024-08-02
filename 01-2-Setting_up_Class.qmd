@@ -49,7 +49,7 @@ SLIDE: Let's check in!
 
 
 
-## The Unstated Goal of Fuse 101! {background-image="Images/background-news_v2.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 

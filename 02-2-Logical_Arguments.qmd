@@ -28,175 +28,224 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-M: (Labossiere 2008 and an Op-Ed to diagram) FA21 2.1 - What is a logical argument and practice on an op-ed
-
 Prep for Class
 
-1. Canvas module set up for assignment?
-
-2. Open news web pages for prompts to discuss
-    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-    
-<br>
-
-Life Check-in
-
-EVERYBODY DOING OK?
-
-FIRST WEEK HIGHS AND LOWS?
-- CLASSES TO SWAP OUT FOR SOMETHING NEW?
-
-NEED ANYTHING FROM THE CLASS?
-
-<br>
-
-2. Current Events Check-in
-
-ANY BIG STORIES BREAKING OVER THE WEEKEND?
-
-- ANYTHING WE SHOULD BE KEEPING OUR EYES ON?
+1. Check Canvas assignment submissions
 
 :::
 
 
 
-## Argument Basics {background-image="Images/background-gentle_lines_v3.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+**Life Check-in: Everybody doing ok?**
+
+<br>
+
+**First week highs and lows?**
+
+<br>
+
+**Need anything from the class? Advice? To vent?**
+
+:::
+
+
+
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+**What's happening in the news? Any big stories to discuss?**
+
+<br>
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+:::
+
+
+
+## Argument Basics (Labossiere 2008) {background-image="Images/background-news_v2.png" .center}
+
+<br>
 
 ```{r, fig.align = 'center'}
 knitr::include_graphics("Images/02_1-Labossiere-header.png")
 ```
 
-::: {.incremental}
+<br>
+
+:::: {.incremental}
 - Conclusion
 
 - Premises
 
 - Inductive arguments
-:::
-
-::: notes
-
-Let's go through the basics of an argument using the Labossiere (2008) reading
-
-WHAT IS A CONCLUSION?
-(This is the claim that is supposed to be supported by the premises.)
-
-WHAT IS A PREMISE?
-(A premise is a claim given as evidence or a reason for accepting the conclusion.)
-
-In this class, and throughout the social sciences, we tend to rely on inductive rather than deductive validity as our test of logic.
-
-HOW DO I KNOW IF AN INDUCTIVE ARGUMENT IS LOGICAL?
-(If we accept the premises as true then the conclusion is likely to be true.)
-(- By these terms, inductive arguments are either strong or weak.)
-
-
-QUESTIONS ON THE LABOSSIERE READING?
-
-<br>
-
-For the rest of today we're going to explore an important question AND practice two skills we will use a TON this semester.
-
-1. Diagramming arguments and 
-
-2. evaluating the strength of their logic
-
-:::
-
-
-
-## {background-image="Images/background-gentle_lines_v3.png" .center}
-
-:::: {.columns}
-::: {.column width="50%"}
-```{r, fig.align='center'}
-knitr::include_graphics("Images/02_1-Labott2021.png")
-```
-:::
-
-::: {.column width="50%"}
-```{r, fig.align='center'}
-knitr::include_graphics("Images/02_1-Labott2021-2.png")
-```
-:::
 ::::
 
 ::: notes
+I want to use the Labossiere reading to highlight the key components of a high quality argument.
 
-Let's dig into the Labott argument.
+- Again, these are the elements you will need to write papers and make arguments in this class.
 
-* ON BOARD *
+<br>
 
-WHAT'S THE CONCLUSION TO THIS ARGUMENT?
-(Therefore, ...)
+### REVEAL: According to Labossiere (2008), what is the conclusion of an argument?
++ (This is the main point of the argument, e.g. the thesis or key takeaway)
 
-- Covid-19 has and will confront EVERY country in the world with a serious threat of political violence in the coming years.
-- COVID-19 was the “first domino in a chain of events that ignited more longstanding and deep-seated grievances,” with impacts that will reverberate for years.
+<br>
 
+### REVEAL: According to Labossiere (2008), what is a premise?
++ (A premise is a claim given as evidence or a reason for accepting the conclusion.)
 
+So, the basic structure of every logical argument is a series of premises that support a conclusion.
 
-EVERYBODY TAKE A FEW MINUTES ON YOUR OWN TO IDENTIFY THE KEY PREMISES IN THIS ARTICLE.
+### Make sense?
 
-One way to think about finding the premises is to look at the structure of the article itself. 
+<br>
 
-Each paragraph should advance the argument in a useful way.
+**REVEAL:** Induction represents how we think about the quality of the connection between our premises and our conclusion.
 
-Describing the aim of the paragraph is one way to identify what the author thinks is important to her argument.
+- In this class, and throughout the social sciences, we tend to rely on inductive reasoning.
 
+- This is a form of reasoning that moves from the specific to the general
 
-COMPARE ARGUMENT DIAGRAMS WITH THE PERSON NEXT TO YOU.
+- e.g. An argument that provides a series of empirical observations that all support a more general conclusion
+    
+<br>
 
-
-COMPARE ARGUMENT DIAGRAMS WITH THE PAIR NEXT TO YOU.
-
-
-AS A CLASS, TIME FOR PREMISES!
-
-* Call on people, chance to learn names *
-
-(- History shows pandemics are incubators of social unrest)
-(- Covid exacerbates the problems of economic and social inequality)
-(- National efforts to stop covid may have saved lives but also "inadvertently deepened [these] vulnerabilities")
-(- The global vaccine shortage is fueling the instability.)
-(- Covid is reducing "public confidence in governments and institutions" and that is "a key driver of instability.")
-(- Covid is reducing social cohesion and increasing polarization)
-(- The damages of covid done to our societies will be long-lasting and may not show up for years.) 
-
-(- COVID-19 exposed America’s fault lines: The country lacked the social and political capital necessary to properly respond; got bogged down in political polarization, brinkmanship, and gridlock at every level; and is drowning in a miasma of misinformation.)
+**SLIDE**: Let's look at some examples
+:::
 
 
 
+## Inductive Arguments {background-image="Images/background-news_v2.png" .center}
+
+**From the Specific to the General**
+
+<br>
+
+::: {.incremental}
+- In the summer, there are ducks on our pond. Therefore, summer will likely bring ducks to our pond.
+
+- Every cat that you've observed purrs. Therefore, most cats must purr.
+
+- All the children in this daycare center like to play with Lego. Therefore, all children probably like to play with Lego.
+:::
+
+::: notes
+**REVEAL each example (x3)**
+
+<br>
+
+**Does everyone see how each of these arguments build from a specific premise to a general conclusion?**
+
+- Inductive arguments use specific premises to support a more general conclusion
+
+- Inductive arguments often use indicator words: probably, likely, tends to, etc
+
+- Inductive arguments often make claims about the future based on the way things have typically happened in the past
+
+<br>
+
+### Questions on the basic structure of an inductive argument?
+
+<br>
+
+Inductive arguments can also be classified as either strong or weak.
+
+- Our goal is to make arguments as strong as possible because stronger arguments are more likely to be convincing arguments!
+
+- A "strong" inductive argument "succeeds in having its conclusion be probably true, given the truth of the premises" ([Critical thinking book](https://iu.pressbooks.pub/shockeyphilp102summer/chapter/inductive-arguments/)).
+
+- In other words, if we assume these premises are true is the conclusion more likely to be true.
+
+<br>
+
+### Are all of these "strong" inductive arguments? Why or why not?
+- (They are, but that doesn't mean they have to be convincing!)
+
+<br>
+
+All of this should become clearer as we practice.
+    
+:::
 
 
-LET'S TIGHTEN THIS UP, ANY PREMISES WE CAN COMBINE? ANY WE SHOULD REMOVE?
+## Should we let the Ukrainians use US weapons against Russian targets in Russia? {background-image="Images/background-news_v2.png"}
 
-Let's aim to diagram the underlying ideas rather than just copying word-for-word from the text.
+![](Images/02_2-Acton2024.png){.absolute top=225 left=50 width="400" height="550"}
 
+![](Images/02_2-Fedorenko2024.png){.absolute top=225 right=50 width="400" height="550"}
 
+::: notes
 
+For today I asked you to dive into a big ongoing debate
 
-ARE WE HAPPY WITH THIS DIAGRAM OF THE ARGUMENT?
-- HAVE WE COVERED THE MAIN POINTS?
+- Should we let the Ukrainians use US weapons against Russian targets in Russia?
 
+<br>
 
-ARE WE CONVINCED WE GOT THE CONCLUSION RIGHT?
+*Split class in half and assign one op-ed to each group*
 
+- Go sit with your group and claim some space on the board!
 
-BY THE TERMS OF INDUCTIVE REASONING, IS THIS A STRONG OR WEAK ARGUMENT?
-- MAKE YOUR CASE!
+<br>
 
+Let's first talk conclusions.
 
-HOW CONVINCING IS THE ARGUMENT?
+- **What's the big conclusion of the Acton (2024) argument?**
+    - ("The United States should decline to further loosen its restrictions on the use of U.S.-supplied weapons.")
 
+- **What's the big conclusion of the Fedorenko (2024) argument?**
+    - (The US should provide F-16 fighters AND let the Ukrainians strike Russian targets in Russia)
 
-WHAT ARE ITS STRONGEST AND WEAKEST POINTS?
+<br>
 
+Ok groups, those are your targets!
 
-WHAT ARE POSSIBLE COUNTER-ARGUMENTS TO LABOTT?
+- Your job now is to fill in the key premises that support this conclusion
 
-(- Covid has led to scientific breakthroughs)
-(- Covid has led to increased social spending that has dramatically reduced childhood poverty in the US)
-(- ...
+- Feel free to draw on the class submissions on Canvas!
+
+- Go!
+
+<br>
+
+Groups, now evaluate your assigned argument
+
+- Is this argument inductively valid?
+
+- Is this a strong or weak inductive argument? Why?
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**Ok, where do we end up on this debate?**
+
+<br>
+
+**Any questions on the basics of an argument diagram we covered today in class?**
 
 :::
 
@@ -204,20 +253,23 @@ WHAT ARE POSSIBLE COUNTER-ARGUMENTS TO LABOTT?
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-Bring to class a news article describing the **most important current event** happening right now. 
+<br>
 
-You must submit an **APA formatted reference** for your article to our shared document and a one sentence answer to the question "What specific event did you choose?"
+### What do you have to have completed before our next class?
+
 
 ::: notes
 
-The case you choose to submit represents your argument!
+**Check the syllabus and Canvas modules and report back!**
 
-By choosing it you are telling us you believe it is both  "important" and "a current event".
+<br>
 
-- "Event" means a singular happening, e.g. one thing
+Alison Brown Workshop on Collegiate Professionalism
 
-- "Current" means ongoing, e.g. happening now
+- Nothing! (so far)
 
-- "Most important"? Well, that's on you to define and defend.
+<br>
+
+**Questions?**
 
 :::

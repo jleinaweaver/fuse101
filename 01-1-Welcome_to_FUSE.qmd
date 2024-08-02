@@ -238,7 +238,7 @@ SLIDE: One super important thing NOT in this catalog description is what many of
 :::
 
 
-## The Unstated Goal of Fuse 101! {background-image="Images/background-news_v2.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 

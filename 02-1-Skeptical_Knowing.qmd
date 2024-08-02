@@ -13,12 +13,12 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**III. It's Election Time!**
+**I. Developing our Skills Toolbox**
 
-- The ways of skeptical knowing
+- The Ways of Skeptical Knowing
+
+- Adapting to the Models of Journalism
 :::
-
-<br>
 
 <br>
 
@@ -27,115 +27,280 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-W: The ways of skeptical knowing (Kovach & Rosenstiel (2011) ch3) FA21 1.2 on skeptical knowing, the types of journalism and how we protect ourselves; Prep them for both assignments next week since we have no class Friday
-
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
+:::
 
-3. Open news web pages for prompts to discuss
-    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+
+## Pre-Class Assignment {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
-:::
-
-
-## {background-image="Images/01_3-NYT-Front_page.png" .center}
-
-::: notes
-
-TBD
-
-:::
-
-
-## {background-image="Images/01_3-drury_mirror.png}" .center}
-
-::: notes
-
-TBD
-
-:::
-
-
-## {background-image="Images/background-gentle_lines_v3.png}" .center}
-
-:::: {.columns}
-::: {.column width="50%"}
-```{r, fig.align='left'}
-knitr::include_graphics("Images/01_3-blur_cover.jpg")
+```{r, fig.align='center'}
+knitr::include_graphics("Images/02_1-Assignment.png")
 ```
-:::
-
-::: {.column width="50%"}
-**Chapter 3**
-
-<br>
-
-**The Way of Skeptical Knowing:**
-
-**The Tradecraft of Verification**
-:::
-::::
 
 ::: notes
 
-TBD
+**Did everyone complete their pre-class assignment today?**
+
+<br>
+
+Don't forget these daily assignments are a big part of your participation grade in this class.
+:::
+
+
+
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+**Life Check-in: Everybody doing ok? Need anything?**
+
+<br>
+
+**What is one thing you have done in the last few days to make progress on one of these tasks?**
+
+<br>
+
+**Which of these tasks will you push forward this week? How specifically?**
+
+- Go make a new friend! Talk to someone different!
+
+- Go to a meeting for a student group that sounds interesting!
 
 :::
 
 
 
-## Kovach and Rosenstiel (2011) Chapter 3 {background-image="Images/background-gentle_lines_v3.png}" .center}
+## What's happening in the news? Any big stories over the weekend? {background-image="Images/background-news_v2.png" .center}
 
-:::: {.columns}
-::: {.column width="50%"}
-**Skeptical Knowing**
+::: notes
 
-1. Content type?
-2. Missing information?
-3. Believable sources?
-4. Evidence tested?
-5. Alternatives considered?
-6. Needed information included?
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+**So, what's going on in the world since we met last week?**
+
+- **What big stories are you following / interested in? why?**
+
+<br>
+
+**Anything here in town or on our campus we should be keyed in to?**
+
+<br>
+
+SLIDE: Let's dig into our material for today
 :::
 
-::: {.column width="50%"}
+
+
+
+## Kovach and Rosenstiel (2011) {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+1. "The Way of Skeptical Knowing"
+
+2. The News "Neighborhoods"
+:::
+
+::: notes
+
+I like to use the Kovach and Rosenstiel chapter as a starting point for any class I teach that focuses on current events.
+
+- Their entire book is designed to help us be better consumers of the news
+
+- Specifically, these authors are trying to boost your "information literacy" skills
+
+<br>
+
+The chapter has two big and related ideas.
+
+1. Skeptical knowing: There are steps we can follow to protect ourselves and generate real knowledge about the world.
+
+2. We have to be aware of "the neighborhood" we are in when gathering the news.
+    - They refer to these as the "Models of Journalism"
+
+<br>
+
+Form groups of 4, work with new people!
+
+- Go sit with your groups!
+
+:::
+
+
+
+## Kovach and Rosenstiel (2011) {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
 **Models of Journalism**
 
-1. Verification Journalism
-2. Assertion Journalism
-3. Affirmation Journalism
-4. Interest-group Journalism
-:::
-::::
+- Verification Journalism
+
+- Assertion Journalism
+
+- Affirmation Journalism
+
+- Interest-group Journalism
 
 ::: notes
 
-TBD
+Per the chapter there are four distinct models of journalism
+
+- **Is everybody clear on each of these and the examples from the chapter?**
+
+<br>
+
+1. Verification Journalism: Characterized by "empiricism and humility", Multiple sources; Skepticism of claims by sources; Vetting of all claims; Provides context for understanding the "facts" being reported
+2. Assertion Journalism: Fundamentally stenographic; Journalist as passive conduit / enabler for sources and newsmakers; Gives the sources more power because access, not truth, is everything; Bias towards speed over accuracy
+3. Affirmation Journalism: Neo-partisan form of news; aim is to affirm the preconceptions of the audience; one-sided broadcast of cherry-picked facts; propaganda, persuasion and manipulation
+4. Interest-group Journalism
+
+<br>
+
+Groups, make a list of the main sources and access points for news for the members of your group
+
+- Audit how each source has been classified by its "model of journalism", make sure you all agree!
+
+<br>
+
+*ON BOARD*
+
+- Round-robin by group: Give me a source and its "model" from your list
+
+- *SHARE and DISCUSS each*
+
+<br>
+
+**Self reflection time: What proportion of the news you get day-to-day is verification journalism?**
+
+<br>
+
+**Which "model" do each of you tend to live in the most?**
+
+<br>
+
+**Are there any news sources today that are 100% verification journalism? Why or why not?**
+
+<br>
+
+As we can see, one big problem for us is that so much of the news we are inundated with these days is not "verification journalism."
+
+- SLIDE: That means we absolutely need...
 
 :::
 
+
+
+## Kovach and Rosenstiel (2011) {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+**"The Way of Skeptical Knowing"**
+
+1. What kind of content is this?
+
+2. Is the information complete? What is missing?
+
+3. Who are the sources? Are they believable?
+
+4. What is the evidence? How vetted?
+
+5. What is a possible alternative explanation?
+
+6. Am I learning what I need to?
+
+::: notes
+
+**What questions do you have about applying the six steps when evaluating a news story?**
+
+<br>
+
+That last point might need unpacking:
+
+- Do our sources of news give us the info we need to evaluate their quality?
+- Does this source tell me everything I need to know to understand the story?
+- Is the author/creator resorting to jargon/gobbledygook to obscure?
+- Does the author/creator provide enough background so we understand the topic clearly (e.g. focusing on a single study without provide the context of how it fits into the research landscape)?
+    
+<br>
+
+Again, time for self reflection!
+
+- **Be honest, what proportion of the six steps of skeptical knowing do you follow every time?**
+
+- **Which ones most?**
+
+- **Which ones least?**
+
+<br>
+
+**Is there a way to use skeptical knowing but still get all your news from affirmation type sources? Why or why not?**
+
+:::
+
+
+
+## Kovach and Rosenstiel (2011) {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+1. "The Way of Skeptical Knowing"
+
+2. The News "Neighborhoods"
+:::
+
+::: notes
+
+**Bottom line, what are the key lessons for us as consumers of "the news"?**
+
+- **Does this approach imply that we have to use multiple media sources to verify any piece of current events?**
+
+:::
 
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
 <br>
 
-ASSIGNMENT - What does a second Biden term look like for the country and the world? Go find us evidence to evaluate this question! Get outside your bubble!
+### What do you have to have completed before our next class?
 
+
+::: notes
+
+**Check the syllabus and Canvas modules and report back!**
+
+<br>
+
+- Read Labossiere (2008), the assigned op-ed and then submit to Canvas your reflections on the op-ed across three points.
+
+<br>
+
+**Questions?**
+
+:::
