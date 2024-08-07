@@ -1,0 +1,199 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**III. It's Election Time!**
+
+- Is social media a net benefit or cost to our society?
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+:::
+
+
+
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+**Life Check-in: Everybody doing ok?**
+
+<br>
+
+**Anybody run into anything we can help with?**
+
+<br>
+
+SLIDE: Let's dive into our argument for today!
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align='center'}
+knitr::include_graphics('Images/09_2-Assign.png')
+```
+
+::: notes
+
+For today I asked each of you to help us collect the evidence we need to evaluate the impact of social media on our society
+
+- This means that our discussion board now holds tons of both pro and con evidence!
+
+<br>
+
+Today we explore the two sides of this argument!
+
+- Split class in half
+
+- Go sit with your group and claim some space on the board
+
+:::
+
+
+
+## Evaluating the Impact of Social Media {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+### Group 1
+
+On balance, social media is a net positive for our society
+
+<br>
+
+### Group 2
+
+On balance, social media is a net negative for our society
+
+:::
+
+::: notes
+
+Group 1, your job is to build the "positive" argument on the board
+
+- Premises to this conclusion
+
+<br>
+
+Group 2, your job is to build the "negative" argument on the board
+
+- Premises to this conclusion
+
+<br>
+
+**Questions?**
+
+- Get to it!
+
+<br>
+
+*PRESENT and DISCUSS each argument*
+
+<br>
+
+Groups, prep a rebuttal for the other group!
+
+- Tear them apart!
+
+- *PRESENT and DISCUSS each rebuttal*
+
+:::
+
+
+
+## Next Week {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+**The Stakes of the Election**
+
+- Monday: Local Issues
+
+- Wednesday: National Issues
+
+:::
+
+::: notes
+
+Next week I'd like us to explore the stakes of the upcoming election in terms of the issues that matter to us
+
+<br>
+
+Too often the media coverage of an election is purely focused on it like a horse race 
+
+- e.g. who is "up" today and who is "down"?
+
+- As if "up" and "down" actually mean anything substantive
+
+<br>
+
+The point of an election is to select a leader who will try to solve the problems we think need to be solved
+
+- SO, I want us to explore the election in terms of the problems we care about!
+
+<br>
+
+Everybody check the Canvas discussion board and review our assignment prompt for Monday.
+
+- **Any questions on what I'm asking you to do?**
+
+<br>
+
+Share with us a LOCAL issue that you feel strongly about that you hope will be impacted by the results of the November election (e.g. in Springfield, Greene County, your home town, or within Missouri). 
+
+This is our chance to make each other aware of local issues that matter in our communities. Please save the national issues for next class. 
+
+I'm not looking for testimonials in support of, or in opposition to, one of the candidates. I want us to talk about the issues we care about, not the personalities involved in the horse race. 
+
+1. Explain the local issue you care about (e.g. the problem you want solved), and
+
+2. Provide high quality evidence demonstrating the importance of this issue (problem).
+
+:::

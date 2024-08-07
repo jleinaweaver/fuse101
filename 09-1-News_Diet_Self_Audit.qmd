@@ -27,56 +27,63 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-M: Do we live in echo chambers? (1. ASSIGNMENT: Using only your personal social media feeds make a list of the top “news” stories being promoted to you. Note the topic and source of each; 2. Nguyen 2019, 3. Newton 2019) see FA21 9.1
-
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
+2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
 
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
 :::
 
 
-
-## Our semester so far... {background-image="Images/background-gentle_lines_v3.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-1. What is the most important current, "current" event?
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
-2. What is the most important "current" event of your lifetime?
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-So far, the first half of our semester has focused on current events as an organizing theme for the class.
+**Life Check-in: Everybody doing ok?**
 
-This represents the "what are we talking about" portion of many of our days together.
+<br>
 
-However, in terms of skills you've done WAY more than this.
+**Anybody run into anything we can help with?**
 
 :::
 
 
 
-## Our semester so far... {background-image="Images/background-gentle_lines_v3.png" .center}
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+**So, what's going on in the world since we met last week?**
+
+- **What big stories are you following / interested in? why?**
+
+:::
+
+
+
+## Our semester so far... {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -91,20 +98,20 @@ However, in terms of skills you've done WAY more than this.
 
 ::: notes
 
-Hot damn you have taken to this list of things quite well.
+**How are we feeling in terms of this list?**
 
-HOW ARE WE FEELING IN TERMS OF THIS LIST?
-
-- DO YOU SEE YOUR SKILLS GROWING?
-
-- WHICH OF THESE ITEMS DO YOU PERSONALLY STILL FEEL THE MOST UNCERTAIN ABOUT?
+- **Do you see your skills growing?**
 
 <br>
 
-We're not done with this list.
+**Which of these items do you personally still feel the most uncertain about?**
 
+<br>
+
+Don't worry, we're not done with the items on this list!
 
 :::
+
 
 
 ## {background-image="Images/09_1-Election-2024.jpeg" .center}
@@ -113,49 +120,75 @@ We're not done with this list.
 
 Section 3 of the class: It's election time!
 
-- Over the next few weeks we dive deep into the election
+- Over the next few weeks we dive deep into the current election
 
 <br>
 
-But first, this week I want to talk about the quality of our news
-
-- ...
-
-:::
-
-
-## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
-
-1. Canvas: Using only your personal social media feeds make a list of the top "news" stories being promoted to you. Note the topic and source of each.
-
-2. Nguyen (2019) *The problem of living inside echo chambers*
-
-3. Newton (2019) *How extremism came to thrive on YouTube*
-
-::: notes
-
-For today I gave you two short arguments to consider and asked everyone to review their social media news feeds before class.
-
-EVERYBODY READY TO GO ON THIS?
+To kick things off this week, I want to talk about the quality of our news ecosystem
 
 :::
 
 
 
-## Nguyen (2019) The problem of living inside echo chambers {background-image="Images/background-gentle_lines_v3.png" .center}
+## Nguyen (2019) {background-image="Images/background-news_v2.png" .center}
+
+::: {.r-fit-text}
+**The problem of living inside echo chambers**
+:::
 
 ::: notes
 
 Let's start with the Nguyen (2019).
 
-* Pronounciations vary depending on background, but safe to go with "when" *
+- *Pronounciations vary depending on background, but safe to go with "when"*
 
-WHAT IS THE CONCLUSION OF THIS SHORT ARTICLE?
+<br>
+
+**What is the conclusion of this short article?**
+
+- (SLIDE: Therefore, the danger in our society is echo chambers, not social media bubbles.)
 
 :::
 
 
-## Nguyen (2019) The problem of living inside echo chambers {background-image="Images/background-gentle_lines_v3.png" .center}
+
+## Nguyen (2019) {background-image="Images/background-news_v2.png" .center}
+
+::: {.r-fit-text}
+**The problem of living inside echo chambers**
+:::
+
+<br>
+
+Therefore, the danger in our society is echo chambers, not social media bubbles.
+
+::: notes
+
+**How does Nguyen define a social media bubble?**
+
+- (a belief that everybody sorts themselves into like-minded communities and hears only like-minded views.)
+
+<br>
+
+**How does Nguyen define an echo chamber?**
+
+- (An echo chamber is what happens when insiders come to distrust everybody on the outside.)
+
+<br>
+
+SLIDE: Before we can analyze this argument we have to diagram it.
+
+:::
+
+
+
+## Nguyen (2019) {background-image="Images/background-news_v2.png" .center}
+
+::: {.r-fit-text}
+**The problem of living inside echo chambers**
+:::
+
+<br>
 
 1. ?
 
@@ -163,31 +196,16 @@ WHAT IS THE CONCLUSION OF THIS SHORT ARTICLE?
 
 3. ? 
 
-Therefore, the divisions in our society are driven by echo chambers, not social media bubbles.
+Therefore, the danger in our society is echo chambers, not social media bubbles.
 
 ::: notes
-
-- The divisions in our society are driven by echo chambers, not social media bubbles.
-
-
-HOW DOES NGUYEN DEFINE A SOCIAL MEDIA BUBBLE?
-(a belief that everybody sorts themselves into like-minded communities and hears only like-minded views.)
-
-
-AND AN ECHO CHAMBER?
-(An echo chamber is what happens when insiders come to distrust everybody on the outside.)
-
-
-
-Ok, before we can analyze this argument we have to diagram it.
-
 Everybody take five minutes to identify the three most important reasons Nguyen gives to support this argument.
 
+<br>
 
+*ON BOARD*
 
-* ON BOARD *
-
-OK, WHAT DO WE HAVE?
+- **OK, what do we have?**
 
 <br>
 
@@ -196,7 +214,7 @@ OK, WHAT DO WE HAVE?
 :::
 
 
-## Nguyen (2019) {background-image="Images/background-gentle_lines_v3.png" .center}
+## Nguyen (2019) {background-image="Images/background-news_v2.png" .center}
 
 - Social media echo chambers distort your ability to trust outsiders
 
@@ -206,125 +224,35 @@ OK, WHAT DO WE HAVE?
 
 - The damage to our society comes from broken trust, not bubbles
 
-Therefore, the divisions in our society are driven by echo chambers, not social media bubbles.
-
-
-::: notes
-
-IS THIS A LOGICAL ARGUMENT?
-
-
-
-IS IT A CONVINCING ARGUMENT? WHY OR WHY NOT?
-
-
-
-DOES YOUR REVIEW OF YOUR PERSONAL SOCIAL MEDIA FEEDS INDICATE YOU LIVE IN A BUBBLE OR AN ECHO CHAMBER?
-
-
-:::
-
-
-
-## Newton (2019) How extremism came to thrive on YouTube {background-image="Images/background-gentle_lines_v3.png" .center}
+Therefore, the danger in our society is echo chambers, not social media bubbles.
 
 ::: notes
 
-Let's pivot this conversation to the Newton article on extremism on the internet.
+**Is this a logical argument?**
 
-SLIDE
-
-WHAT IS THE CONCLUSION OF THIS SHORT ARTICLE?
-
-:::
-
-
-## Newton (2019) How extremism came to thrive on YouTube {background-image="Images/background-gentle_lines_v3.png" .center}
-
-1. ?
-
-2. ?
-
-3. ? 
-
-Therefore, social media companies have fostered extremist content in order to grow their profits.
-
-::: notes
-
-- Therefore, social media companies have fostered extremist content in order to grow their profits.
-
-
-
-DOES NEWTOW DEFINE EXTREMISM IN THE ARTICLE?
-(Not that I can see...)
-
-CAN WE DEFINE IT FOR OURSELVES?
-
-* Discuss *
-
-- The holding of "extreme" views...
-
-
-
-Before we can analyze this argument we have to diagram it.
-
-Everybody take five minutes to identify the three most important reasons Newton gives to support this argument.
-
-
-
-* ON BOARD *
-
-WHAT DO WE HAVE?
+- **Do the premises support the conclusion?**
 
 <br>
 
-**SLIDE**: My version
+Split class into small groups (3-4 each)
 
-:::
+- Go sit with your group!
 
+<br>
 
+Groups, discuss what you learned from your audit of your personal news feeds
 
-## Newton (2019) {background-image="Images/background-gentle_lines_v3.png" .center}
+- **Does your review of your personal social media feeds indicate you live in a bubble, an echo chamber or neither?**
 
-- There is a ton of extremist content on these sites.
+- **What did you learn about the health of your personal news ecosystem?**
 
-- They know it's there (Many authorities/Congress criticizes them over it)
+- *PRESENT and DISCUSS*
 
-- YouTube rewards attention generated with money despite knowing it makes the problem worse
+<br>
 
-Therefore, social media companies have fostered extremist content in order to grow their profits.
+**Groups discuss and get ready to report back: Do we agree that a diverse news diet is a "better" news diet? Why or why not?**
 
-::: notes
-
-IS THIS A LOGICAL ARGUMENT?
-
-
-IS IT A CONVINCING ARGUMENT? WHY OR WHY NOT?
-
-
-HOW MUCH "EXTREMIST" CONTENT DO YOU TYPICALLY SEE IN YOUR NEWS FEEDS?
-
-:::
-
-
-
-## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
-
-1. Canvas: Using only your personal social media feeds make a list of the top "news" stories being promoted to you. Note the topic and source of each.
-
-2. Nguyen (2019) *The problem of living inside echo chambers*
-
-3. Newton (2019) *How extremism came to thrive on YouTube*
-
-::: notes
-
-TAKING ALL OF THIS ON BOARD, HOW CONCERNED SHOULD WE BE ABOUT THE IMPACT OF SOCIAL MEDIA ON OUR FUTURE?
-
-
-DOES SOCIAL MEDIA INCREASE OR DECREASE THE LEVELS OF TRUST IN OUR SOCIETY?
-
-
-HOW BIG A PROBLEM IS THIS FOR OUR FUTURE AS A DEMOCRACY?
+- *PRESENT and DISCUSS*
 
 :::
 
@@ -332,6 +260,25 @@ HOW BIG A PROBLEM IS THIS FOR OUR FUTURE AS A DEMOCRACY?
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-Kovach & Rosenstiel (2011) ch3
+<br>
+
+### What do you have to have completed before our next class?
 
 
+::: notes
+
+**Check the syllabus and Canvas modules and report back!**
+
+<br>
+
+Debating the effects of social media on society
+
+1. Find us a piece of evidence that you argue shows social media has a positive effect on our society (APA citation and explanation), and 
+
+2. Find us a piece of evidence that you argue shows social media has a negative effect on our society (APA citation and explanation).
+
+<br>
+
+**Questions?**
+
+:::

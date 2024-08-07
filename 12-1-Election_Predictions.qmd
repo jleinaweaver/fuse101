@@ -16,7 +16,7 @@ library(readxl)
 ::: {.r-fit-text}
 **III. It's Election Time!**
 
-- Let's talk predictions! What's going to happen on Tuesday?
+- Let's talk predictions for Tuesday!
 :::
 
 <br>
@@ -28,62 +28,76 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-M: Predictions time! Let's talk predictions! What's going to happen? Why do you think so? Make a prediction for Tuesday and give us a piece of evidence that supports your hunch (no overlap in evidence!). In class build arguments for each side and discuss
-
-<br>
-
 Prep for Class
 
-1. Canvas module set up for assignment?
+1. Publish the Google Form to collect responses...
 
 2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-    
-<br>
 
-Life Check-in
+:::
+   
 
-EVERYBODY DOING OK?
 
-FIRST WEEK HIGHS AND LOWS?
-- CLASSES TO SWAP OUT FOR SOMETHING NEW?
-
-NEED ANYTHING FROM THE CLASS?
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-2. Current Events Check-in
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
-ANY BIG STORIES BREAKING OVER THE WEEKEND?
+- Finding and connecting to communities on campus
 
-- ANYTHING WE SHOULD BE KEEPING OUR EYES ON?
+- Finding a major and a great advisor
 
-:::
+- Navigating the Drury bureaucracy
 
+- Planning your four years at Drury
 
-## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
-
-What does a second Biden term look like for the country and the world? Go find us evidence to evaluate this question! Get outside your bubble!
-
-
-
-
-## TBD {background-image="Images/background-gentle_lines_v3.png" .center}
+- Scheduling
 
 ::: notes
 
-TBD
+**Life Check-in: Everybody doing ok?**
+
+- **Questions about registration or course planning?**
 
 :::
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
 
-What happened?
+::: notes
+**What's happening in the news? Any big stories to discuss?**
+
+<br>
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+*Review the Google Form prediction results*
+
+- *Discuss ALL*
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/12_1-Go_Vote.jpg")
+```
 
 ::: notes
 
-TBD
+Everybody have a plan to vote tomorrow?
+
+<br>
+
+Follow the news and we'll dive into the election on Wednesday!
 
 :::
+

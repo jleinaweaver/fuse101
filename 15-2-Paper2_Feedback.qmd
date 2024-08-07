@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**II. Writing a Convincing Argument**
+**IV. Paper 2 - Making a Convincing Argument**
 
-- Revising and finalizing your first paper
+- Self Evaluations
 :::
 
 <br>
@@ -28,52 +28,118 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-F: Writing Workshop to work on R&Rs (May get dropped if study skills needs another class on Wed)
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
+2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+    
 :::
 
 
 
-## Revise and Resubmit Paper 1 {background-image="Images/background-gentle_lines_v3.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-Reflect on the feedback in the comments then revise and resubmit your paper for a final grade
+<br>
 
-- Submit on Canvas
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
-- You MUST highlight ALL changes
+- Finding and connecting to communities on campus
 
-- Due...
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+**Life Check-in: Everybody doing ok?**
+
+<br>
+
+**Anybody run into anything we can help with?**
+
+:::
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
 
-1. Canvas: Using only your personal social media feeds make a list of the top "news" stories being promoted to you. Note the topic and source of each.
+::: notes
 
-2. Nguyen (2019) *The problem of living inside echo chambers*
+*Open news web pages for prompts to discuss*
 
-3. Newton (2019) *How extremism came to thrive on YouTube*
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+**So, what's going on in the world since we met last week?**
+
+- **What big stories are you following / interested in? why?**
+
+:::
 
 
+## SELF Evaluations {background-image="Images/background-news_v2.png" .center}
+
+1. What in this paper did you do well? What are you most proud of?
+
+2. Score and explain your grade for each criteria in the rubric:
+
+    - Logic: Premises support the conclusion?
+    
+    - Clarity: Easy to read and understand?
+    
+    - Credibility: Enough high quality evidence?
+    
+    - Critical: Addresses weaknesses in the argument?
+    
+**Grade Scale**: 
+
+- Not at all (1), Somewhat (2), Mostly (3), Completely (4)
+
+::: notes
+
+Self-reflection is a vital component to developing your skills as a writer.
+
+- Doing this honestly can be difficult, but learning to honestly reflect on your own work will serve you very well in the future.
+
+- This is your chance to honestly appraise your completed paper and to highlight the aspects you think need to be improved
+
+- Be specific!
+
+<br>
+
+**Questions?**
+
+- Get to it and then submit your evaluation for points.
+
+<br>
+
+*If ready, return paper feedback and grades, give them time to read and reflect on them.*
+
+- **What parts of the feedback do you not understand? Anything I can clarify?**
+
+:::
+
+
+
+## Revise and Resubmit Paper 2 {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+Reflect on ALL of the feedback then revise and resubmit your paper for a final grade
+
+- Due by Dec 11th, 12:20p
+
+- **You MUST highlight ALL changes**
+
+::: notes
+
+We'll save class this Friday to work on these revisions!
+
+:::

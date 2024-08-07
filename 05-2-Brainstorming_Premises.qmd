@@ -16,7 +16,7 @@ library(readxl)
 ::: {.r-fit-text}
 **II. Writing a Convincing Argument**
 
-- Working on Paper 1
+- Brainstorming premises
 :::
 
 <br>
@@ -28,122 +28,181 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-F: (ASSIGNMENT - Pick your event for the paper and provide a short explanation why you picked it) FA21 4.3 - In class brainstorm 10 reasons, review lists, get and give feedback
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
+2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+    
 :::
 
 
-## Paper 1 Prompt {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-What is the single most important current event of the last 18 years?
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-**Assignment for Today:**
+<br>
 
-Reflect on our options and pick your case, e.g. your answer to the question in the paper prompt.
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-IS EVERYBODY READY TO GO ON THIS?
+**Life Check-in: Everybody doing ok?**
 
 <br>
 
-Because this is our first stab at writing a paper, we're going to spend the next few weeks working on this in class.
-
-Today we brainstorm argument diagrams.
+**Anybody run into anything we can help with?**
 
 :::
 
 
 
-## Brainstorming your Argument {background-image="Images/background-gentle_lines_v3.png" .center}
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+**So, what's going on in the world since we met last week?**
+
+- **What big stories are you following / interested in? why?**
+
+<br>
+
+**Anything here in town or on our campus we should be keyed in to?**
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) WITHIN the borders of the United States?
+
+::: notes
+
+Here is the paper prompt you are all working on.
+
+<br>
+
+Last class we road-tested your ideas as elevator pitches to get them on their feet and to help you reflect on your choices
+
+<br>
+
+For today I asked you to brainstorm 10 possible reasons that support your argument
+
+- e.g. possible premises for an argument paper.
+
+<br>
+
+**How did that go? Did 10 feel like a lot? Too many?**
+
+<br>
+
+SLIDE: Let's talk about what makes a "good" premise in an argument
+
+:::
+
+
+
+## A "good" premise is: {background-image="Images/background-news_v2.png" .center}
+
+:::: {.incremental}
+
+::: {.r-fit-text}
+1. clear, 
+
+2. a complete idea, 
+
+3. logically connected to the conclusion, and 
+
+4. could be supported by evidence.
+:::
+::::
+
+::: notes
+
+**REVEAL each**
+
+- Clear: Keep it simple!
+
+- Complete: A complete sentence
+
+- Logic: Don't forget you are building a strong inductive argument
+
+- Evidence: If no evidence exists to support this idea it will be much harder to sell it to the reader
+
+<br>
+
+**Everybody have these written down?**
+
+<br>
+
+**Any questions on them?**
+
+<br>
+
+Let's apply this to your brainstormed list
+
+:::
+
+
+
+## Brainstorming your Argument {background-image="Images/background-news_v2.png" .center}
+
+<br>
 
 On a blank piece of paper write your thesis statement across the top:
 
-"X is the most important current event of the last 18 years."
+"X is the most important US-based current event of the last 18 years."
 
 ::: notes
 
-TBD
 
 :::
 
 
 
-## Brainstorming your Argument {background-image="Images/background-gentle_lines_v3.png" .center}
+## Brainstorming your Argument {background-image="Images/background-news_v2.png" .center}
 
-"X is the most important current event of the last 18 years."
+<br>
 
-Brainstorm a list of **10 reasons** you chose this case.
+Add your brainstormed list of **10 reasons** you chose this case
+
+- Make sure each reason is a "good" premise!
 
 ::: notes
-
-Now, take 15 minutes to brainstorm a list of ten reasons for your choice.
-
-Everybody has to come up with ten reasons, even if some of them aren't very good!
-
-These must be complete sentences.
 
 Go!
 
-:::
-
-
-
-## A "good" premise is: {background-image="Images/background-gentle_lines_v3.png" .center}
-
-1. clear, 
-
-2. a complete idea, 
-
-3. logically connected to the conclusion, and 
-
-4. could be supported by evidence.
-
-::: notes
-
-Introduce our working definition of a "good" premise.
-
-A "good" premise is:
-1. clear, 
-2. a complete idea, 
-3. logically connected to the conclusion, and 
-4. could be supported by evidence.
-
-
-
+<br>
 
 Now, everybody stand up!
 
-Your job is to review everyone else's lists of reasons.
+- Your job is to review everyone else's lists of reasons.
 
-I want you to put a check mark next to any reason you think meets our definition of a "good" premise.
+<br>
 
-Leave the rest blank.
+I want you to put a check mark next to the strongest premises on their lists
 
+- Let's go!
 
-
+<br>
 
 Ok, go take a look at your list.
 
@@ -151,39 +210,51 @@ Ok, go take a look at your list.
 
 - Did everybody flag the premises you thought they would?
 
+:::
 
 
 
+## Paper 1 Prompt {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) WITHIN the borders of the United States?
+
+::: notes
 
 First, let's talk about what you got from reading other people's lists.
 
-IN WHAT SPECIFIC WAYS DOES READING A BUNCH OF ARGUMENTS IN DEVELOPMENT HELP US DESIGN OUR OWN?
+<br>
 
-DID YOU IDENTIFY ANY COMPELLING IDEAS WORTH STEALING?
+**In what specific ways does reading a bunch of arguments in development help us design our own?**
 
-NO NAMES, BUT DID YOU IDENTIFY ANY TYPES OF REASON THAT REALLY DIDN'T WORK FOR YOU?
-- STYLES / TONES OR APPROACHES?
+- **Did you identify any compelling ideas worth stealing?**
 
+- **No names, but did you identify any types of reason that really didn't work for you? e.g. styles, approaches, structures?**
 
+<br>
 
-OK, WHAT DO WE DO WITH THIS FEEDBACK? HOW DO WE PROCESS THE EVIDENCE YOU JUST RECEIVED?
+**OK, what do we do with this feedback? How do we process the evidence you just received?**
 
-- IN OTHER WORDS, SHOULD YOU FOLLOW THE CHECKS OR NOT?
+- **In other words, should you follow the checks or not?**
 
+<br>
 
+**What do you do if one of the reasons you really think is key didn't get many checks?**
+- (Don't give up on it; Revise, clarify, try explaining it differently)
 
-WHAT DO YOU DO IF ONE OF THE REASONS YOU REALLY THINK IS KEY DIDN'T GET MANY CHECKS?
-(- Don't give up on it; Revise, clarify, try explaining it differently)
+<br>
 
-
-
-ANY QUESTIONS ON WHAT WE'RE LOOKING FOR IN A STRONG PREMISE?
+**Any questions on what we're looking for in a strong premise?**
 
 :::
 
 
 
+
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
 
 1. Farrell, H. (2010, February 16). Good Writing in Political Science: An Undergraduate Student’s Short Illustrated Primer.
 
@@ -191,12 +262,14 @@ ANY QUESTIONS ON WHAT WE'RE LOOKING FOR IN A STRONG PREMISE?
 
 ::: notes
 
-For Monday
-
 1. Read the Farrell article for good advice on structuring an argument paper.
 
-- Don't worry about the political science part.
+- Don't worry about the political science part, this is generally applicable advice for an argument paper.
 
 2. Select the 3-5 best reasons for your argument diagram.
+
+<br>
+
+**Questions?**
 
 :::

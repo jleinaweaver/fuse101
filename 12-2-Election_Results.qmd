@@ -16,7 +16,7 @@ library(readxl)
 ::: {.r-fit-text}
 **III. It's Election Time!**
 
-- What happened?
+- What just happened?
 :::
 
 <br>
@@ -28,10 +28,6 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-W: What happened? Bring evidence...
-
-<br>
-
 Prep for Class
 
 1. Canvas module set up for assignment?
@@ -41,38 +37,51 @@ Prep for Class
     
 <br>
 
-Life Check-in
+SLIDE: Before we dive into the election, let's make sure everybody's ok!
+    
+:::
 
-EVERYBODY DOING OK?
 
-FIRST WEEK HIGHS AND LOWS?
-- CLASSES TO SWAP OUT FOR SOMETHING NEW?
 
-NEED ANYTHING FROM THE CLASS?
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-2. Current Events Check-in
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
-ANY BIG STORIES BREAKING OVER THE WEEKEND?
+- Finding and connecting to communities on campus
 
-- ANYTHING WE SHOULD BE KEEPING OUR EYES ON?
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+**Life Check-in: Everybody doing ok?**
+
+- **Questions about registration or course planning?**
 
 :::
 
 
-## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-What does a second Biden term look like for the country and the world? Go find us evidence to evaluate this question! Get outside your bubble!
+## {background-image="Images/background-news_v2.png" .center}
 
-
-
-
-## TBD {background-image="Images/background-gentle_lines_v3.png" .center}
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/12_2-Election_Photos.jpg")
+```
 
 ::: notes
 
-TBD
+**So, what just happened?**
+
+<br>
+
+**How did we do with our class predictions?**
 
 :::
 
@@ -80,11 +89,23 @@ TBD
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-What comes next?
+<br>
+
+### What do you have to have completed before our next class?
 
 
 ::: notes
 
-TBD
+**Check the syllabus and Canvas modules and report back!**
+
+<br>
+
+Election aftermath!
+
+Submit something specific (e.g. a published "hot take", data, etc) that we can use as a jumping off point to discuss the aftermath of the election!
+
+1. Submit the APA citation, and
+
+2. Explain what your evidence tells us about the election or the country
 
 :::

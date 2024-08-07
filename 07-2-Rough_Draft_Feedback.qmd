@@ -28,98 +28,52 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-M: (ASSIGNMENT - Submit in-process rough draft of your paper as a Google Doc and read Graff and Birkenstein (2018) chapter 9) FA21 6.1 - Pairs read each others' drafts and give feedback; Repeat with new partner!
-
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
-    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
 :::
 
 
 
-## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-What is the single most important current event of the last 18 years?
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-ANY QUESTIONS ON THE ASSIGNMENT PROMPT?
+**Life Check-in: Everybody doing ok?**
 
+<br>
+
+**What key pieces of useful advice did you take from the Monday class with Casaundra?**
+
+<br>
+
+SLIDE: Your first big paper deadline is coming up so let's get to work!
 :::
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+## Paper 1 Prompt {background-image="Images/background-news_v2.png" .center}
 
-1. Read chapter 9 of Graff and Birkenstein (2018),
-
-2. Write a rough draft of your paper,
-
-3. Upload your draft to Google Drive, and
-
-4. Submit the link before class Monday
-
-::: notes
-
-EVERYBODY READY TO GO TODAY?
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) WITHIN the borders of the United States?
 
 <br>
 
-Let's get into groups of three today.
-
-New people!!
-
-Your task today is to read and discuss the draft papers in your group.
-
-:::
-
-
-
-## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
-
-<br>
-
-- **Logical**: Do the premises support the conclusion?
-
-- **Clear**: Is the paper easy to read and understand?
-
-- **Credible**: Is there enough high quality evidence (cited using APA)?
-
-- **Critical**: Does the paper address weaknesses in the argument (e.g. logic, evidence, consider counter-arguments)?
-
-::: notes
-
-Remember our rubric!
-
-:::
-
-
-
-## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
-
-What is the single most important current event of the last 18 years?
-
-<br>
+::: {.fragment}
 
 **A convincing argument is logical, clear, credible and critical.**
 
@@ -127,23 +81,43 @@ What is the single most important current event of the last 18 years?
 
 2. Where is the paper not convincing enough? (e.g.evidence, counter-arguments)
 
+:::
+
 ::: notes
 
-My advice: Don't try to rewrite their paper or advise them to write it the way you would.
+Let's get into groups of three today.
 
-Your job, much harder, is to help them make THEIR paper better.
+- Work with new people!
 
-Help them figure out the strongest version of their paper in their voice.
+<br>
+
+I want you to spend some time focused on each paper in your group (12 mins each?)
+
+- My advice: Don't try to rewrite their paper or advise them to write it the way you would.
+
+- Your job, much harder, is to help them make THEIR paper better.
+
+- Help them figure out the strongest version of their paper in their voice.
+
+<br>
+
+**REVEAL**
+
+- Keep the rubric in mind, and flag these two things for them
+
+- Go!
 
 <br>
 
 Group review done? Reflect on the feedback and write, write, write!
 
+<br>
 
+*Come back together at the end*
 
-* Come back together at the end *
+**Lessons so far?**
 
-LESSONS SO FAR? THINGS WE ARE STRUGGLING WITH?
+- **Things we are struggling with?**
 
 :::
 
@@ -151,16 +125,20 @@ LESSONS SO FAR? THINGS WE ARE STRUGGLING WITH?
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-1. Reflect on the feedback and revise your paper to make it more convincing
+<br>
 
-2. Make sure your revised draft is available to share using your Google Doc link
+Paper 1 is due by the end of the day on Friday
+
+- This is our first graded assignment
+
+- There will be a chance for reflections and revision, BUT you must submit a completed paper to receive a grade
 
 ::: notes
 
-For Wed, reflect on the feedback and revise your draft
+I'll give you time to work on the paper in class on Friday.
 
-Upload your revised draft onto Google Doc
+<br>
 
-Make sure to have your laptop Wednesday
+**Questions?**
 
 :::

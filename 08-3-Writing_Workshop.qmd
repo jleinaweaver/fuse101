@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**II. Writing a Convincing Argument**
+**II. Writing a Convincing Argument Paper**
 
-- Revising and finalizing your first paper
+- Writing Workshop
 :::
 
 <br>
@@ -28,52 +28,70 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-F: Writing Workshop to work on R&Rs (May get dropped if study skills needs another class on Wed)
-
 Prep for Class
 
-1. Check Canvas submissions
-
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
-    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+1. TBD
 
 <br>
 
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+Today's class time will be yours to work on and maybe even finish the paper revisions!
 
 <br>
 
-Current Events Check-in
+But first, let's talk assignment for next Monday!
 
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
+- Next week I want us to explore our information ecosystems
 
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
+- In other words, where do we get our information day-to-day and how high quality is the information we are getting?
 
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+<br>
+
+For Monday you have a reading introducing you to some of the key concepts we'll need.
+
+- SLIDE: Then an assignment to complete
+
 :::
-
-
-
-## Revise and Resubmit Paper 1 {background-image="Images/background-gentle_lines_v3.png" .center}
-
-Reflect on the feedback in the comments then revise and resubmit your paper for a final grade
-
-- Submit on Canvas
-
-- You MUST highlight ALL changes
-
-- Due...
 
 
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-1. Canvas: Using only your personal social media feeds make a list of the top "news" stories being promoted to you. Note the topic and source of each.
+```{r, fig.align='center'}
+knitr::include_graphics('Images/08_3-Assign.png')
+```
 
-2. Nguyen (2019) *The problem of living inside echo chambers*
+::: notes
 
-3. Newton (2019) *How extremism came to thrive on YouTube*
+Up to you which "day" you focus on.
+
+- The goal is to get a sense of what your news sources and feeds look like on a typical day.
+
+<br>
+
+**Questions on the assignment?**
+
+:::
+
+
+
+## Revise and Resubmit Paper 1 {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+Reflect on ALL of the feedback then revise and resubmit your paper for a final grade
+
+- Due by Oct 18th
+
+- **You MUST highlight ALL changes**
+
+::: notes
+
+Let's get some good work done!
+
+- Let me know if I can help
+:::
+
+
+
 
 

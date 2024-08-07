@@ -42,11 +42,11 @@ Data, slides and errata for my class at Drury University (FUSE 101: Frontiers)
 
 09-1-News_Diet_Self_Audit.html
 
-09-2-News_Diet_Country_Audit.html
+09-2-Social_Media_Effects.html
 
-10-1-Forecasting_Harris_Presidency.html
+10-1-Important_Local_Issues.html
 
-10-2-Forecasting_Trump_Presidency.html
+10-2-Important_National_Issues.html
 
 10-3-Planning_for_Spring.html
 
@@ -54,7 +54,7 @@ Data, slides and errata for my class at Drury University (FUSE 101: Frontiers)
 
 12-2-Election_Results.html
 
-12-3-The_Future.html
+12-3-The_Aftermath.html
 
 13-1-Brainstorming_Paper2.html
 

@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**IV. Writing Paper 2**
+**IV. Paper 2 - Making a Convincing Argument**
 
-- Get feedback on your rough drafts
+- Getting feedback on your rough drafts
 :::
 
 <br>
@@ -28,65 +28,112 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-F: (ASSIGNMENT - Submit in-process rough draft of your paper as a Google Doc) Pairs read each others' drafts and give feedback; Repeat with new partner!
-
-
-<br>
 
 Prep for Class
 
-1. Canvas module set up for assignment?
-
-2. Open news web pages for prompts to discuss
-    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-    
-<br>
-
-Life Check-in
-
-EVERYBODY DOING OK?
-
-FIRST WEEK HIGHS AND LOWS?
-- CLASSES TO SWAP OUT FOR SOMETHING NEW?
-
-NEED ANYTHING FROM THE CLASS?
-
-<br>
-
-2. Current Events Check-in
-
-ANY BIG STORIES BREAKING OVER THE WEEKEND?
-
-- ANYTHING WE SHOULD BE KEEPING OUR EYES ON?
+1. Check Canvas submissions
 
 :::
 
 
-## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-Submit in-process rough draft of your paper as a Google Doc
+<br>
 
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
+- Finding and connecting to communities on campus
 
+- Finding a major and a great advisor
 
+- Navigating the Drury bureaucracy
 
-## TBD {background-image="Images/background-gentle_lines_v3.png" .center}
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-TBD
+**Life Check-in: Everybody doing ok?**
+
+:::
+
+
+## Paper 2 Prompt {background-image="Images/background-news_v2.png" .center}
+
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) OUTSIDE the borders of the United States?
+
+<br>
+
+::: {.fragment}
+
+**A convincing argument is logical, clear, credible and critical.**
+
+1. Where is the paper not clear enough?
+
+2. Where is the paper not convincing enough? (e.g.evidence, counter-arguments)
+
+:::
+
+::: notes
+
+Let's get into groups of three today.
+
+- Work with new people!
+
+<br>
+
+I want you to spend some time focused on each paper in your group (12 mins each?)
+
+- My advice: Don't try to rewrite their paper or advise them to write it the way you would.
+
+- Your job, much harder, is to help them make THEIR paper better.
+
+- Help them figure out the strongest version of their paper in their voice.
+
+<br>
+
+**REVEAL**
+
+- Keep the rubric in mind, and flag these two things for them
+
+- Go!
+
+<br>
+
+Group review done? Reflect on the feedback and write, write, write!
+
+<br>
+
+*Come back together at the end*
+
+**Lessons so far?**
+
+- **Things we are struggling with?**
 
 :::
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+## For Next Class {background-image="Images/background-blue_triangles2.png" .center}
 
-Submit complete first draft to Canvas
+<br>
 
+::: {.r-fit-text}
+**Monday**
+
+- Writing Workshop
+
+- Completed draft due Nov 25th
+
+:::
 
 ::: notes
 
-TBD
+Plan for Monday
+
+<br>
+
+**Questions on the assignment?**
 
 :::

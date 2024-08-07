@@ -1,0 +1,164 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**III. It's Election Time!**
+
+- Important Issues in our Local Community
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. Check Canvas submissions
+
+:::
+
+
+
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+**Life Check-in: Everybody doing ok?**
+
+<br>
+
+**Anybody run into anything we can help with?**
+
+<br>
+
+Head's up
+
+- Friday we'll meet with Casaundra Beard's class to discuss course registration
+
+- Next week no class, instead one-on-one meetings to discuss Spring scheduling
+
+:::
+
+
+
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+**What's happening in the news? Any big stories to discuss?**
+
+<br>
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/10_1-Assign.png")
+```
+
+::: notes
+
+Today we explore the stakes of the upcoming election in terms of the issues that matter to us on a local level
+
+<br>
+
+As I mentioned last week, I think the media's focus on the "race" part of the election is often a distraction
+
+- In a democracy we elect leaders to solve problems, so let's talk about the problems we care about!
+
+<br>
+
+*Go around the room hearing about the LOCAL issues people care about!*
+
+- *Keep track ON BOARD*
+
+:::
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/10_1-Vote_Local_meme.png")
+```
+
+::: notes
+
+There's a lot of truth to this meme
+
+- So much of our attention is consumed by the national level noise
+
+- But SO MUCH MORE of your day-to-day life is affected by what your local leaders do!
+
+<br>
+
+The taxes you pay the most often, the roads you drive on, the restaurants you dine in, what the schools teach, what crimes are focused on by law enforcement and on and on and on
+
+- ALL of these are local issues 
+
+- And yet purely local elections get teeny tiny voter turnout
+
+<br>
+
+**How do we change this? How do we get people excited for local government?**
+
+:::
+
+
+
+## Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/10_1-US_Map.jpg")
+```
+
+::: notes
+
+Next class we shift our focus from local to national problems.
+
+<br>
+
+To be very clear, I'm not looking for testimonials in support of, or in opposition to, one of the candidates. 
+
+- I want us to talk about the issues we care about, not the personalities involved in the horse race.
+
+<br>
+
+**Questions on the assignment?**
+
+:::

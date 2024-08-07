@@ -1,0 +1,136 @@
+---
+format: revealjs
+---
+
+
+## Today's Agenda {background-image="Images/background-news_v2.png" .center}
+
+```{r}
+# background-size="1920px 1080px"
+library(tidyverse)
+library(readxl)
+```
+
+<br>
+
+::: {.r-fit-text}
+**III. It's Election Time!**
+
+- What have we learned? What's next? 
+:::
+
+<br>
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2024)
+:::
+
+::: notes
+Prep for Class
+
+1. Canvas module set up for assignment?
+
+2. Open news web pages for prompts to discuss
+    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+:::
+
+
+
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
+
+::: notes
+
+**Life Check-in: Everybody doing ok?**
+
+- **Questions about registration or course planning?**
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/12_3-Assign.png")
+```
+
+::: notes
+
+The world is FULL of hot takes right now!
+
+- Let's see what you guys have found!
+
+<br>
+
+*PRESENT and DISCUSS Canvas submissions*
+
+<br>
+
+**So, what have we learned about our country this week?**
+
+<br>
+
+**And what's next for the US?**
+
+<br>
+
+SLIDE: Next week we start working on your final papers!
+
+:::
+
+
+
+## Paper 2 Prompt {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) OUTSIDE the borders of the United States?
+
+::: notes
+
+Paper 2 takes us INTERNATIONAL!
+
+- **Any questions on the prompt?**
+
+<br>
+
+Everybody open up Canvas and take a look at the assignment for Monday.
+
+- **Any questions on the assignment for Monday?**
+
+<br>
+
+Preparing for the Final Paper
+
+In preparation for your final paper you must submit to Canvas your choice for the most important current event of your lifetime that happened OUTSIDE the borders of the United States.
+
+By "event" I mean a specific thing that happened on a specific date (e.g. actor X did Y on date Z and that impacted this person, group, or area in these specific ways...).
+
+You cannot submit an event that has already been submitted (first-come, first-served).
+
+Submit:
+
+1. Submit an APA formatted reference for the evidence describing the event,
+
+2. Explain the key components of your chosen event (e.g. who is involved? what is happening? what are the stakes?), and
+
+3. Briefly explain why you argue this is the most important event of your lifetime.
+
+:::

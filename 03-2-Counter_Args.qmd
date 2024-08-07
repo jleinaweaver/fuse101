@@ -16,7 +16,7 @@ library(readxl)
 ::: {.r-fit-text}
 **I. Developing our Skills Toolbox**
 
-- Strengthen your argument diagrams by addressing counter-arguments
+- Counter-arguments and critical analysis
 :::
 
 <br>
@@ -28,104 +28,223 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-F: (ASSIGNMENT and Graff and Birkenstein (2018) chap 6) FA21 3.2 + scheduling meetings for next week - Hear the rebuttals, rebut the rebuttals, set-up the next two weeks:
-1) one-on-one meetings for next week
-2) short writing assignment due before meeting
-3) Paper 1 topic, submit your case before class Sep 16
-
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
+2. Skip current events check-in to save time for exercise
 
 3. Set up meeting scheduling tool
-
-4. Open news web pages for prompts to discuss
-    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-    
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-- NEW EXPERT TIPS?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD?
-
-- ANY BIG INTERNATIONAL STORIES?
-
-- BIG NATIONAL STORIES?
-
-- ON CAMPUS NEWS-WISE?
+    - Open this in class so they can see it
 
 :::
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-Review the arguments submitted by the other groups and prepare a rebuttal for each of them.
+<br>
 
-**Note:** Use the advice in chapter 6 of Graff and Birkenstein (2018) to help you think about counter-arguments. 
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-IS EVERYBODY READY TO GO ON THIS?
+**Life Check-in: Everybody doing ok?**
 
 <br>
 
-Let's go around the room, give each group your best counter-argument.
-
-Groups, they're doing this because they love you.
-
-Take notes!
-
-Your job is to consider these counter-arguments and think about how you could strengthen your current argument against these critiques!
+**Anybody run into anything we can help with?**
 
 <br>
 
-Groups, now reflect on what you've just heard.
-
-How can you revise your argument diagram to deal with some of these critiques?
-
-Do you need a counter-argument premise?
-
-<br>
-
-Let's hear how each group has thought about revising their argument to strengthen against the rebuttals.
-
-Tell us how you're trying to do it and let us know if we can help.
-
-<br>
-
-ARE WE FEELING BETTER ABOUT BUILDING A CONVINCING ACADEMIC ARGUMENT?
-
-<br>
-
-**SLIDE**: Before we wrap up today we need to talk about the next two weeks of class!
+**How have each of you begun to embed yourself in the department that hosts your major?**
 
 :::
 
 
-## Next Week: One-on-one Advising Meetings {background-image="Images/background-gentle_lines_v3.png" .center}
 
+## For Today {background-image="Images/background-blue_triangles2.png" .center}
+
+<br>
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/03_2-Assignment.png")
+```
+
+::: notes
+
+For today I asked everyone to find us an argument from the opinion pages of a mainstream media newspaper.
+
+<br>
+
+Our plan for today is to use the arguments in your chosen op-eds to help us practice making counter-arguments
+
+<br>
+
+SLIDE: But first, let's talk about counter-arguments!
+
+:::
+
+
+
+## Graff and Birkenstein (2018) {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/03_2-Counter_Args.gif")
+```
+
+::: notes
+
+**Why do Graff and Birkenstein (2018) argue that this is exactly the wrong way to think about counter-arguments?**
+
+- **Big picture, how should we think about writing an argument according to these authors?**
+
+<br>
+
+"Indeed, no single device more quickly improves a piece of writing than planting a naysayer in the text..." (p78)
+
+- Writing a convincing argument is engaging in a conversation with the reader, NOT you presenting "uncontroversial truths in a vacuum" (78).
+
+:::
+
+
+
+## Graff and Birkenstein (2018) {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/03_2-Counter_Arg_meme.jpg")
+```
+
+::: notes
+
+**In what three ways do these authors argue that including counter-arguments makes our work stronger?**
+
+1. Giving voice to a criticism and then addressing that criticism disarms those critics (even if they don't completely buy your explanation)
+
+2. Show respect to your readers, treat them like "independent, critical thinkers"
+
+3. Show yourself to be open-minded and confident in your argument
+
+4. (Bonus benefit) Flesh out that word count!
+
+<br>
+
+**According to the chapter, what are the two conditions you must meet for a counter-argument to make your work stronger instead of weaker?**
+
+1. p85: You must represent the objections fairly
+    - This means presnting the strongest possible version of their objection!
+    
+2. p86: you must answer the objections persuasively!
+    - Useful hint: Treat the objection as a chance to refine your position rather than taking the position that the objection is worthless
+    
+    - Accept part of the critique and show how you adapt to it or deal with it
+    
+    - "yes, but" or "yes and no"
+    
+<br>
+
+**Questions on the counter-argument advice in the chapter?**
+
+<br>
+
+SLIDE: Let's practice!
+:::
+
+
+
+## Practice Making a Counter-Argument {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/03_2-Assignment.png")
+```
+
+::: notes
+
+Split class into 3 groups
+
+<br>
+
+Task 1: Review the op-eds submitted by the members of your group
+
+- Pick one argument you'd like to work on today (e.g. one argument you'd like to counter!)
+
+<br>
+
+Task 2: Read the cited article and revise the argument diagram
+
+- Get that diagram up on the board!
+
+<br>
+
+Task 3: Propose a counter-argument to the op-ed
+
+- 3 premises and a conclusion!
+
+<br>
+
+Task 4: Propose a "persuasive" counter-argument to the counter-argument!
+
+- Use one of the templates from the chapter
+
+:::
+
+
+
+## Using Counter-Arguments to Strengthen your Arguments {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/03_2-Counter_Arg_meme2.jpg")
+```
+
+::: notes
+
+Ok, each group I want you to present the original argument + your counter to the counter argument
+
+- The idea is that you are taking on the role of the original author. Make sense?
+
+- Go!
+
+<br>
+
+**Did the counter-argument make the original argument stronger or not?**
+
+<br>
+
+**Any questions on the power of counter-arguments?**
+
+:::
+
+
+
+## Next Week {background-image="Images/background-news_v2.png" .center}
+
+::: {.r-fit-text}
+**One-on-one Advising Meetings**
+:::
 
 ::: notes
 
 Class next week is being replaced by one-on-one meetings
 
-- 15 mins, scheduled using...
+- 15 mins, scheduled using the link on Canvas
+
+- You MUST sign up for one of the slots and meet with me
 
 <br>
 
-Before we meet you must submit TWO things
+REGARDLESS of when we meet, you must submit TWO assignments to Canvas before 11am on Monday (normal class time)
 
-1. Design a weekly class / study / work schedule (using the template from our work in week 1), AND
+1. Design a weekly class / study / work schedule that represents your typical week (using the template from our work in week 1), AND
 
 2. A short essay: "What are THREE specific things you want to accomplish during your time at Drury? (e.g. skills to learn, experiences to have, classes to take, etc.)"
 
@@ -137,58 +256,68 @@ In our meeting we'll get a chance to touch base and discuss these two things
 
 So, everybody MUST sign up for one of the meetings next week!
 
+- *Show them the sign-up sheet*
+
 <br>
 
-**SLIDE**: The week AFTER next we dive into your first paper for the class
+**Any questions on our plan for next week?**
+
+<br>
+
+**SLIDE**: The week AFTER next we dive into your first paper for this class
 
 :::
 
 
 
-## Argument Paper 1 {background-image="Images/background-gentle_lines_v3.png" .center}
+## Paper 1 {background-image="Images/background-news_v2.png" .center}
 
-What is the single most important current event of the last 18 years (e.g. your lifetime)?
+<br>
 
+### What was the the single most important "current" event of the last 18 years WITHIN the borders of the United States?
 
+::: notes
 
-## For Sep 16th {background-image="Images/background-blue_triangles_flipped.png" .center}
+The first argument paper you will write for this class will represent an answer to this question.
 
-Bring a news story to class describing the single most important current event of the last 18 years.
+<br>
 
-**Submit your evidence before class that Monday**
+We will build this paper working together over the next few weeks in class
 
-- Article published **at the time of the event**
-- Include an **APA** formatted reference, and 
-- a one sentence answer to the question "What specific event did you choose?"
+- **In the meantime, any questions about the prompt?**
 
+<br>
 
+SLIDE: To get you moving on this we have an assignment due for a week from Monday (e.g. after our week of one-on-one meetings).
 
-## Tips for Locating News Stories {background-image="Images/background-blue_triangles_flipped.png" .center}
-
-Option 1. Google News
-
-- https://news.google.com
-
-- Use the search bar drop-down to specify date
+:::
 
 
 
-## Tips for Locating News Stories {background-image="Images/background-blue_triangles_flipped.png" .center}
+## {background-image="Images/background-news_v2.png" .center}
 
-Option 1. Google News
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/03_2-Assign_for_Next.png")
+```
 
-Option 2. Olin Library Electronic Resources
+::: notes
 
-- library.drury.edu -> "A-Z Databases" -> "News & Information"
+Due BEFORE class on September 16th
 
-- Examples: Newspaper Source, ProQuest US Newsstream, the New York Times
+- You have over a week to get ready for this, but don't let it fall off your radar!
 
+<br>
 
+**Questions on the assignment?**
 
-## Tips for Locating News Stories {background-image="Images/background-blue_triangles_flipped.png" .center}
+<br>
 
-Option 1. Google News
+**IMPORTANT**: You cannot submit an event that has already been claimed!
 
-Option 2. Olin Library Electronic Resources
+- The idea is that we collect a bunch of different ideas not generate a consensus on the most obvious pick 
 
-Option 3. Talk to a librarian!
+<br>
+
+Ok, don't forget to sign up for a meeting for next week and get those assignments done!
+
+:::

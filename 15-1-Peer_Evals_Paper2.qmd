@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**IV. Writing Paper 2**
+**IV. Paper 2 - Making a Convincing Argument**
 
-- Evaluating the paper drafts
+- Peer Evaluations
 :::
 
 <br>
@@ -28,94 +28,43 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-W: Peer evaluations (see FA21 7.1) - Evaluate a classmates paper fully (1/2 class); THEN apply that level of critical analysis to your own paper and submit BOTH evals!
-
-
 Prep for Class
 
-1. Check Canvas submissions
+1. Skip current events
 
-2. Unhide assignments - Place to submit both evaluations
-
-3. Skip current events
+2. Plan student pairs for evaluations
 
 <br>
 
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+This week we ONCE AGAIN work to improve the quality of all of your papers
+
+- Plan of attack mirrors what we did for Paper 1 in Week 8
+
+- Peer evaluations, Self evaluations + my feedback
+
+- You'll then have Friday in class to revise and resubmit your paper for a final grade
 
 <br>
 
-Today I want you to practice evaluating argument papers
+*Assign class into pairs*
 
-- Invaluable skill to deepen
+- Your job will be to read and reflect on your partner's paper and then SUBMIT an evaluation of the paper to the person AND to me.
 
-- Makes you a more useful colleague, AND
+- This is a graded assignment you will submit to Canvas
 
-- A MUCH better writer!
-
-<br>
-
-Flaws in other peoples' writing will be WAY more obvious to you than those same flaws in your own writing
-
-- Their work didn't come out of your head!
+- You will have 20 minutes to complete your evaluation
 
 <br>
 
-Pair off!
-
-- New people!
-
-<br>
-
-Your job will be to read and reflect on your partner's paper and then submit an evaluation of the paper to the person AND to me
-
-- **Big picture questions on the exercise?**
-:::
-
-
-
-## Evaluations {background-image="Images/background-gentle_lines_v3.png" .center}
-
-1. What is the strongest aspect of the paper?
-
-::: {.fragment}
-
-2. Score and explain your grade for each criteria in the rubric:
-
-    - Logic: Premises support the conclusion?
-    
-    - Clarity: Easy to read and understand?
-    
-    - Credibility: Enough high quality evidence?
-    
-    - Critical: Addresses weaknesses in the argument?
-    
-**Grade Scale**: 
-
-- Not at all (1), Somewhat (2), Mostly (3), Completely (4)
-
-:::
-
-::: notes
-
-20 mins - Your job
-
-- Ultimately, I will be grading all of the papers and you will have the opportunity to revise and resubmit them for a better grade.
-
-This means I want you to engage with this activity in a serious way.
-
-This exercise is primarily meant to help you reflect on your own work and to think more deeply about the elements of writing a convincing argument, not to dramatically impact your final grade in the class.
-
-
-- Submit and share with other person
+SLIDE: Let's talk details
 
 :::
 
 
 
-## SELF Evaluations {background-image="Images/background-gentle_lines_v3.png" .center}
+## Peer Evaluations {background-image="Images/background-news_v2.png" .center}
 
-1. What in this paper did you do well? What are you most proud of?
+1. What are the strongest SPECIFIC aspects of the paper?
 
 2. Score and explain your grade for each criteria in the rubric:
 
@@ -133,17 +82,65 @@ This exercise is primarily meant to help you reflect on your own work and to thi
 
 ::: notes
 
-REPEAT the exercise but now focus on YOUR paper
+Two parts to the evaluation
 
-Self-reflection is a vital component to developing your skills as a writer.
+1. Highlight the strengths of the paper
 
-Doing this honestly can be difficult, but learning to honestly reflect on your own work will serve you very well in the future.
+2. REVEAL: Apply the rubric to the paper
+    - Make sure to score AND explain your reasoning for each
+
+<br>
+
+Remember, we have two goals here
+
+1. Give a classmate useful input to help them write a more convincing paper
+
+2. This exercise is ultimately meant to help you reflect on your own work and to think more deeply about the elements of writing a convincing argument
+
+<br>
+
+**Any questions on the assignment?**
+
+- Let's go!
+
+- You have 20 minutes then submit this evaluation to Canvas AND email your feedback to the other person!
 
 :::
 
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
+## Peer Evaluations 2 {background-image="Images/background-news_v2.png" .center}
 
-TBD... Get to work on the R&R?
+1. What are the strongest SPECIFIC aspects of the paper?
 
+2. Score and explain your grade for each criteria in the rubric:
+
+    - Logic: Premises support the conclusion?
+    
+    - Clarity: Easy to read and understand?
+    
+    - Credibility: Enough high quality evidence?
+    
+    - Critical: Addresses weaknesses in the argument?
+    
+**Grade Scale**: 
+
+- Not at all (1), Somewhat (2), Mostly (3), Completely (4)
+
+::: notes
+
+*Set up new pairs and publish second assignment*
+
+- Ok, let's do it again!
+
+- New pairs, new evals
+
+- You have 20 minutes then submit this evaluation to Canvas AND email your feedback to the other person!
+
+<br>
+
+My goal is to have everybody's paper grades and feedback done for class Wednesday
+
+- Fingers crossed!
+
+:::

@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**II. Writing a Convincing Argument**
+**II. Writing a Convincing Argument Paper**
 
-- Finishing your paper drafts
+- Finishing your first paper
 :::
 
 <br>
@@ -28,67 +28,41 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-(ASSIGNMENT Submit complete first draft to Canvas after class) Writing workshop FA21 6.3
+**Life check-in: Everybody doing ok? Need anything?**
 
-PAPER Due Oct 4th, Return grades by next Thur so we can have an R&R in class Fri
-
-
-
-Prep for Class
-
-1. Check Canvas submissions
-
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
-    - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
 :::
 
 
 
-## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+## Paper 1 Prompt {background-image="Images/background-news_v2.png" .center}
 
-What is the single most important current event of the last 18 years?
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) WITHIN the borders of the United States?
 
 <br>
 
-To be convincing an argument should be logical, clear, credible and critical
+Rubric: To be convincing an argument should be logical, clear, credible and critical
 
 ::: notes
 
-HOW ARE THE PAPER'S GOING?
+**How are the paper's going?**
 
-- ANYTHING WE NEED TO ADDRESS?
-
-<br>
-
-*Form groups of three, new people!*
+- **Anything we need to address?**
 
 <br>
 
-Read the drafts with the rubric in mind and give each other feedback.
+The paper is due before midnight tonight, submitted to Canvas
 
-- Your job will be to consider that feedback, revise your paper and submit it before midnight tonight!
+- Today we have a writing workshop.
+
+- Use this time as you see fit, but get that paper in!
 
 <br>
 
-QUESTIONS?
+NOTE: Even after the deadline tonight we're not done with this paper!
 
-- Let's get to work!
+- We'll be working with it next week
+
+- MAKE SURE to bring a copy of your COMPLETED paper to class on Monday
 
 <br>
 
@@ -98,7 +72,7 @@ QUESTIONS?
 
 
 
-## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-news_v2.png" .center}
 
 <br>
 

@@ -14,12 +14,14 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**II. Writing a Convincing Argument**
+**II. Writing a Convincing Argument Paper**
 
-- Farrell (2010), the paper rubric and outlining the paper
+- Reflecting on Farrell's (2010) Advice
+
+- Reviewing the class rubric
+
+- Outlining your paper
 :::
-
-<br>
 
 <br>
 
@@ -28,57 +30,76 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-M: (Farrell 2010) FA21 5.1 - Discuss Farrell's advice, work to develop an outline, get and give feedback
-
-- IMPORTANT: Add discussion of AI tools. Don't use them. Even tools like Grammarly that just promise to help with grammar. We want YOU to become excellent writers and that requires seeing where YOU are right NOW. Not about where you wish you were now.
-
-
 Prep for Class
 
-1. Check Canvas submissions
-
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
+1. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
 
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
 :::
 
 
-## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-1. Farrell, H. (2010, February 16). Good Writing in Political Science: An Undergraduate Student’s Short Illustrated Primer.
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-2. Reflect on the feedback and select the 3-5 strongest reasons for your argument diagram.
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-Let's talk about Farrell's (2010) advice on writing.
+**Life Check-in: Everybody doing ok?**
 
-I know most of this is common sense, but let's reinforce these very important pieces of advice.
+<br>
+
+**Anybody run into anything we can help with?**
 
 :::
 
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
 
 <br>
 
+**So, what's going on in the world since we met last week?**
+
+- **What big stories are you following / interested in? why?**
+
+<br>
+
+**Anything here in town or on our campus we should be keyed in to?**
+
+<br>
+
+SLIDE: Let's talk about Farrell's (2010) advice on writing.
+:::
+
+
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
 1. Read the Requirements for the Assignment
+:::
 
 ::: notes
 **What's the advice in the "read the requirements for the assignment" section?**
@@ -110,13 +131,17 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
 
 <br>
+
+::: {.r-fit-text}
 
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
+
+:::
 
 ::: notes
 **What's the advice in the "avoid data dumps" section?**
@@ -132,15 +157,19 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
 
 <br>
+
+::: {.r-fit-text}
 
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
 
 3. Cut to the Chase
+
+:::
 
 ::: notes
 **What's the advice in the "cut to the chase" section?**
@@ -151,11 +180,11 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 <br>
 
 2) (Focus your introduction on making three things clear:)
-1. What is the question?
+    1. What is the question?
 
-2. Why should we care?
+    2. Why should we care?
 
-3. What is your argument.
+    3. What is your argument.
 
 <br>
 
@@ -164,10 +193,11 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 :::
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
+::: {.r-fit-text}
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
@@ -175,6 +205,7 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 3. Cut to the Chase
 
 4. Organize, Organize, Organize
+:::
 
 ::: notes
 **What's the advice in the "organize, organize, organize" section?**
@@ -183,10 +214,11 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 :::
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
+::: {.r-fit-text}
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
@@ -195,6 +227,8 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 
 4. Organize, Organize, Organize
     - **Macro Structure**
+
+:::
 
 ::: notes
 
@@ -212,10 +246,11 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 :::
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
+::: {.r-fit-text}
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
@@ -224,6 +259,8 @@ Also, a good chance to reinforce our AI policy in this class (as specified by th
 
 4. Organize, Organize, Organize
     - **Meso Structure**
+
+:::
 
 ::: notes
 
@@ -255,6 +292,7 @@ In other words, your meso structure is taken care of if you clearly diagram your
 <br>
 
 I cannot emphasize this enough.
+
 - You should check your meso structure every time you write a paper!
 
 - An argument with a bad meso structure will NEVER be convincing.
@@ -264,6 +302,7 @@ I cannot emphasize this enough.
 <br>
 
 A weak argument with an awesome meso structure CAN still be effective.
+
 - The easier it is for the reader to follow the argument, the more likely they will be convinced.
 
 <br>
@@ -272,10 +311,11 @@ A weak argument with an awesome meso structure CAN still be effective.
 :::
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
+::: {.r-fit-text}
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
@@ -284,6 +324,8 @@ A weak argument with an awesome meso structure CAN still be effective.
 
 4. Organize, Organize, Organize
     - **Micro Structure**
+
+:::
 
 ::: notes
 
@@ -299,10 +341,11 @@ A weak argument with an awesome meso structure CAN still be effective.
 
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
+::: {.r-fit-text}
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
@@ -312,6 +355,7 @@ A weak argument with an awesome meso structure CAN still be effective.
 4. Organize, Organize, Organize
 
 5. Exercises in Style
+:::
 
 ::: notes
 
@@ -332,7 +376,7 @@ A weak argument with an awesome meso structure CAN still be effective.
 :::
 
 
-## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-news_v2.png" .center}
 
 ::: notes
 
@@ -348,7 +392,7 @@ I grade using this rubric.
 :::
 
 
-## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -371,7 +415,7 @@ A very good series of questions to ask yourself before submitting!
 
 
 
-## Outlining an Argument Paper {background-image="Images/background-blue_triangles2.png" .center .smaller}
+## Outlining an Argument Paper {background-image="Images/background-news_v2.png" .center .smaller}
 
 **Intro**
 
@@ -390,34 +434,32 @@ A very good series of questions to ask yourself before submitting!
 
 ::: notes
 
-Ok, that's a lot of background info.
+Today, I want everyone to take write out a bullet point outline of their paper
 
-Today, I want everyone to take some time to convert their current argument diagram into an outline of their paper. (10 mins?)
+- This means an intro section with three complete sentences, and
+    - What is the question?
+    - Why do we care?
+    - Thesis statement
 
-This means an intro section with three complete sentences, and
-- What is the question?
-- Why do we care?
-- Thesis statement
+- Your premises written as complete sentences that clearly advance your argument in a logical order.
 
-Your premises written as complete sentences that clearly advance your argument in a logical order.
+<br>
 
-QUESTIONS ON THIS?
+**Questions on this?**
 
-In ten minutes or so we'll share outlines to get feedback.
+- In ten minutes or so we'll share outlines to get feedback.
 
-
-
+<br>
 
 Pairs: Share and get feedback
+
 - Help your partner think about the rubric and the clarity of the premises.
 
-
-
+<br>
 
 New pairs: Share and get feedback
 
-
-
+<br>
 
 Time to reflect: Think about the feedback and revise to strengthen your outline. 
 
@@ -425,62 +467,37 @@ Time to reflect: Think about the feedback and revise to strengthen your outline.
 
 
 
-## {background-image="Images/background-blue_triangles2.png" .center .smaller}
-
-::::: {.columns}
-:::: {.column width="35%"}
+## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
 <br>
 
-<br>
-
-::: {.r-fit-text}
-**Wednesday**
-
-- Research Day
-
-**Friday**
-
-- Submit before class
-:::
-::::
-
-:::: {.column width="5%"}
-
-::::
-
-:::: {.column width="60%"}
-**Intro**
-
-- What is the question?
-- Why do we care?
-- Thesis statement
-
-**Reason 1 (premise)**
-
-- Evidence x 2
-
-**Reason 2 (premise)**
-
-- Evidence x 2
-
-**Reason 3 (premise)**
-
-- Evidence x 2
-::::
-:::::
+### What do you have to have completed before our next class?
 
 
 ::: notes
 
-No class Wednesday!
+**Check the syllabus and Canvas modules and report back!**
 
-Your job Wednesday is to locate TWO pieces of evidence for each premise in your argument.
+<br>
 
-* Send email announcement *
+Monday we pause from our paper writing to have a special class focused on skills that will help you succeed in your classes
+
+- Working with Casaundra Beard from the Compass Center
+
+<br>
+
+Your next paper assignment is due before class on Wednesday
+
+<br>
+
+Submit a revised outline to Canvas that includes:
+
+1. AT LEAST one piece of high quality evidence for each premise in your argument, AND
+
+2. Includes an explanation for how each piece of evidence connects to the premise it supports.
+
+<br>
+
+**Questions on the assignment for next WEDNESDAY?**
 
 :::
-
-
-
-

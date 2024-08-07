@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**II. Writing a Convincing Argument**
+**II. Writing a Convincing Argument Paper**
 
-- Getting started on Paper 1
+- Elevator Pitches
 :::
 
 <br>
@@ -28,53 +28,76 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-M: (ASSIGNMENT - ID the single "most important current event" of the last 18 years (e.g. your lifetime) that happened INSIDE the borders of the United States, NO OVERLAP) FA21 4.1 - Review citations and cases, practice elevator pitches
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
+2. Skip current events check-in to save time for elevator pitches
 
-3. Skip current events check-in to save time for elevator pitches
+:::
+
+
+
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
-:::
+- Finding and connecting to communities on campus
 
+- Finding a major and a great advisor
 
+- Navigating the Drury bureaucracy
 
-## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
+- Planning your four years at Drury
 
-Bring a news story to class describing the single most important current event of the last 18 years.
-
-**Submit your evidence before class Monday**
-
-- Article published **at the time of the event**
-- Include an **APA** formatted reference, and 
-- a one sentence answer to the question "What specific event did you choose?"
+- Scheduling
 
 ::: notes
 
-HAS EVERYBODY SUBMITTED THEIR NEWS STORY?
+**Life Check-in: Everybody doing ok?**
 
-WERE YOU ABLE TO FIND A NEWS STORY FROM THE TIME OF THE EVENT?
+<br>
+
+**Anybody run into anything we can help with?**
 
 :::
 
 
 
-## APA Style {background-image="Images/background-gentle_lines_v3.png" .center}
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/03_2-Assign_for_Next.png")
+```
+
+::: notes
+
+**Has everybody submitted their news story?**
+
+<br>
+
+**Were you able to find a news story from the time of the event or a more recent report on it?**
+
+:::
+
+
+
+## APA Style {background-image="Images/background-news_v2.png" .center}
 
 **Books**
 
 Author, A. A. (Year of publication). *Title of work: Capital letter also for subtitle*. Publisher Name. DOI
 
+<br>
+
 **Journals, Magazines, Newspapers**
 
 Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. *Title of Periodical*, volume number(issue number), pages. DOI
+
+<br>
 
 **Webpage / Online Content**
 
@@ -84,74 +107,78 @@ Lastname, F. M. (Year, Month Date). *Title of page*. Site name. URL
 
 Review all citations for correct APA formatting
 
-Fix those cites!
+- Let's fix those cites!
 
 :::
 
 
 
-
-## {background-image="Images/background-gentle_lines_v3.png" .center}
-
-```{r, fig.align = 'center'}
-knitr::include_graphics("Images/04_1-dewey_defeats_truman.jpg")
-```
+## {background-image="Images/05_1-elevator-pitch.png"}
 
 ::: notes
 
-GIVEN THESE ARE SUPPOSED TO BE NEWS STORIES FROM THE TIME OF THE EVENT, ANY CONCERNS ABOUT THE QUALITY OF YOUR EVIDENCE?
+My plan for today is that everyone give us an "elevator pitch" for their chosen event.
 
+<br>
 
-SHOULD WE BE MORE SKEPTICAL OF IN THE MOMENT REPORTING OR REFLECTIONS ON EVENTS THAT HAPPENED YEARS AGO? WHY?
+**Is everybody familiar with this concept?**
 
+- Imagine you have a 2 minute elevator ride with a person you want something from
 
-(All evidence "quality" depends on what you're trying to establish with it)
+- Can you effectively pitch your idea to someone in a compelling way in such a short time?
 
-- News of the time: Quotes, instant perceptions, tracking movment of people and resources
+<br>
 
-- News years after the fact: Reflections on the event hopefully with expert context
+**Has anybody ever prepped this kind of exercise before?**
 
 :::
 
 
 
-## {background-image="Images/background-gentle_lines_v3.png" .center}
+
+## {background-image="Images/background-news_v2.png" .center}
 
 ```{r, fig.align = 'center'}
 knitr::include_graphics("Images/04_1-elevator_pitch.png")
 ```
 
-The most important current event of our lifetimes is X because...
+<br>
+
+The most important current event of my lifetimes is X because...
 
 ::: notes
 
-Take a sec to think about your chosen case and then each of you will make an elevator pitch of your argument to the class.
+Take a few minutes to review your discussion post and prep your pitch for us.
 
-Use no more than two minutes to sell us on your argument!
+- You have two minutes to sell us on your argument!
 
+<br>
+
+Let's now pair off, practice running your elevator pitch.
+
+- Give each other feedback!
+
+<br>
+
+Ok, let's hear your pitches!
 :::
 
 
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-1. Did we miss something important?
-    - Everybody find and submit a second case! (no evidence needed)
+<br>
 
-2. Make a personal top-five list.
+### What do you have to have completed before our next class?
+
 
 ::: notes
 
-Reflect on all the cases and...
+**Check the syllabus and Canvas modules and report back!**
 
-1. Did we miss anything big?
+<br>
 
-Everybody find us another case to consider (no evidence needed), submit it to the document under your current citation
-
-
-2. Reflect on all the options and make a personal top five list.
-
-Which of these events would you prioritize as the most important of the most important?
+Brainstorming Premises: Decide on your thesis for the first paper (e.g. your chosen "most important event") and brainstorm 10 reasons for this choice to Canvas. I know ten reasons feels like a ton, but the aim here is to force you to think deeply and widely about your chosen case. Remember, there are no bad ideas in a brainstorm!
 
 :::
 

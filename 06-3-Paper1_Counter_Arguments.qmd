@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**II. Writing a Convincing Argument**
+**II. Writing a Convincing Argument Paper**
 
-- Adding more critical analysis to your drafts
+- Adding counter-arguments to your outline
 :::
 
 <br>
@@ -28,50 +28,90 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-W: brainstorming counter arguments in groups; road test a few for the class FA21 6.2
-
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
+2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+    
 :::
 
 
 
-## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-What is the single most important current event of the last 18 years?
+<br>
+
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-HOW ARE THE PAPER'S GOING?
+**Life Check-in: Everybody doing ok?**
 
-ANYTHING WE NEED TO ADDRESS?
+<br>
+
+**Anybody run into anything we can help with?**
 
 :::
 
 
 
-## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+
+<br>
+
+**So, what's going on in the world since we met last week?**
+
+- **What big stories are you following / interested in? why?**
+
+<br>
+
+**Anything here in town or on our campus we should be keyed in to?**
+
+<br>
+
+SLIDE: Let's talk about the papers!
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) WITHIN the borders of the United States?
+
+::: notes
+
+**Questions on the prompt for the first paper?**
+
+<br>
+
+Head's up that the first completed draft of the paper will be due October 4th
+
+- We'll keep building up to it but I want to remind you of that deadline on the horizon
+:::
+
+
+
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -87,99 +127,114 @@ ANYTHING WE NEED TO ADDRESS?
 
 Today we focus on the fourth item in our rubric, critical analysis.
 
-WHAT DOES THIS MEAN? HOW DO WE DO THIS IN OUR ARGUMENT PAPERS?
+<br>
+
+SLIDE: We've been working on these elements all week but let's clarify for a sec
 
 :::
 
 
 
-## Critical Analysis in an Argument Paper {background-image="Images/background-gentle_lines_v3.png" .center}
+## Critical Analysis in an Argument Paper {background-image="Images/background-news_v2.png" .center}
 
 <br>
  
-1. Being as critical of your own work as you are of others
+Being as critical of your own work as you are of others
 
-    - e.g. Where is your logic and evidence weakest?
-
-::: notes
-
-Adding critical analysis to your argument paper means:
-
-(1. SLIDE)
-
-- Being as critical of our own argument and evidence as we are of other people's
 - e.g. Where is your logic and evidence weakest?
-- Identify those spots and shore them up
-- Add new evidence, explain the logic more completely, etc.
-
-:::
-
-
-## Critical Analysis in an Argument Paper {background-image="Images/background-gentle_lines_v3.png" .center}
-
-<br>
- 
-1. Being as critical of your own work as you are of others
-
-    - e.g. Where is your logic and evidence weakest?
-
-2. Addressing the strongest versions of any counter arguments
 
 ::: notes
 
-REFRESH MY MEMORY, WHAT DO WE MEAN BY "STONGEST" VERSIONS?
+On Wednesday you added evidence to your outline and then had to defend the quality of that evidence to your classmates
 
-(No straw-men!)
-- Never present a competing argument in its weakest form just to defeat it.
+- THAT is one way we add critical analysis to an argument paper
 
-Much better to present a strong version if you can't best it.
-- We take the complexities of the world seriously. Be honest about that!
+- Making sure the reader understands why your evidence is sufficiently high quality for the job IS about making your argument more convincing
 
-QUESTIONS ON THIS?
+- **Make sense?**
 
 <br>
 
-*Form groups of three, new people!*
+A second way we add critical analysis is by addressing the strongest versions of any counter arguments
+
+- **What was the advice from Graff and Birkenstein about strengthening your paper with counter-arguments?**
+
+- Counter-arguments allow you to disarm your critics, show respect for your readers, show yourself as open-minded and to flesh out your word count
+
+- BUT you must:
+    1. p85: You must represent the objections fairly
+    
+    2. p86: you must answer the objections persuasively!
 
 :::
 
 
 
-## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+## {background-image="Images/background-news_v2.png" .center}
 
-What is the single most important current event of the last 18 years?
-
-<br>
-
-**Critical** arguments acknowledge the limitations of our logic/evidence and address counter-arguments.
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/06_3-Assign.png")
+```
 
 ::: notes
 
-Spend 10 minutes on each paper.
+Get with the person you exchanged papers with and discuss the counter-arguments they brainstormed for you
 
-Help each other brainstorm AND ADDRESS critiques of your argument.
+- Help each other pick the most useful one and think about what it would take to "persuasively" address it
+
+- This means you need evidence in support of the counter-argument AND evidence you could use to address it
 
 <br>
 
-*CLASS Report Back:*
+NEW PAIRS: Present your argument, your counter-argument and your idea for how to address it.
 
-ANYTHING WE AS A CLASS CAN HELP YOU WITH?
+- Get feedback!
 
-- STRUGGLING TO COME UP WITH COUNTERS OR AREAS IN YOUR PAPER NEEDING DEFENDING?
+<br>
 
+**How are we doing with this?**
+
+- **Does everybody have a good counter-argument?**
+
+- **Does everybody have a sense of how they will address it?**
 :::
+
 
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-1. Add critical analysis to your paper (possibly a counter-arg paragraph before the conclusion), and 
+<br>
 
-2. Make sure your revised draft is available to share using your Google Doc link
+### What do you have to have completed before our next class?
+
 
 ::: notes
 
-TBD
+**Check the syllabus and Canvas modules and report back!**
+
+<br>
+
+Monday we pause from our paper writing to have a special class focused on advising
+
+- Working with Casaundra Beard from the Compass Center
+
+<br>
+
+For next WEDNESDAY:
+
+1. Read the Graff and Birkenstein chapter, and
+
+2. Complete a rough draft of your paper you can share in class
+    - Upload a rough draft of your completed paper to either Google Docs or Office 365 so you can share it with others in class for their feedback. 
+    
+    - You must submit to Canvas a link to your paper so I can verify this was completed before class.
+
+<br>
+
+**Questions on the assignment for next WEDNESDAY?**
 
 :::
+
+
 
 

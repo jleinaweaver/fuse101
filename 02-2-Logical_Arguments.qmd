@@ -264,11 +264,31 @@ Groups, now evaluate your assigned argument
 
 <br>
 
-Alison Brown Workshop on Collegiate Professionalism
+For Friday: Alison Brown Workshop on Collegiate Professionalism
 
 - Nothing! (so far)
 
 <br>
+
+Monday no school
+
+<br>
+
+SLIDE: For next Wednesday!
+
+:::
+
+
+
+## For Next WEDNESDAY {background-image="Images/background-blue_triangles_flipped.png" .center}
+
+<br>
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/02_2-Assignment.png")
+```
+
+::: notes
 
 **Questions?**
 

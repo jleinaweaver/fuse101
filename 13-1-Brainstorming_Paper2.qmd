@@ -14,9 +14,9 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**IV. Writing Paper 2**
+**IV. Paper 2 - Making a Convincing Argument**
 
-- What's next?
+- Elevator Pitches
 :::
 
 <br>
@@ -28,66 +28,148 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-Starting Paper 2
-
-- ASSIGNMENT - ID the single "most important current event" of the last 18 years (e.g. your lifetime) that happened OUTSIDE the borders of the United States, NO OVERLAP)
-
-<br>
-
 Prep for Class
 
-1. Canvas module set up for assignment?
+1. Review Canvas submissions
 
 2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-    
-<br>
-
-Life Check-in
-
-EVERYBODY DOING OK?
-
-FIRST WEEK HIGHS AND LOWS?
-- CLASSES TO SWAP OUT FOR SOMETHING NEW?
-
-NEED ANYTHING FROM THE CLASS?
-
-<br>
-
-2. Current Events Check-in
-
-ANY BIG STORIES BREAKING OVER THE WEEKEND?
-
-- ANYTHING WE SHOULD BE KEEPING OUR EYES ON?
 
 :::
 
 
-## For Today {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-(ASSIGNMENT - ID the single "most important current event" of the last 18 years (e.g. your lifetime) that happened OUTSIDE the borders of the United States, NO OVERLAP) Mirrors class 05-1
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
+<br>
 
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
 
+- Finding and connecting to communities on campus
 
+- Finding a major and a great advisor
 
-## TBD {background-image="Images/background-gentle_lines_v3.png" .center}
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-TBD
+**Life Check-in: Everybody doing ok?**
 
+<br>
+
+**Anybody run into anything we can help with?**
+
+:::
+
+
+
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+**What's happening in the news? Any big stories to discuss?**
+
+<br>
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
+:::
+
+
+
+
+## {background-image="Images/background-blue_triangles2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/13_1-Assign.png")
+```
+
+::: notes
+
+**Everybody ready to go with this?**
+
+:::
+
+
+
+## APA Style {background-image="Images/background-news_v2.png" .center}
+
+**Books**
+
+Author, A. A. (Year of publication). *Title of work: Capital letter also for subtitle*. Publisher Name. DOI
+
+<br>
+
+**Journals, Magazines, Newspapers**
+
+Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. *Title of Periodical*, volume number(issue number), pages. DOI
+
+<br>
+
+**Webpage / Online Content**
+
+Lastname, F. M. (Year, Month Date). *Title of page*. Site name. URL
+
+::: notes
+
+Review all citations for correct APA formatting
+
+- Let's fix those cites!
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/04_1-elevator_pitch.png")
+```
+
+<br>
+
+The most important **INTERNATIONAL** current event of my lifetime is X because...
+
+::: notes
+
+Take a few minutes to review your discussion post and prep your pitch for us.
+
+- You have two minutes to sell us on your argument!
+
+<br>
+
+Let's now pair off, practice running your elevator pitch.
+
+- Give each other feedback!
+
+<br>
+
+Ok, let's hear your pitches!
 :::
 
 
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-Groups rank all options and discuss what we learn from trying to rank the cases about importance in a global context. Is this different from our ranking exercises focused on domestic events.
+<br>
+
+### What do you have to have completed before our next class?
 
 
 ::: notes
 
-TBD
+**Check the syllabus and Canvas modules and report back!**
+
+<br>
+
+Brainstorming Premises: Decide on your thesis for the first paper (e.g. your chosen "most important event") and submit 10 reasons for your choice to Canvas.
 
 :::
+
+
+
+

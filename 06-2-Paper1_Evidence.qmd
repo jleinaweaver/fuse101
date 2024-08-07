@@ -14,7 +14,7 @@ library(readxl)
 <br>
 
 ::: {.r-fit-text}
-**II. Writing a Convincing Argument**
+**II. Writing a Convincing Argument Paper**
 
 - Reviewing and revising paper outlines
 :::
@@ -28,54 +28,94 @@ Justin Leinaweaver (Fall 2024)
 :::
 
 ::: notes
-F: (ASSIGNMENT: Bring to class at least two pieces of high quality evidence for each premise in your argument) FA21 5.3 - Get and give feedback on premise clarity and evidence quality
-
-
 Prep for Class
 
 1. Check Canvas submissions
 
-2. Prep new discussion board
-
-3. Open news web pages for prompts to discuss
+2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
-
-<br>
-
-LIFE CHECK-IN: EVERYBODY DOING OK? NEED ANYTHING?
-
-<br>
-
-Current Events Check-in
-
-SO, WHAT'S GOING ON IN THE WORLD SINCE WE MET LAST WEEK?
-
-- WHAT BIG STORIES ARE YOU FOLLOWING / INTERESTED IN? WHY?
-
-- ANYTHING HERE IN TOWN OR ON OUR CAMPUS WE SHOULD BE KEYED IN TO?
+    
 :::
 
 
+## Fuse 101: Our Most Important Goal! {background-image="Images/background-news_v2.png" .center}
 
-## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
+<br>
 
-What is the single most important current event of the last 18 years?
+**Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.**
+
+- Finding and connecting to communities on campus
+
+- Finding a major and a great advisor
+
+- Navigating the Drury bureaucracy
+
+- Planning your four years at Drury
+
+- Scheduling
 
 ::: notes
 
-The prompt we are working on.
+**Life Check-in: Everybody doing ok?**
 
-What is the single most important current event of the last 18 years (e.g. your lifetime)?
+<br>
 
-ANY QUESTIONS OR CLARIFICATIONS ON THIS?
+**Anybody run into anything we can help with?**
 
 :::
 
 
-## Farrell's (2010) Writing Advice {background-image="Images/background-gentle_lines_v3.png" .center}
+
+## What's happening in the news? Any big stories to discuss? {background-image="Images/background-news_v2.png" .center}
+
+::: notes
+
+*Open news web pages for prompts to discuss*
+
+- CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
 
 <br>
 
+**So, what's going on in the world since we met last week?**
+
+- **What big stories are you following / interested in? why?**
+
+<br>
+
+**Anything here in town or on our campus we should be keyed in to?**
+
+<br>
+
+SLIDE: Let's refresh our work
+:::
+
+
+
+## Paper 1 Prompt {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+### What was the the single most important "current" event of the last 18 years (e.g. your lifetime) WITHIN the borders of the United States?
+
+::: notes
+
+**Questions on the prompt for the first paper?**
+
+<br>
+
+Head's up that the first completed draft of the paper will be due October 4th
+
+- We'll keep building up to it but I want to remind you of that deadline on the horizon
+
+:::
+
+
+
+## Farrell's (2010) Writing Advice {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
 1. Read the Requirements for the Assignment
 
 2. Avoid Data Dumps
@@ -85,41 +125,19 @@ ANY QUESTIONS OR CLARIFICATIONS ON THIS?
 4. Organize, Organize, Organize
 
 5. Exercises in Style
-
-::: notes
-
-REFRESH MY MEMORY, HOW DOES THE FARRELL (2010) ADVICE HELP ME WRITE THIS SPECIFIC PAPER?
-
-*Force discussion*
-
-:::
-
-
-
-## Paper 1 Prompt {background-image="Images/background-gentle_lines_v3.png" .center}
-
-What is the single most important current event of the last 18 years?
-
-<br>
-
-::: {.fragment}
-To be convincing an argument should be **logical, clear, credible and critical**
 :::
 
 ::: notes
 
-AND HOW DOES OUR RUBRIC HELP YOU WRITE THIS PAPER?
+**Refresh my memory, how does the Farrell (2010) advice help you write this specific paper?**
 
-*Force discussion*
+- *Force discussion*
 
-**SLIDE**: Rubric details if needed
 :::
 
 
 
-## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-gentle_lines_v3.png" .center}
-
-<br>
+## To be convincing an argument should be logical, clear, credible and critical {background-image="Images/background-news_v2.png" .center}
 
 - **Logical**: Do the premises support the conclusion?
 
@@ -130,14 +148,13 @@ AND HOW DOES OUR RUBRIC HELP YOU WRITE THIS PAPER?
 - **Critical**: Does the paper address weaknesses in the argument (e.g. logic, evidence, consider counter-arguments)?
 
 ::: notes
-
-TBD
-
+**Any questions on the rubric I use to grade your papers?**
 :::
 
 
 
-## Outlining an Argument Paper {background-image="Images/background-blue_triangles2.png" .center .smaller}
+
+## Outlining an Argument Paper {background-image="Images/background-news_v2.png" .center}
 
 **Intro**
 
@@ -145,25 +162,17 @@ TBD
 - Why do we care?
 - Thesis statement
 
-**Reason 1 (premise)**
+**Reason 1 (premise) + a clear connection to evidence**
 
-- Evidence x 2
+**Reason 2 (premise) + a clear connection to evidence**
 
-**Reason 2 (premise)**
-
-- Evidence x 2
-
-**Reason 3 (premise)**
-
-- Evidence x 2
+**Reason 3 (premise) + a clear connection to evidence**
 
 ::: notes
 
-Assignment for today
+**How are we doing with our outlines?**
 
-Locate TWO pieces of evidence for each premise in your argument.
-
-HOW DID THIS GO? ANY DIFFICULTIES WE CAN HELP WITH?
+- **Was everybody able to connect evidence to each premise?**
 
 <br>
 
@@ -173,7 +182,7 @@ Pair off, somebody new!
 
 
 
-## Review the Evidence {background-image="Images/background-gentle_lines_v3.png" .center}
+## Review the Evidence {background-image="Images/background-news_v2.png" .center}
 
 <br>
 
@@ -196,27 +205,33 @@ Pair off, somebody new!
 
 Everybody repeat this exercise with a new partner!
 
+<br>
 
+*Check back in with the class.*
 
-Check back in with the class.
-
-ANYBODY HAVE QUESTIONS OR NEED ADVICE FROM THE GROUP?
+- **Anybody have questions or need advice from the group?**
 
 :::
 
 
 ## For Next Class {background-image="Images/background-blue_triangles_flipped.png" .center}
 
-1. Read chapter 9 of Graff and Birkenstein (2018),
+<br>
 
-2. Write a rough draft of your paper,
-
-3. Upload your draft to Google Drive, and
-
-4. Submit the link before class Monday
+### What do you have to have completed before our next class?
 
 ::: notes
 
+**Check the syllabus and Canvas modules and report back!**
+
+<br>
+
+Exchange papers with someone else in class. 
+
+- Your job will be to produce a counter-argument for their paper. Submit: 
+
+1. A one-paragraph summary of their argument (in your own words), and 
+
+2. THREE possible counter-arguments for their paper.
 
 :::
-
