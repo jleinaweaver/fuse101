@@ -39,9 +39,7 @@ Welcome to Drury!
 
 - I can only begin to imagine the whirlwind you are caught up in right now.
 
-<br>
-
-**Is everybody doing ok?**
+- **Is everybody doing ok?**
 
 <br>
 
@@ -51,19 +49,7 @@ I promise you EVERYBODY is fried and a little overwhelmed at this point!
 
 - Even the faculty since we're scrambling to get ready for the new semester!
 
-:::
-
-
-
-## Fuse 101: Frontiers {background-image="Images/background-news_v2.png" .center}
-
 <br>
-
-```{r, fig.align='center'}
-knitr::include_graphics("Images/01_1-My_Faculty_Page.png")
-```
-
-::: notes
 
 Welcome to FUSE 101
 
@@ -77,11 +63,7 @@ Each section of FUSE 101 is taught by a different faculty member and each has it
 
 - I'm your host, Dr. Leinaweaver
 
-- *Basics about you*
-
-<br>
-
-**Is everybody in the right place?**
+- **Is everybody in the right place?**
 
 :::
 
@@ -94,7 +76,7 @@ Each section of FUSE 101 is taught by a different faculty member and each has it
 
 2. Major
 
-3. Home town?
+3. Hometown?
 
 4. Best meal you ever had?
 
