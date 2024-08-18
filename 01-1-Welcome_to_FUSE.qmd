@@ -360,13 +360,17 @@ Before we meet again as a class on Wednesday I want each of you to log into Canv
 ## FUSE 101 Plan for this Week {background-image="Images/background-news_v2.png" .center}
 
 ::: {.r-fit-text}
-- **Monday**: Service Plunge @ Fassnight Park (8am)
 
+- **Monday**: Service Plunge @ Fassnight Park
+    - Meet in Spangler Hall (7:45am)
+
+:::: {.incremental}
 - **Wednesday**: First class meeting (11am)
 
 - **Thursday**: Opening Convocation (11am)
 
-- **Friday**: Assignment due before class
+- **Friday**: Assignment due **BEFORE** class (11am)
+::::
 :::
 
 ::: notes
