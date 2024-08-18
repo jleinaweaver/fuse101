@@ -339,9 +339,7 @@ One caution: Faculty are crazy busy so make sure to have a goal for the meeting.
 
 
 
-## For Next Class {background-image="Images/background-news_v2.png" .center}
-
-<br>
+## For Next Class(es) {background-image="Images/background-news_v2.png" .center}
 
 ```{r, fig.align = 'center'}
 knitr::include_graphics("Images/01_2-Assignment_for_Friday.png")
@@ -349,7 +347,15 @@ knitr::include_graphics("Images/01_2-Assignment_for_Friday.png")
 
 ::: notes
 
-Per the syllabus and Canvas Modules you have two documents to bring to class and an assignment to complete.
+Thursday is Opening Convocation at 11am
+
+- Required event!
+
+- Upload a selfie to Canvas assignment to prove you were there!
+
+<br>
+
+For Friday you have two documents to bring to class and an assignment to complete.
 
 <br>
 
