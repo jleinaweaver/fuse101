@@ -32,10 +32,9 @@ Prep for Class
 
 1. Check Canvas submissions
 
-2. Skip current events check-in to save time for exercise
+2. Check Canvas calendar to see who still needs to sign up for a meeting 
 
-3. Set up meeting scheduling tool
-    - Open this in class so they can see it
+3. Skip current events check-in to save time for exercise
 
 :::
 
@@ -69,7 +68,70 @@ Prep for Class
 
 **How have each of you begun to embed yourself in the department that hosts your major?**
 
+<br>
+
+SLIDE: Reminder for next week
+
 :::
+
+
+## Next Week {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+**One-on-one Advising Meetings**
+
+1. Sign up for a meeting on Canvas
+
+2. Submit a weekly planner
+
+3. Submit a short essay
+:::
+
+::: notes
+
+NO CLASS NEXT WEEK!
+
+<br>
+
+INSTEAD, I will meet with each of you one-on-one in my office
+
+- Available appointments are on the Canvas calendar tool
+
+- Link to instructions is on Canvas Modules ([how-to link](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar-as/ta-p/536))
+
+- You MUST sign up for one of the slots and meet with me
+
+<br>
+
+**REGARDLESS of when we meet, you must submit TWO assignments to Canvas before 11am on Monday (normal class time)**
+
+1. Design a weekly class / study / work schedule that represents your typical week (using the template from our work in week 1), AND
+
+2. A short essay: "What are THREE specific things you want to accomplish during your time at Drury? (e.g. skills to learn, experiences to have, classes to take, etc.)"
+
+<br>
+
+In our meeting we'll get a chance to touch base and discuss these two things
+
+<br>
+
+So, everybody MUST sign up for one of the meetings next week!
+
+- **Any questions on our plan for next week?**
+
+<br>
+
+**SLIDE**: Back to our work for today!
+
+:::
+
+
+
+
+
+
 
 
 
@@ -221,46 +283,6 @@ Ok, each group I want you to present the original argument + your counter to the
 <br>
 
 **Any questions on the power of counter-arguments?**
-
-:::
-
-
-
-## Next Week {background-image="Images/background-news_v2.png" .center}
-
-::: {.r-fit-text}
-**One-on-one Advising Meetings**
-:::
-
-::: notes
-
-Class next week is being replaced by one-on-one meetings
-
-- 15 mins, scheduled using the calender scheduler on Canvas ([how-to link](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar-as/ta-p/536))
-
-- You MUST sign up for one of the slots and meet with me
-
-<br>
-
-REGARDLESS of when we meet, you must submit TWO assignments to Canvas before 11am on Monday (normal class time)
-
-1. Design a weekly class / study / work schedule that represents your typical week (using the template from our work in week 1), AND
-
-2. A short essay: "What are THREE specific things you want to accomplish during your time at Drury? (e.g. skills to learn, experiences to have, classes to take, etc.)"
-
-<br>
-
-In our meeting we'll get a chance to touch base and discuss these two things
-
-<br>
-
-So, everybody MUST sign up for one of the meetings next week!
-
-- **Any questions on our plan for next week?**
-
-<br>
-
-**SLIDE**: The week AFTER next we dive into your first paper for this class
 
 :::
 
