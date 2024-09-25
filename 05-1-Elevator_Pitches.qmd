@@ -144,7 +144,7 @@ knitr::include_graphics("Images/04_1-elevator_pitch.png")
 
 <br>
 
-The most important current event of my lifetimes is X because...
+The most important current event of my lifetime is X because...
 
 ::: notes
 
