@@ -8,7 +8,7 @@
 <link href="08-2-Paper1_Feedback_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="08-2-Paper1_Feedback_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="08-2-Paper1_Feedback_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.555">
+  <meta name="generator" content="quarto-1.5.57">
 
   <title>paper1_feedback</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -434,9 +434,21 @@
 <p><br></p>
 <p><strong>How did evaluating other people’s papers help you think about your own? Did it?</strong></p>
 <p><br></p>
-<p>If it didn’t help you, let’s talk about it!</p>
+<p>I’m seeing in your papers we’re still struggling with the idea of a counter-argument, so let’s discuss it</p>
+<p><br></p>
+<p>I want you to think about counter-arguments in the context of this paper assignment</p>
 <ul>
-<li><strong>Could a different evaluation form have helped?</strong></li>
+<li>I’m not asking you to argue that some horrible event you selected was actually a good thing.</li>
+</ul>
+<p><br></p>
+<p>The key here is that the assignment asks you to argue your “horrible event” is the MOST important event of your lifetime</p>
+<ul>
+<li><p>The premises in your argument are, therefore, the criteria you have chosen for arguing something is most important</p></li>
+<li><p>Your counter-argument could very well be identifying a different event that meets those same criteria AND THEN explaining why that doesn’t change your conclusion</p></li>
+</ul>
+<p><br></p>
+<ul>
+<li><strong>Does that make sense?</strong></li>
 </ul>
 <p><br></p>
 <p>SLIDE: I want to practice this exercise one more time today.</p>
@@ -804,18 +816,7 @@
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -847,7 +848,29 @@
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -855,7 +878,7 @@
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {
