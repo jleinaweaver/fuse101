@@ -141,7 +141,7 @@ Two parts to the evaluation
 1. Highlight the strengths of the paper
 
 2. REVEAL: Apply the rubric to the paper
-    - Make sure to score AND explain your reasoning for each
+    - Make sure to score **AND explain** your reasoning for each
 
 <br>
 
@@ -154,6 +154,10 @@ Remember, we have two goals here
 <br>
 
 **Any questions on the assignment?**
+
+- I will be grading your evaluations so take it seriously.
+
+- The better (meaning more thoughtful and helpful) your feedback, the better the grade
 
 - Let's go!
 
