@@ -8,7 +8,7 @@
 <link href="10-1-Important_Local_Issues_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="10-1-Important_Local_Issues_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="10-1-Important_Local_Issues_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.555">
+  <meta name="generator" content="quarto-1.5.57">
 
   <title>important_local_issues</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -360,23 +360,31 @@
 <h2>Fuse 101: Our Most Important Goal!</h2>
 <p><br></p>
 <p><strong>Our primary goal is to ensure everyone in this room connects to the Drury experience in meaningful ways.</strong></p>
-<ul>
-<li><p>Finding and connecting to communities on campus</p></li>
-<li><p>Finding a major and a great advisor</p></li>
-<li><p>Navigating the Drury bureaucracy</p></li>
-<li><p>Planning your four years at Drury</p></li>
-<li><p>Scheduling</p></li>
-</ul>
+<p><br></p>
+<h3 id="next-week-scheduling">Next Week: Scheduling</h3>
+<ol type="1">
+<li><p>Register for a one-on-one meeting</p></li>
+<li><p>Submit your proposed schedule by Mon 11am</p></li>
+</ol>
 <aside class="notes">
 <p><strong>Life Check-in: Everybody doing ok?</strong></p>
 <p><br></p>
 <p><strong>Anybody run into anything we can help with?</strong></p>
 <p><br></p>
 <p>Head’s up</p>
-<ul>
+<ol type="1">
 <li><p>Friday we’ll meet with Casaundra Beard’s class to discuss course registration</p></li>
 <li><p>Next week no class, instead one-on-one meetings to discuss Spring scheduling</p></li>
+</ol>
+<p><br></p>
+<p>EVERYBODY must register for an appointment slot with me on Canvas for next week</p>
+<ul>
+<li><strong>Does everybody remember how to do that using the calendar tool on Canvas?</strong></li>
 </ul>
+<p><br></p>
+<p>You also MUST submit your schedule for CREDIT on Canvas due Oct 28th 11am</p>
+<p><br></p>
+<p><strong>Questions on the plan for next week or what you need to do?</strong></p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -775,18 +783,7 @@
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -818,7 +815,29 @@
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -826,7 +845,7 @@
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {
