@@ -9,6 +9,21 @@ format: revealjs
 # background-size="1920px 1080px"
 library(tidyverse)
 library(readxl)
+library(haven)
+
+d <- read_csv("12-1-Class_Predictions-FA24.csv") |>
+  rename("submitted" = `Timestamp`,
+         "student" = `Name?`,
+         "presidency_popular" = `Which candidate will win the popular vote for president?`,
+         "presidency_ec" = `Which candidate will win the electoral college (e.g. win the presidency)?`,
+         "presidency_confident" = `How confident are you in your prediction for the winner of the presidency?`,
+         "house" = `Which party will control the House of Representatives?`,
+         "house_confident" = `How confident are you in your prediction for which party will control the House?`,
+         "senate" = `Which party will control the Senate?`,
+         "senate_confident" = `How confident are you in your prediction for which party will control the Senate?`,
+         "min_wage" = `Will Missouri voters pass the \"Minimum Wage and Earned Paid Sick Time Initiative\" that raises the state's minimum wage to $15 (Proposition A)?`,
+         "abortion" = `Will Missouri voters pass the \"Right to Reproductive Freedom Amendment\" that establishes a \"right for reproductive freedom\" (Amendment 3)?`,
+         "sports_betting" = `Will Missouri voters pass the \"Sports Betting Amendment\" that legalizes sport betting (Amendment 2)?`)
 ```
 
 <br>
@@ -35,6 +50,8 @@ Prep for Class
 2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
 
+3. Save the responses data and refresh your plots!
+    - "F101 - FA24 - Predicting the 2024 Election.csv"
 :::
    
 
@@ -93,11 +110,277 @@ knitr::include_graphics("Images/12_1-Go_Vote.jpg")
 
 ::: notes
 
-Everybody have a plan to vote tomorrow?
+**Everybody have a plan to vote tomorrow?**
 
 <br>
 
-Follow the news and we'll dive into the election on Wednesday!
+Let's talk predictions!
+
+- **Tell me, according to our class, which candidate will win the presidency tomorrow?**
+
+- (SLIDE)
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+```{r, fig.retina=3, fig.asp=1, fig.width=6}
+d |>
+  ggplot(aes(x = presidency_popular)) +
+  geom_bar(width = .5, fill = c("red", "blue")) +
+  theme_bw() +
+  labs(x = "", y = "", title = "Predicted winner of the popular vote (e.g. who gets the most votes)") +
+  scale_y_continuous(breaks = 1:11)
+```
+:::
+
+::: {.column width="50%"}
+```{r, fig.retina=3, fig.asp=1, fig.width=6}
+d |>
+  ggplot(aes(x = presidency_ec)) +
+  geom_bar(width = .5, fill = c("red", "blue")) +
+  theme_bw() +
+  labs(x = "", y = "", title = "Predicted winner of the electoral college (e.g. the actual winner)") +
+  scale_y_continuous(breaks = 1:11)
+```
+:::
+
+::::
+
+::: notes
+
+Alright, talk to me about your predictions here!
+
+- **What do we learn from these?**
+
+<br>
+
+SLIDE: Interestingly, the answers differ across the two questions!
 
 :::
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = presidency_ec, fill = presidency_popular)) +
+  geom_bar(width = .5) +
+  theme_bw() +
+  labs(x = "", y = "", title = "Predicted winner of the electoral college (e.g. the actual winner)",
+       fill = "Predicted popular\n vote winner") +
+  scale_fill_manual(values = c("red", "blue")) +
+  scale_y_continuous(breaks = 1:11)
+```
+
+::: notes
+
+**What do we learn from this about your predictions?**
+
+<br>
+
+SLIDE: Let's talk confidence!
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = presidency_confident)) +
+  geom_bar(width = .5) +
+  theme_bw() +
+  labs(x = "", y = "", title = "Confidence in your presidential predictions") +
+  scale_x_discrete(limits = c("Not confident at all", "A little confident", "Fairly confident", "Completely confident"))  +
+  scale_y_continuous(breaks = 1:11)
+```
+
+::: notes
+
+**For those who feel confident, why so?**
+
+<br>
+
+**For those who do not, why not?**
+
+<br>
+
+SLIDE: Let's add confidence to the mix!
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = presidency_confident, fill = presidency_ec)) +
+  geom_bar(width = .5, position = "fill") +
+  theme_bw() +
+  labs(x = "", y = "", title = "And the presidential winner is... Predictions x Confidence", fill = "Predicted EC\n winner") +
+  scale_x_discrete(limits = c("Not confident at all", "A little confident", "Fairly confident", "Completely confident")) +
+  scale_y_continuous(labels = scales::percent_format()) +
+  scale_fill_manual(values = c("red", "blue"))
+```
+
+::: notes
+
+**Do we learn anything from this approach?**
+
+<br>
+
+**Has viewing these other predictions changed your prediction for tomorrow? Why or why not?**
+
+<br>
+
+SLIDE: Let's talk House predictions!
+
+:::
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = house_confident, fill = house)) +
+  geom_bar(width = .5, position = "fill") +
+  theme_bw() +
+  labs(x = "", y = "", title = "Which party will control the House? Predictions x Confidence", fill = "Predicted House\n winner") +
+  scale_x_discrete(limits = c("Not confident at all", "A little confident", "Fairly confident", "Completely confident")) +
+  scale_y_continuous(labels = scales::percent_format()) +
+  scale_fill_manual(values = c("grey", "blue", "red"))
+```
+
+::: notes
+
+**So, what do we think happens tomorrow re the House of Representatives?**
+
+<br>
+
+**Are you confident? Why or why not?**
+
+<br>
+
+**Does it matter?**
+
+<br>
+
+SLIDE: To the Senate!
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = senate_confident, fill = senate)) +
+  geom_bar(width = .5, position = "fill") +
+  theme_bw() +
+  labs(x = "", y = "", title = "Which party will control the Senate? Predictions x Confidence", fill = "Predicted Senate\n winner") +
+  scale_x_discrete(limits = c("Not confident at all", "A little confident", "Fairly confident", "Completely confident")) +
+  scale_y_continuous(labels = scales::percent_format()) +
+  scale_fill_manual(values = c("grey", "blue", "red"))
+```
+
+::: notes
+
+**So, what do we think happens tomorrow re the Senate?**
+
+<br>
+
+**Are you confident? Why or why not?**
+
+<br>
+
+**Does it matter?**
+
+<br>
+
+SLIDE: To the constitutional amendments!
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = min_wage)) +
+  geom_bar(width = .5, fill = c("red", "blue")) +
+  theme_bw() +
+  labs(x = "", y = "", title = "MO Amendment: Raise the Minimum Wage") +
+  scale_y_continuous(breaks = 1:15)
+```
+
+::: notes
+
+
+:::
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = abortion)) +
+  geom_bar(width = .5, fill = c("red", "blue")) +
+  theme_bw() +
+  labs(x = "", y = "", title = "MO Amendment: Abortion") +
+  scale_fill_manual(values = c("red", "blue")) +
+  scale_y_continuous(breaks = 1:15)
+```
+
+::: notes
+
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.retina=3, fig.asp=.75, fig.align='center'}
+d |>
+  ggplot(aes(x = sports_betting)) +
+  geom_bar(width = .5, fill = c("red", "blue")) +
+  theme_bw() +
+  labs(x = "", y = "", title = "MO Amendment: Sports Betting") +
+  scale_y_continuous(breaks = 1:15)
+```
+
+::: notes
+
+
+:::
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+```{r, fig.align = 'center'}
+knitr::include_graphics("Images/12_1-Go_Vote.jpg")
+```
+
+::: notes
+
+Vote tomorrow!
+
+<br>
+
+Be ready with your canvas assignment for Wed
+
+:::
+
+
+
+
 

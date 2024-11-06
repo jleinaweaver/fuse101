@@ -16,10 +16,8 @@ library(readxl)
 ::: {.r-fit-text}
 **III. It's Election Time!**
 
-- What just happened?
+- What just happened? Are you guys psychic?
 :::
-
-<br>
 
 <br>
 
@@ -84,6 +82,38 @@ knitr::include_graphics("Images/12_2-Election_Photos.jpg")
 **How did we do with our class predictions?**
 
 :::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+![](Images/12_2-presidential_approval_election.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Political science is undefeated!
+
+- Biden at 38.5% which per this model predicts 46-ish% of the vote whcih is close to Harris's predicted total
+
+<br>
+
+SLIDE: Predictions on the map
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+![](Images/12_2-PS_Forecast_Election.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+
+:::
+
+
+
 
 
 
