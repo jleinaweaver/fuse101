@@ -35,6 +35,11 @@ Prep for Class
 2. Open news web pages for prompts to discuss
     - CNN, NYT, Washington Post, The Guardian, Irish Times, etc.
 
+<br>
+
+Today we wrap up our week on the election
+
+- SLIDE: But first, checking-in!
 :::
 
 
@@ -61,21 +66,194 @@ Prep for Class
 
 - **Questions about registration or course planning?**
 
+<br>
+
+SLIDE: Today I want to discuss the "hot takes" you guys found!
+
+:::
+
+
+
+## Abortion Rights in Missouri {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+![](Images/12_3-MO_Amendment3.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+This tells us that Amendment 3 - the right to abortion was passed. It was passed by 51% to 48%, so it was a close call. 
+
+- Lilliana
+
+:::
+
+
+
+## A Rightward Shift Nationwide {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+![](Images/12_3-NYT_Red_Shift.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+This talks about many different things but the one that stuck out to me was the writing about how much the country moved right, many states including Florida, Texas, Ohio, New York and Virgina. [NYT](https://www.nytimes.com/2024/11/06/us/politics/election-takeaways-trump-harris.html)  
+
+- Ryleigh
+
+:::
+
+
+
+## Did the US election polls fail? {background-image="Images/background-news_v2.png" .center}
+
+<br>
+
+![](Images/12_3-Polling_failure.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+This source talks about the polls, and which states were likely to vote republican or democratic. It also talks about the statistics of the the polls, and how different they were from the actual election votes. [Link](https://www.bbc.com/news/articles/cj4ve004llxo.amp)
+
+- Shantae
+
 :::
 
 
 
 ## {background-image="Images/background-news_v2.png" .center}
 
-```{r, fig.align = 'center'}
-knitr::include_graphics("Images/12_3-Assign.png")
-```
+::: {.r-fit-text}
+**Are the betting markets better predictors of elections?**
+:::
+
+![](Images/12_3-betting_Markets.png){style="display: block; margin: 0 auto"}
 
 ::: notes
 
-The world is FULL of hot takes right now!
+High profile betting sites were very favorable to Trumps success in the election. By 12:30 am the odds were 98.3% in favor of Trump, this was the tracking of the odds across Betfair, Kalshi, PredictIt, Polymarket and Smarkets, these sites offer users contracts whose prices are tied to real time and market implied odds of a certain candidate. Each contract will pay out $1 if the bettor opted for the winning candidate and $0 if their wager was incorrect. So at the odds right now, a contract for Trump would cost $0.57 and for Harris $0.44 on Robinhood. [Link](https://www.forbes.com/sites/dereksaul/2024/11/06/election-betting-odds-trump-hits-99-on-polymarket-kalshi-as-more-election-results-come-in/)
 
-- Let's see what you guys have found!
+- Kendyl
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+:::{.r-fit-text}
+**How serious is the misinformation problem?**
+:::
+
+![](Images/12_3-misinformation_voting_2024.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+My hot take
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+::: {.r-fit-text}
+**The Presidency as an Escape From Accountability**
+:::
+
+![](Images/12_3-Trump_Immunity.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+This talks about the charges that Trump had and is believed that it will probably delayed or dismissed during his presidency because he is shielded from prosecution by a longstanding U.S. Department of Justice policy saying sitting presidents are basically immune to any criminal prosecutions while they are in office. 
+
+- Par
+
+:::
+
+
+
+## How will Trump be different this time? {background-image="Images/background-news_v2.png" .center}
+
+![](Images/12_3-Trump_2nd_Term.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+How will Trump be different in his second term?
+
+- Jaxx: "Donald Trump’s election victory will return him to the White House, but both his allies and detractors have made clear his second time around will look nothing like the first" (CNN)
+
+- Rian: What this article (PBS) talks about is the transition that lays ahead for Trump and how it will look like. They will need to fill in different jobs and understand the new roles for everyone. It also talks about who will help Trump and his team make this transition easier with the new transition rules that have been put into place. 
+
+:::
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+::: {.r-fit-text}
+**Implications for Health Insurance Coverage?**
+:::
+
+![](Images/12_3-health_insurance.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Millions are at risk of losing health insurance following Trump's election victory, subsidies to buy insurance from the Affordable Care Act Marketplaces are set to expire at the end of 2025. If they're not extended, coverage could become unaffordable for many.
+
+- Kaden
+
+:::
+
+
+
+## Global Implications of Trump (II)? {background-image="Images/background-news_v2.png" .center}
+
+![](Images/12_3-Trump_foreign_policy.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Talks about the hot take that the world didn't vote for Trump, but will have to face the consequences with foreign policy and that will be interesting to see how it all plays out. 
+
+- Reid
+
+It talks about how different countries are responding to Trump being re-elected. [Link](https://www.pbs.org/newshour/politics/how-global-leaders-are-reacting-to-trumps-election-win)
+
+- Evelyn
+
+This essentially talks about all of the plans that trump claimed he will execute if he won the election. I feel like this is a huge opener as to there are multiple topics to talk about if they're reasonable or not. [Link](https://www.atlanticcouncil.org/blogs/new-atlanticist/donald-trump-just-won-the-presidency-our-experts-answer-the-big-questions-about-what-that-means-for-americas-role-in-the-world/)
+
+- Evan
+
+:::
+
+
+
+## Implications of a Republican Senate? {background-image="Images/background-news_v2.png" .center}
+
+![](Images/12_3-Vox_Repub_Senate.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Republican control of the Senate
+
+- Wyatt
+
+:::
+
+
+
+
+
+
+## {background-image="Images/background-news_v2.png" .center}
+
+![](Images/12_3-Assign.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+
 
 <br>
 
@@ -94,6 +272,12 @@ The world is FULL of hot takes right now!
 SLIDE: Next week we start working on your final papers!
 
 :::
+
+
+
+
+
+
 
 
 
